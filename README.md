@@ -1,7 +1,8 @@
 # gobyes
 Collect a couple of gobyes (Go By Examples) repositories to analyse and streamline.
 
-No	github	original	repo
+Here are the links to the original repos:
+
 1.	https://github.com/SimonWaldherr/golang-examples	SimonWaldherr	golang-examples
 2.	https://github.com/codegangsta/essential-go	codegangsta	essential-go
 3.	https://github.com/mkaz/working-with-go	mkaz	working-with-go
