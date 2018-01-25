@@ -23,7 +23,8 @@ Here are the links to the original repos, please star/fork/bookmark:
 Description tbd.
 
 ## 2. agtorre.go-cookbook
-Description tbd.
+13 chapters full of examples and recipes. Find the book for this gobyes here:  
+http://bit.ly/go-cookbook 
 
 ## 3. apress.go-recipes
 Description tbd.
