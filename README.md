@@ -42,7 +42,8 @@ A smart collection of important go lines from around 2015.
 This is official example collection. 
 
 ### 6. golang.tour
-This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go.   https://tour.golang.org/welcome/1
+This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
+https://tour.golang.org/welcome/1
 
 ### 7. iand.gocookbook
 Around 45 go recipes tenderly wrapped into markdown.
