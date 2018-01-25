@@ -17,36 +17,37 @@ Here are the links to the original repos, please star/fork/bookmark:
 8. **mkaz.working-with-go**	https://github.com/mkaz/working-with-go
 9. **mmcgrana.gobyexample**	https://github.com/mmcgrana/gobyexample
 10. **SimonWaldherr.golang-examples**	https://github.com/SimonWaldherr/golang-examples
-
-
-## 1. ae6rt.golang-examples
+  
+  
+  
+### 1. ae6rt.golang-examples
 Description tbd.
 
-## 2. agtorre.go-cookbook
+### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book for this gobyes here:  
 http://bit.ly/go-cookbook 
 
-## 3. apress.go-recipes
+### 3. apress.go-recipes
 Description tbd.
 
-## 4. codegangsta.essential-go
+### 4. codegangsta.essential-go
 Description tbd.
 
-## 5. golang.example
+### 5. golang.example
 Description tbd.
 
-## 6. golang.tour
+### 6. golang.tour
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go.   https://tour.golang.org/welcome/1
 
-## 7. iand.gocookbook
+### 7. iand.gocookbook
 Around 45 go recipes tenderly wrapped into markdown.
 
-## 8. mkaz.working-with-go
+### 8. mkaz.working-with-go
 Description tbd.
 
-## 9. mmcgrana.gobyexample
+### 9. mmcgrana.gobyexample
 The mother of all gobyes. Perfectly edited and made with a lot of passion for the details.  
 https://gobyexample.com/
 
-## 10. SimonWaldherr.golang-examples
+### 10. SimonWaldherr.golang-examples
 Description tbd.
