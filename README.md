@@ -28,10 +28,10 @@ Amzon-Kindle: http://bit.ly/go-prg-in-go (2012)
 
 ### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
-http://bit.ly/go-cookbook (2016)
+
 
 ### 3. apress.go-recipes
-Description tbd.
+http://bit.ly/go-recipes (2016)
 
 ### 4. codegangsta.essential-go
 Description tbd.
