@@ -35,7 +35,7 @@ Description tbd.
 Description tbd.
 
 ## 6. golang.tour
-Description tbd.
+This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go.   https://tour.golang.org/welcome/1
 
 ## 7. iand.gocookbook
 Description tbd.
@@ -44,7 +44,8 @@ Description tbd.
 Description tbd.
 
 ## 9. mmcgrana.gobyexample
-Description tbd.
+The mother of all gobyes. Perfectly edited and made with a lot of passion for the details.  
+https://gobyexample.com/
 
 ## 10. SimonWaldherr.golang-examples
 Description tbd.
