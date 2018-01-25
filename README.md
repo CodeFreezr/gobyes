@@ -38,7 +38,7 @@ http://bit.ly/go-recipes (2016)
 A smart collection of important go lines from around 2015.
 
 ### 5. golang.example
-This is official example collection is 
+This is official example collection. 
 
 ### 6. golang.tour
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go.   https://tour.golang.org/welcome/1
@@ -47,11 +47,11 @@ This is the repo of the of the "A Tour of Go". One of the first thing you have t
 Around 45 go recipes tenderly wrapped into markdown.
 
 ### 8. mkaz.working-with-go
-Description tbd.
+Over 20 well documented code examples, with an extra section for the euler.
 
 ### 9. mmcgrana.gobyexample
 The mother of all gobyes. Perfectly edited and made with a lot of passion for the details.  
 https://gobyexample.com/
 
 ### 10. SimonWaldherr.golang-examples
-Description tbd.
+Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner, advanced & expert.
