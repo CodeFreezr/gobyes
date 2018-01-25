@@ -32,11 +32,11 @@ http://bit.ly/go-agtorre-cookbook (2017)
 
 
 ### 3. apress.go-recipes
-Description tbd
+In 8 chapters and 83 go files your find a wide range a really usefull examples.
 http://bit.ly/go-recipes (2016)
 
 ### 4. codegangsta.essential-go
-A smart collection of important go lines from around 2015.
+A smart collection of 14 important go examples from around 2015.
 
 ### 5. golang.example
 This is official example collection with around 18 bit more complex examples. 
