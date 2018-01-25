@@ -1,15 +1,17 @@
 # gobyes
-Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline.
 
-Here are the links to the original repos:
+Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books and/or spread the words.
 
-1.	**essential-go**	https://github.com/codegangsta/essential-go	codegangsta
-2.	**example**	https://github.com/golang/example	golang
-3.	**gobyexample**	https://github.com/mmcgrana/gobyexample	mmcgrana
-4.	**gocookbook**	https://github.com/iand/gocookbook	iand
-5.	**go-cookbook**	https://github.com/agtorre/go-cookbook	agtorre
-6.	**golang-examples1**	https://github.com/SimonWaldherr/golang-examples	SimonWaldherr
-7.	**golang-examples2**	https://github.com/ae6rt/golang-examples	ae6rt
-8.	**go-recipes**	https://github.com/Apress/go-recipes	apress
-9.	**tour**	https://github.com/golang/tour	golang
-10	**working-with-go**	https://github.com/mkaz/working-with-go	mkaz
+Here are the links to the original repos, please star/fork/bookmark:
+
+
+1. **ae6rt.golang-examples**	https://github.com/ae6rt/golang-examples
+2. **agtorre.go-cookbook**	https://github.com/agtorre/go-cookbook
+3. **apress.go-recipes**	https://github.com/Apress/go-recipes
+4. **codegangsta.essential-go**	https://github.com/codegangsta/essential-go
+5. **golang.example**	https://github.com/golang/example
+6. **golang.tour**	https://github.com/golang/tour
+7. **iand.gocookbook**	https://github.com/iand/gocookbook
+8. **mkaz.working-with-go**	https://github.com/mkaz/working-with-go
+9. **mmcgrana.gobyexample**	https://github.com/mmcgrana/gobyexample
+10. **SimonWaldherr.golang-examples**	https://github.com/SimonWaldherr/golang-examples
