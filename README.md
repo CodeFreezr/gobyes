@@ -55,4 +55,4 @@ The mother of all gobyes. Perfectly edited and made with a lot of passion for th
 https://gobyexample.com/
 
 ### 10. SimonWaldherr.golang-examples
-Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner, advanced & expert.
+Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).
