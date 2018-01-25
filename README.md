@@ -39,7 +39,7 @@ http://bit.ly/go-recipes (2016)
 A smart collection of important go lines from around 2015.
 
 ### 5. golang.example
-This is official example collection. 
+This is official example collection with around 18 bit more complex examples. 
 
 ### 6. golang.tour
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
