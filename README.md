@@ -38,7 +38,7 @@ Description tbd.
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go.   https://tour.golang.org/welcome/1
 
 ## 7. iand.gocookbook
-Description tbd.
+Around 45 go recipes tenderly wrapped into markdown.
 
 ## 8. mkaz.working-with-go
 Description tbd.
