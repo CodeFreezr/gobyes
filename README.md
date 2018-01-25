@@ -17,17 +17,18 @@ Here are the links to the original repos, please star/fork/bookmark:
 8. **mkaz.working-with-go**	https://github.com/mkaz/working-with-go
 9. **mmcgrana.gobyexample**	https://github.com/mmcgrana/gobyexample
 10. **SimonWaldherr.golang-examples**	https://github.com/SimonWaldherr/golang-examples
-  
+
 </br>  
 </br>  
 </br>  
-  
+
 ### 1. ae6rt.golang-examples
-Description tbd.
+This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder.  
+Amzon-Kindle: http://bit.ly/go-prg-in-go (2012)
 
 ### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
-http://bit.ly/go-cookbook 
+http://bit.ly/go-cookbook (2016)
 
 ### 3. apress.go-recipes
 Description tbd.
