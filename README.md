@@ -1,5 +1,7 @@
 # gobyes
 
+![Alt text](.res/gobyes.png?raw=true "Title")
+
 Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books and/or spread the words.
 
 Here are the links to the original repos, please star/fork/bookmark:
