@@ -51,7 +51,7 @@ Around 45 go recipes tenderly wrapped into markdown.
 Over 20 well documented code examples, with an extra section for the euler.
 
 ### 9. mmcgrana.gobyexample
-The mother of all gobyes. Perfectly edited and made with a lot of passion for the details.  
+The mother of all gobyes. 65 pieces perfectly edited and made with a lot of passion for the details.  
 https://gobyexample.com/
 
 ### 10. SimonWaldherr.golang-examples
