@@ -32,6 +32,7 @@ http://bit.ly/go-agtorre-cookbook (2017)
 
 
 ### 3. apress.go-recipes
+Description tbd
 http://bit.ly/go-recipes (2016)
 
 ### 4. codegangsta.essential-go
