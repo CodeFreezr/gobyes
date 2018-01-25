@@ -1,8 +1,8 @@
 # gobyes
 
-![Alt text](.res/gobyes.png?raw=true "Title")
+![Alt text](.res/gobyes.png?raw=true "Gobye Gophers")
 
-Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books and/or spread the words.
+Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference and/or spread the words.
 
 Here are the links to the original repos, please star/fork/bookmark:
 
@@ -17,3 +17,34 @@ Here are the links to the original repos, please star/fork/bookmark:
 8. **mkaz.working-with-go**	https://github.com/mkaz/working-with-go
 9. **mmcgrana.gobyexample**	https://github.com/mmcgrana/gobyexample
 10. **SimonWaldherr.golang-examples**	https://github.com/SimonWaldherr/golang-examples
+
+
+## 1. ae6rt.golang-examples
+Description tbd.
+
+## 2. agtorre.go-cookbook
+Description tbd.
+
+## 3. apress.go-recipes
+Description tbd.
+
+## 4. codegangsta.essential-go
+Description tbd.
+
+## 5. golang.example
+Description tbd.
+
+## 6. golang.tour
+Description tbd.
+
+## 7. iand.gocookbook
+Description tbd.
+
+## 8. mkaz.working-with-go
+Description tbd.
+
+## 9. mmcgrana.gobyexample
+Description tbd.
+
+## 10. SimonWaldherr.golang-examples
+Description tbd.
