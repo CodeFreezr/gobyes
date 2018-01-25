@@ -24,7 +24,7 @@ Here are the links to the original repos, please star/fork/bookmark:
 
 ### 1. ae6rt.golang-examples
 This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder.  
-Amzon-Kindle: http://bit.ly/go-prg-in-go (2012)
+Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)
 
 ### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
