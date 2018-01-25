@@ -28,16 +28,17 @@ Amzon-Kindle: http://bit.ly/go-prg-in-go (2012)
 
 ### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
+http://bit.ly/go-agtorre-cookbook (2017)
 
 
 ### 3. apress.go-recipes
 http://bit.ly/go-recipes (2016)
 
 ### 4. codegangsta.essential-go
-Description tbd.
+A smart collection of important go lines from around 2015.
 
 ### 5. golang.example
-Description tbd.
+This is official example collection is 
 
 ### 6. golang.tour
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go.   https://tour.golang.org/welcome/1
