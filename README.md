@@ -7,16 +7,16 @@ Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and s
 Here are the links to the original repos, please star/fork/bookmark:
 
 <ol>
-<li>**ae6rt.golang-examples**	https://github.com/ae6rt/golang-examples</li>
-<li>**agtorre.go-cookbook**	https://github.com/agtorre/go-cookbook</li>
-<li>**apress.go-recipes**	https://github.com/Apress/go-recipes</li>
-<li>**codegangsta.essential-go**	https://github.com/codegangsta/essential-go</li>
-<li>**golang.example**	https://github.com/golang/example</li>
-<li>**golang.tour**	https://github.com/golang/tour</li>
-<li>**iand.gocookbook**	https://github.com/iand/gocookbook</li>
-<li>**mkaz.working-with-go**	https://github.com/mkaz/working-with-go</li>
-<li>**mmcgrana.gobyexample**	https://github.com/mmcgrana/gobyexample</li>
-<li>**SimonWaldherr.golang-examples**	https://github.com/SimonWaldherr/golang-examples</li>
+  <li><b>ae6rt.golang-examples</b>	https://github.com/ae6rt/golang-examples</li>
+  <li><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
+  <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
+  <li><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
+  <li><b>golang.example</b>	https://github.com/golang/example</li>
+  <li><b>golang.tour</b>	https://github.com/golang/tour</li>
+  <li><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
+  <li><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
+  <li><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
+  <li><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
   
 </br>  
