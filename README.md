@@ -29,7 +29,7 @@ Here are the links to the original repos, please star/fork/bookmark:
 This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder and 8 Chapters.  
 Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)  
 Playable via readme.md folder inside: [ae6rt.golang-examples](ae6rt.golang-examples/goeg/src)  
-<img src=".res/cover-ProgrammingInGo.jpg" width="200">
+<img src=".res/covers/cover-ProgrammingInGo.jpg" width="200">
 
 
 ### 2. agtorre.go-cookbook
