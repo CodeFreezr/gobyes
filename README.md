@@ -26,6 +26,9 @@ Here are the links to the original repos, please star/fork/bookmark:
 This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder.  
 Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)
 
+<img src=".res/cover-ProgrammingInGo.jpg" width="100">
+
+
 ### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)
