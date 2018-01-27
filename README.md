@@ -42,25 +42,30 @@ http://bit.ly/go-agtorre-cookbook (2017)
 In 8 chapters and 83 go files your find a wide range a really usefull examples.
 http://bit.ly/go-recipes (2016)
 
-### 4. codegangsta.essential-go
+### 4. chisnall.phrasebook
+Excellent sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
+<img src=".res/covers/GoProgrammingPhrasebook.jpg" width="200">
+
+
+### 5. codegangsta.essential-go
 A smart collection of 14 important go examples from around 2015.
 
-### 5. golang.example
+### 6. golang.example
 This is official example collection with around 18 bit more complex examples. 
 
-### 6. golang.tour
+### 7. golang.tour
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1
 
-### 7. iand.gocookbook
+### 8. iand.gocookbook
 Around 45 go recipes tenderly wrapped into markdown.
 
-### 8. mkaz.working-with-go
+### 9. mkaz.working-with-go
 Over 20 well documented code examples, with an extra section for the euler.
 
-### 9. mmcgrana.gobyexample
+### 10. mmcgrana.gobyexample
 The mother of all gobyes. 65 pieces perfectly edited and made with a lot of passion for the details.  
 https://gobyexample.com/
 
-### 10. SimonWaldherr.golang-examples
+### 11. SimonWaldherr.golang-examples
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).
