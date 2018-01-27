@@ -62,14 +62,18 @@ https://tour.golang.org/welcome/1
 </br>  
 
 ### 8. iand.gocookbook
-Around 45 go recipes tenderly wrapped into markdown.
+Around 45 go recipes tenderly wrapped into markdown.  
+</br>  
 
 ### 9. mkaz.working-with-go
-Over 20 well documented code examples, with an extra section for the euler.
+Over 20 well documented code examples, with an extra section for the euler.  
+</br>  
 
 ### 10. mmcgrana.gobyexample
 The mother of all gobyes. 65 pieces perfectly edited and made with a lot of passion for the details.  
-https://gobyexample.com/
+https://gobyexample.com/  
+</br>  
 
 ### 11. SimonWaldherr.golang-examples
-Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).
+Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
+</br>  
