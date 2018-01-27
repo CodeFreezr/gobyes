@@ -4,12 +4,13 @@
 
 Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference or spread the words.
 
-Here are the links to the original repos, please star/fork/bookmark:
+Here are the links to the original repos or homepages, please star/fork/bookmark:
 
 <ol>
   <li><b>ae6rt.golang-examples</b>	https://github.com/ae6rt/golang-examples</li>
   <li><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
+  <li><b>chisnall.phrasebook</b> http://bit.ly/go-phrasebook (google-books)</li>
   <li><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><b>golang.example</b>	https://github.com/golang/example</li>
   <li><b>golang.tour</b>	https://github.com/golang/tour</li>
