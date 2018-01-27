@@ -5,10 +5,10 @@
 <a href="https://play.golang.org/p/hsOTDnRpKCo">badStyleImport.go</a>  
 <a href="https://play.golang.org/p/RWAA2in8-lq">break.go</a>  
 <!-- <a href="https://play.golang.org/p/TaxOoWnMAWh">calc.go</a>-->    
-<a href="https://play.golang.org/p/G_kOyW5V8zO">cast.go</a>  
-<a href="https://play.golang.org/p/Ber4N-yeRu2">cgo.go</a>  
+<!-- <a href="https://play.golang.org/p/G_kOyW5V8zO">cast.go</a>-->    
+<!-- <a href="https://play.golang.org/p/Ber4N-yeRu2">cgo.go</a>-->
 <a href="https://play.golang.org/p/9XlrhGYcOYs">chan.go</a>  
-<a href="https://play.golang.org/p/OIqS5okwNfE">chanclient.go</a>  
+<!-- <a href="https://play.golang.org/p/OIqS5okwNfE">chanclient.go</a> -->    
 <a href="https://play.golang.org/p/L9Vg970jdA4">chanserver.go</a>  
 <a href="https://play.golang.org/p/R-FXAcpmVkl">client.go</a>  
 <a href="https://play.golang.org/p/dkm2Pn8WGQz">compareStrings.go</a>  
