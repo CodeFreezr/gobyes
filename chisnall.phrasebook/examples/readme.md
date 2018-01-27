@@ -1,6 +1,6 @@
 # examples  
 
-<a href="https://play.golang.org/p/v7e9gBP1NO5">array.go</a>  
+<!-- <a href="https://play.golang.org/p/v7e9gBP1NO5">array.go</a>  -->
 <a href="https://play.golang.org/p/TmJ0BJA0Btc">arrayAssign.go</a>  
 <a href="https://play.golang.org/p/hsOTDnRpKCo">badStyleImport.go</a>  
 <a href="https://play.golang.org/p/RWAA2in8-lq">break.go</a>  
