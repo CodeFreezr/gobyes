@@ -4,7 +4,7 @@
 <a href="https://play.golang.org/p/TmJ0BJA0Btc">arrayAssign.go</a>  
 <a href="https://play.golang.org/p/hsOTDnRpKCo">badStyleImport.go</a>  
 <a href="https://play.golang.org/p/RWAA2in8-lq">break.go</a>  
-<a href="https://play.golang.org/p/TaxOoWnMAWh">calc.go</a>  
+<!-- <a href="https://play.golang.org/p/TaxOoWnMAWh">calc.go</a>-->    
 <a href="https://play.golang.org/p/G_kOyW5V8zO">cast.go</a>  
 <a href="https://play.golang.org/p/Ber4N-yeRu2">cgo.go</a>  
 <a href="https://play.golang.org/p/9XlrhGYcOYs">chan.go</a>  
