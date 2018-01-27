@@ -29,33 +29,37 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 ### 1. ae6rt.golang-examples
 This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder and 8 Chapters.  
 Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)  
-Playable via readme.md folder inside: [ae6rt.golang-examples](ae6rt.golang-examples/goeg/src)  
+<!-- Playable via readme.md folder inside: [ae6rt.golang-examples](ae6rt.golang-examples/goeg/src)-->  
 <img src=".res/covers/cover-ProgrammingInGo.jpg" width="200">
-
+</br>  
 
 ### 2. agtorre.go-cookbook
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
-http://bit.ly/go-agtorre-cookbook (2017)
-
+http://bit.ly/go-agtorre-cookbook (2017)  
+</br>  
 
 ### 3. apress.go-recipes
 In 8 chapters and 83 go files your find a wide range a really usefull examples.
-http://bit.ly/go-recipes (2016)
+http://bit.ly/go-recipes (2016)  
+</br>  
 
 ### 4. chisnall.phrasebook
 Excellent sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
-<img src=".res/covers/GoProgrammingPhrasebook.jpg" width="200">
-
+<img src=".res/covers/GoProgrammingPhrasebook.jpg" width="200">  
+</br>  
 
 ### 5. codegangsta.essential-go
-A smart collection of 14 important go examples from around 2015.
+A smart collection of 14 important go examples from around 2015.  
+</br>  
 
 ### 6. golang.example
-This is official example collection with around 18 bit more complex examples. 
+This is official example collection with around 18 bit more complex examples.  
+</br>  
 
 ### 7. golang.tour
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
-https://tour.golang.org/welcome/1
+https://tour.golang.org/welcome/1  
+</br>  
 
 ### 8. iand.gocookbook
 Around 45 go recipes tenderly wrapped into markdown.
