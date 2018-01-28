@@ -27,6 +27,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 </br>  
 
 ### 1. ae6rt.golang-examples
+[![Go Report Card](https://goreportcard.com/badge/github.com/ae6rt/golang-examples)](https://goreportcard.com/report/github.com/ae6rt/golang-examples)  
 This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder and 8 Chapters.  
 Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)  
 <!-- Playable via readme.md folder inside: [ae6rt.golang-examples](ae6rt.golang-examples/goeg/src)-->  
