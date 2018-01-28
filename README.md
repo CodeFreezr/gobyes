@@ -47,19 +47,22 @@ http://bit.ly/go-recipes (2016)
 </br>  
 
 ### 4. chisnall.phrasebook
-Excellent sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
+Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
 <img src=".res/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
 
 ### 5. codegangsta.essential-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
 A smart collection of 14 important go examples from around 2015.  
 </br>  
 
 ### 6. golang.example
+[![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
 This is official example collection with around 18 bit more complex examples.  
 </br>  
 
 ### 7. golang.tour
+[![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1  
 </br>  
