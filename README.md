@@ -7,7 +7,6 @@ Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and s
 Here are the links to the original repos or homepages, please star/fork/bookmark:
 
 <ol>
-  <li><b>ae6rt.golang-examples</b>	https://github.com/ae6rt/golang-examples</li>
   <li><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
   <li><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
@@ -24,14 +23,6 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 Overall: [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes)  
 </br>  
 </br>  
-</br>  
-
-### 1. ae6rt.golang-examples
-[![Go Report Card](https://goreportcard.com/badge/github.com/ae6rt/golang-examples)](https://goreportcard.com/report/github.com/ae6rt/golang-examples)  
-This are the repo of the book "Programming in Go" by Mark Summerfield. 101 Go-Files in 66 Folder and 8 Chapters.  
-Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)  
-<!-- Playable via readme.md folder inside: [ae6rt.golang-examples](ae6rt.golang-examples/goeg/src)-->  
-<img src=".res/covers/cover-ProgrammingInGo.jpg" width="200">
 </br>  
 
 ### 2. agtorre.go-cookbook
