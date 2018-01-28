@@ -70,7 +70,7 @@ https://tour.golang.org/welcome/1
 
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
-Around 45 go recipes tenderly wrapped into markdown.  
+Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
 </br>  
 </br>  
 
