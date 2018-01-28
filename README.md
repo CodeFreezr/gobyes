@@ -28,9 +28,11 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 </br>  
 </br>  
 </br>  
-
+  
 ### adonovan.gopl
-tbd.
+[![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
+</br>  
+</br>  
 
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
