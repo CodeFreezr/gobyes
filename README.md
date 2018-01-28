@@ -31,12 +31,14 @@ Overall: [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr
 http://bit.ly/go-agtorre-cookbook (2017)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">
 </br>  
+</br>  
 
 ### apress.go-recipes
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
 In 8 chapters and 83 go files your find a wide range a really usefull examples.  
 http://bit.ly/go-recipes (2016)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">
+</br>  
 </br>  
 
 ### chisnall.phrasebook
@@ -45,15 +47,18 @@ http://bit.ly/go-phrasebook (google-books)
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
+</br>  
 
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
 A smart collection of 14 important go examples from around 2015.  
 </br>  
+</br>  
 
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
 This is official example collection with around 18 bit more complex examples.  
+</br>  
 </br>  
 
 ### golang.tour
@@ -61,9 +66,11 @@ This is official example collection with around 18 bit more complex examples.
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1  
 </br>  
+</br>  
 
 ### iand.gocookbook
 Around 45 go recipes tenderly wrapped into markdown.  
+</br>  
 </br>  
 
 ### mkaz.working-with-go
