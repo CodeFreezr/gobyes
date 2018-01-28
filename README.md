@@ -21,7 +21,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 </ol>
 
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes)  
+Overall: [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes)  
 </br>  
 </br>  
 </br>  
@@ -35,11 +35,13 @@ Amazon-Kindle: http://bit.ly/go-prg-in-go (2012)
 </br>  
 
 ### 2. agtorre.go-cookbook
+[![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)  
 </br>  
 
 ### 3. apress.go-recipes
+[![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
 In 8 chapters and 83 go files your find a wide range a really usefull examples.
 http://bit.ly/go-recipes (2016)  
 </br>  
