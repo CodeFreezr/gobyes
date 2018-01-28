@@ -20,7 +20,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 </ol>
 
 
-Overall: [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
 </br>  
 </br>  
 </br>  
@@ -69,19 +69,26 @@ https://tour.golang.org/welcome/1
 </br>  
 
 ### iand.gocookbook
+[![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
 Around 45 go recipes tenderly wrapped into markdown.  
 </br>  
 </br>  
 
 ### mkaz.working-with-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
 Over 20 well documented code examples, with an extra section for the euler.  
+</br>  
 </br>  
 
 ### mmcgrana.gobyexample
+[![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
 The mother of all gobyes. 65 pieces perfectly edited and made with a lot of passion for the details.  
 https://gobyexample.com/  
 </br>  
+</br>  
 
 ### SimonWaldherr.golang-examples
+[![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
+</br>  
 </br>  
