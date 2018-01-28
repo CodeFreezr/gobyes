@@ -10,7 +10,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   <li><b>ae6rt.golang-examples</b>	https://github.com/ae6rt/golang-examples</li>
   <li><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
-  <li><b>chisnall.phrasebook</b> http://bit.ly/go-phrasebook (google-books)</li>
+  <li><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
   <li><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><b>golang.example</b>	https://github.com/golang/example</li>
   <li><b>golang.tour</b>	https://github.com/golang/tour</li>
@@ -48,6 +48,7 @@ http://bit.ly/go-recipes (2016)
 
 ### 4. chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
+http://bit.ly/go-phrasebook (google-books)  
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
 <img src=".res/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
