@@ -48,6 +48,7 @@ gopath.sh or gopath.bat for more information.
 Here is the list of programs and packages referred to in the book
 grouped by chapter:
 
+
 Chapter 1: An Overview in Five Examples
     hello
     bigdigits
