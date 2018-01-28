@@ -21,7 +21,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 </ol>
 
 
-  
+[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes)  
 </br>  
 </br>  
 </br>  
