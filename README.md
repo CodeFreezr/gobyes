@@ -7,15 +7,20 @@ Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and s
 Here are the links to the original repos or homepages, please star/fork/bookmark:
 
 <ol>
+  <li><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫🆕💫</li>  
   <li><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
   <li><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
   <li><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><b>golang.example</b>	https://github.com/golang/example</li>
   <li><b>golang.tour</b>	https://github.com/golang/tour</li>
+  <li><b>hermant.data-structure-algorithm-in-go</b>  https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go 💫🆕💫</li>  
   <li><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
+  <li><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫🆕💫</li>  
   <li><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
   <li><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
+  <li><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 💫🆕💫</li>
+  <li><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 💫🆕💫</li>  
   <li><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
 
