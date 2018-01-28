@@ -43,8 +43,8 @@ http://bit.ly/go-recipes (2016)
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
-http://bit.ly/go-phrasebook (google-books)  
-Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
+http://bit.ly/go-phrasebook (2012)  
+Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
 </br>  
