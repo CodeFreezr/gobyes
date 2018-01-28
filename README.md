@@ -24,11 +24,13 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   <li><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
 
-
 [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
 </br>  
 </br>  
 </br>  
+
+### adonovan.gopl
+tbd.
 
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
@@ -73,9 +75,19 @@ https://tour.golang.org/welcome/1
 </br>  
 </br>  
 
+### hermant.data-structure-algorithm-in-go
+tbd.  
+</br>  
+</br>  
+
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
 Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+</br>  
+</br>  
+
+### masterminds.go-in-practice
+tbd.  
 </br>  
 </br>  
 
@@ -89,6 +101,16 @@ Over 20 well documented code examples, with an extra section for the euler.
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
 65 go examples.
 https://gobyexample.com/  
+</br>  
+</br>  
+
+### nathany.get-programming-with-go
+tbd.
+</br>  
+</br>  
+
+### shapeshed.go-in-24
+tbd.
 </br>  
 </br>  
 
