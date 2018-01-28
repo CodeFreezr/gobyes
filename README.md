@@ -1,6 +1,6 @@
 # gobyes
 
-![Alt text](.res/gobyes.png?raw=true "Gobye Gophers")
+![Alt text](resources/gobyes.png?raw=true "Gobye Gophers")
 
 Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference or spread the words.
 
@@ -29,19 +29,21 @@ Overall: [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)  
+<img src="resources/covers/packt-go_cookbook.png" width="200">
 </br>  
 
 ### apress.go-recipes
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
-In 8 chapters and 83 go files your find a wide range a really usefull examples.
+In 8 chapters and 83 go files your find a wide range a really usefull examples.  
 http://bit.ly/go-recipes (2016)  
+<img src="resources/covers/Apress-GoRecipes.jpg" width="200">
 </br>  
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
 http://bit.ly/go-phrasebook (google-books)  
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall (2012).  
-<img src=".res/covers/GoProgrammingPhrasebook.jpg" width="200">  
+<img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
 
 ### codegangsta.essential-go
