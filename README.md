@@ -82,7 +82,7 @@ Over 20 well documented code examples, with an extra section for the euler.
 
 ### mmcgrana.gobyexample
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
-The mother of all gobyes. 65 pieces perfectly edited and made with a lot of passion for the details.  
+65 go examples.
 https://gobyexample.com/  
 </br>  
 </br>  
