@@ -90,7 +90,7 @@ Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analy
 </br>  
 
 ### masterminds.go-in-practice
-[![Go Report Card](https://goreportcard.com/badge/github.com/)](https://goreportcard.com/report/github.com/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
 tbd.  
 </br>  
 </br>  
