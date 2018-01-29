@@ -110,7 +110,7 @@ https://gobyexample.com/
 </br>  
   
 ### nathany.get-programming-with-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/)](https://goreportcard.com/report/github.com/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
 tbd.  
 </br>  
 </br>  
