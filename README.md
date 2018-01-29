@@ -60,15 +60,15 @@ http://bit.ly/go-recipes (2016)
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
 <a href="corpus/chissnall.phrasebook">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
-<img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 http://bit.ly/go-phrasebook (2012)  
+<img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
-<a href="corpus/adonovan.gopl">▶️</a> A smart collection of 14 important go examples from around 2015.  
+<a href="corpus/codegangsta.essential-go">▶️</a> A smart collection of 14 important go examples from around 2015.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
