@@ -93,14 +93,14 @@ https://tour.golang.org/welcome/1
 
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
-<a href="corpus/adonovan.gopl">▶️</a> Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+<a href="corpus/iand.gocookbook">▶️</a> Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### masterminds.go-in-practice
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
-<a href="corpus/adonovan.gopl">▶️</a>  Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.  
+<a href="corpus/masterminds.go-in-practice">▶️</a>  Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.  
 https://www.manning.com/books/go-in-practice (2016)  
 <img src="resources/covers/Butcher-GoinP-HI.png.jpg" width="200">  
 </br>  
