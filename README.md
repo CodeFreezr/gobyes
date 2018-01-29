@@ -13,7 +13,7 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
 
 
 <ol>
-  <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
+  <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 🆕</li>  
   <li><a href="#agtorrego-cookbook">⏩</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><a href="#apressgo-recipes">⏩</a><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
   <li><a href="#chisnallphrasebook">⏩</a><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
@@ -21,11 +21,11 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
   <li><a href="#golangexample">⏩</a><b>golang.example</b>	https://github.com/golang/example</li>
   <li><a href="#golangtour">⏩</a><b>golang.tour</b>	https://github.com/golang/tour</li>
   <li><a href="#iandgocookbook">⏩</a><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
-  <li><a href="#mastermindsgo-in-practice">⏩</a><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫</li>  
+  <li><a href="#mastermindsgo-in-practice">⏩</a><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 🆕</li>  
   <li><a href="#mkazworking-with-go">⏩</a><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
   <li><a href="#mmcgranagobyexample">⏩</a><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
-  <li><a href="#nathanyget-programming-with-go">⏩</a><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 💫</li>
-  <li><a href="#shapeshedgo-in-24">⏩</a><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 💫</li>  
+  <li><a href="#nathanyget-programming-with-go">⏩</a><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 🆕</li>
+  <li><a href="#shapeshedgo-in-24">⏩</a><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 🆕</li>  
   <li><a href="#SimonWaldherrgolang-examples">⏩</a><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
 
