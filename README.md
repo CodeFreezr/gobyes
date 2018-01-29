@@ -9,6 +9,9 @@ Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and s
 Here are the links to the original repos or homepages, please star/fork/bookmark:
 </br>  
 
+
+
+
 <ol>
   <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
   <li><a href="#agtorrego-cookbook">⏩</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
@@ -59,7 +62,7 @@ http://bit.ly/go-recipes (2016)
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
-<a href="corpus/chissnall.phrasebook">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
+<a href="corpus/chisnall.phrasebook/examples/">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
 http://bit.ly/go-phrasebook (2012)  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
