@@ -41,7 +41,7 @@ http://www.gopl.io/ (2015)
 
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
-13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
+<a href="corpus/adonovan.gopl">▶️</a> 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">
 </br>  
@@ -50,7 +50,7 @@ http://bit.ly/go-agtorre-cookbook (2017)
 
 ### apress.go-recipes
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
-In 8 chapters and 83 go files your find a wide range a really usefull examples.  
+<a href="corpus/adonovan.gopl">▶️</a> In 8 chapters and 83 go files your find a wide range a really usefull examples.  
 http://bit.ly/go-recipes (2016)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">
 </br>  
@@ -59,30 +59,30 @@ http://bit.ly/go-recipes (2016)
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
-http://bit.ly/go-phrasebook (2012)  
-Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
+<a href="corpus/adonovan.gopl">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
+http://bit.ly/go-phrasebook (2012)  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
-A smart collection of 14 important go examples from around 2015.  
+<a href="corpus/adonovan.gopl">▶️</a> A smart collection of 14 important go examples from around 2015.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
-This is official example collection with around 18 bit more complex examples.  
+<a href="corpus/adonovan.golang.example">▶️</a> This is the official example collection with around 18 bit more complex examples.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### golang.tour
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
-This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
+<a href="corpus/adonovan.golang.tour">▶️</a> This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1  
 </br>  
 </br>  
