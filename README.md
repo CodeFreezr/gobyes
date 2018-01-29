@@ -32,6 +32,9 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   
 ### adonovan.gopl
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
+Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan. 
+http://www.gopl.io/ (2015)  
+<img src="resources/covers/gobs.png" width="200">
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
