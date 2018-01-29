@@ -10,46 +10,63 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
 </br>  
 
 
-xusiwei.learn-golang  
-mshindle.tidbits  
-cmu440.intro-to-go  
-kat.concurrency-go  
-miek.learningo  
-<li><a href="#golangtour">⏩</a><b>golang.tour</b>	</li>  
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <ol>
   <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
   <li><a href="#agtorrego-cookbook">⏩</a><b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#apressgo-recipes">⏩</a><b>apress.go-recipes</b>	<a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#chisnallphrasebook">⏩</a><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
+  <li><a href="#cmu440intro-to-go">⏩</a><b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
   <li><a href="#codegangstaessential-go">⏩</a><b>codegangsta.essential-go</b>	<a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangexample">⏩</a><b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangtour">⏩</a><b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#iandgocookbook">⏩</a><b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#katconcurrency-go">⏩</a><b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
   <li><a href="#mastermindsgo-in-practice">⏩</a><b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>  
+  <li><a href="#mieklearningo">⏩</a><b>miek.learningo</b>	<a href="https://github.com/miekg/learninggo"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
   <li><a href="#mkazworking-with-go">⏩</a><b>mkaz.working-with-go</b>	<a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#mmcgranagobyexample">⏩</a><b>mmcgrana.gobyexample</b>	<a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#mshindletidbits">⏩</a><b>mshindle.tidbits</b>	<a href="https://github.com/mshindle/tidbits"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
   <li><a href="#nathanyget-programming-with-go">⏩</a><b>nathany.get-programming-with-go</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#shapeshedgo-in-24">⏩</a><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="resources/github-sociocon.png" width="18"></a></li>  
   <li><a href="#simonWaldherr.golang-examples">⏩</a><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#xusiwei.learn-golang">⏩</a><b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
 </ol>
+
+
+### cmu440.intro-to-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
+<a href="corpus/cmu440.intro-to-go">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
+### kat.concurrency-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)  
+<a href="corpus/kat.concurrency-go">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
+### miek.learningo
+[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)  
+<a href="corpus/miek.learningo">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
+### mshindle.tidbits
+[![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)  
+<a href="corpus/mshindle.tidbits">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
+### xusiwei.learn-golang
+[![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo)  
+<a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
 
 
 </br>  
