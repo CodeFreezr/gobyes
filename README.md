@@ -62,20 +62,21 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
 </br>  
-⏫  
+<a href="#gobyes">⏫</a>  
 
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
 A smart collection of 14 important go examples from around 2015.  
 </br>  
 </br>  
-⏫  
+<a href="#gobyes">⏫</a>  
 
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
 This is official example collection with around 18 bit more complex examples.  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
 ### golang.tour
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
@@ -83,24 +84,28 @@ This is the repo of the of the "A Tour of Go". One of the first thing you have t
 https://tour.golang.org/welcome/1  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
 ### hermant.data-structure-algo
 [![Go Report Card](https://goreportcard.com/badge/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go)](https://goreportcard.com/report/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go) 
 tbd.  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
 Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
 ### masterminds.go-in-practice
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
 tbd.  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
 ### mkaz.working-with-go
 tbd.
@@ -108,6 +113,7 @@ tbd.
 Over 20 well documented code examples, with an extra section for the euler.  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
 ### mmcgrana.gobyexample
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
@@ -115,18 +121,21 @@ Over 20 well documented code examples, with an extra section for the euler.
 https://gobyexample.com/  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
   
 ### nathany.get-programming-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
 tbd.  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
   
 ### shapeshed.go-in-24
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
 tbd.   
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
   
 ### SimonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
@@ -168,19 +177,5 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 </br>  
 </br>  
 </br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
+
 ### End-of-Page  
