@@ -11,25 +11,21 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 
 
 
-<a href="#iandgocookbook">👁️</a>  
-
-...  
-[👁️](#iandgocookbook)
-[👁️](#iandgocookbook)
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-👁️  
-
-
-
+<a href="#adonovangopl">👁️</a>
+<a href="#agtorrego-cookbook">👁️</a>
+<a href="#apressgo-recipes">👁️</a>
+<a href="#chisnall.phrasebook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
+<a href="#iandgocookbook">👁️</a>
 
 
 <ol>
