@@ -9,11 +9,12 @@ Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and s
 Here are the links to the details (⏩) and the original repos or homepages, please star/fork/bookmark:
 </br>  
 
+<img src="resources/GitHub.png" width="16">
 
 
 
 <ol>
-  <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 🆕</li>  
+  <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="20"></a></li> 
   <li><a href="#agtorrego-cookbook">⏩</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><a href="#apressgo-recipes">⏩</a><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
   <li><a href="#chisnallphrasebook">⏩</a><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
