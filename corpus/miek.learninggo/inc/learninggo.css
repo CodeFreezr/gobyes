@@ -1,0 +1,188 @@
+@import url("orderedlist-minimal.css");
+@import url("prism-bold.css");
+
+nav {
+    background-color: #f8f8f8;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 3px 3px -1px rgba(0, 0, 0, 0.055);
+    color: black;
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    display: block;
+    text-align: center;
+    z-index: 5;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+nav > ul > li > a {
+    display: block;
+    line-height: 4em;
+    padding: 0 24px;
+    text-decoration: none;
+}
+
+nav > ul > li:hover {}
+
+nav > ul > li:hover > a {
+    text-decoration: underline;
+}
+
+h1.title {
+    text-align: center;
+    font-size: 42pt;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+}
+
+.header-link {
+    position: absolute;
+    font-size: 14pt;
+    left: 30px;
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out 0.1s;
+    color: black;
+}
+
+/* http://ben.balter.com/2014/03/13/pages-anchor-links/ */
+h1:hover .header-link,
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+    opacity: 1;
+}
+
+.book {
+    width: 90%;
+}
+
+h1 {
+    padding-bottom: 2em;
+    font-size: 3em;
+    border-top: 1px solid #e5e5e5;
+    padding-top: 1em;
+}
+
+blockquote.epigraph {
+    text-align: right;
+    border-left: none;
+    padding-bottom: 2em;
+}
+
+.epigraph p {
+    padding-left: 40%;
+    text-align: right;
+}
+
+.epigraph footer {
+    font-style: italic;
+    text-align: right;
+}
+
+.epigraph hr {
+    margin-left: 50%;
+    width: 50%;
+}
+
+.epigraph > ul {
+    /* bullets are misplaced, remove them all together,
+     * looks nicer too
+     */
+    list-style-type: none;
+    text-align: right;
+}
+
+.epigraph > ul > li {
+    text-align: right;
+}
+
+.epigraph footer span.quote-who {
+    font-style: normal;
+    font-variant: small-caps;
+}
+
+.epigraph footer span.quote-who::before {
+    content: "\a";
+    white-space: pre;
+}
+
+span.index-ref-secondary::before {
+    content: "\a    ";
+    white-space: pre;
+}
+
+span.index-ref-secondary {
+    padding-left: 2em;
+}
+
+span.index-ref-primary {
+    position: relative;
+    left: -0.5em;
+    font-style: italic;
+}
+
+span.index-ref-primary::before {
+    content: "\a    ";
+    white-space: pre;
+}
+
+h3.index-ref-char {
+    padding-top: 1em;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+span.callout {
+    font-size: x-small;
+    font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+    height: 1.3em;
+    width: 1.2em;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    background: black;
+    color: white;
+}
+
+a.cite {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    top: -0.5em;
+}
+
+ol.bibliography {
+    counter-reset: cite;
+    list-style-type: none;
+}
+
+li.bibliography:before {
+    content: "[" counter(cite) "] ";
+    counter-increment: cite;
+}
+
+.closed:before {
+    content: "▷ ";
+    color: #0000EE;
+    margin-right: 6px;
+}
+
+.open:before {
+    content: "▽ ";
+    color: #0000EE;
+    margin-right: 6px;
+}
