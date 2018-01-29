@@ -35,7 +35,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
 </br>  
 </br>  
-⏫  
+<a href="#gobyes">⏫</a>  
 
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
@@ -44,7 +44,7 @@ http://bit.ly/go-agtorre-cookbook (2017)
 <img src="resources/covers/packt-go_cookbook.png" width="200">
 </br>  
 </br>  
-⏫  
+<a href="#gobyes">⏫</a>  
 
 ### apress.go-recipes
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
@@ -53,7 +53,7 @@ http://bit.ly/go-recipes (2016)
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">
 </br>  
 </br>  
-⏫  
+<a href="#gobyes">⏫</a>  
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
