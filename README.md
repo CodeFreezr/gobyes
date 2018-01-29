@@ -16,7 +16,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   <li><a href="#codegangstaessential-go">👁️</a><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><a href="#golangexample">👁️</a><b>golang.example</b>	https://github.com/golang/example</li>
   <li><a href="#golangtour">👁️</a><b>golang.tour</b>	https://github.com/golang/tour</li>
-  <li><a href="#hermant.data-structure-algo">👁️</a><b>hermant.data-structure-algo</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
+  <li><a href="#hermantdata-structure-algo">👁️</a><b>hermant.data-structure-algo</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
   <li><a href="#iandgocookbook">👁️</a><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
   <li><a href="#mastermindsgo-in-practice">👁️</a><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫</li>  
   <li><a href="#mkazworking-with-go">👁️</a><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
@@ -107,17 +107,17 @@ Over 20 well documented code examples, with an extra section for the euler.
 https://gobyexample.com/  
 </br>  
 </br>  
-
+  
 ### nathany.get-programming-with-go
 tbd.
 </br>  
 </br>  
-
+  
 ### shapeshed.go-in-24
 tbd.
 </br>  
 </br>  
-
+  
 ### SimonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
