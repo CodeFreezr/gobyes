@@ -6,7 +6,7 @@
 
 Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference or spread the words.
 
-Here are the links to the details (⏩) and the original repos or homepages, please star/fork/bookmark:
+Here are the links to the details ⏩ and the github repos<img src="resources/github-sociocon.png" width="18">, please star/fork/bookmark:
 </br>  
 
 
@@ -33,40 +33,11 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
 </ol>
 
 
-### cmu440.intro-to-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
-<a href="corpus/cmu440.intro-to-go">▶️</a> description followed  
-</br>  
-</br>  
-<a href="#gobyes">⏫</a>  
 
-### kat.concurrency-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)  
-<a href="corpus/kat.concurrency-go">▶️</a> description followed  
-</br>  
-</br>  
-<a href="#gobyes">⏫</a>  
 
-### miek.learningo
-[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)  
-<a href="corpus/miek.learningo">▶️</a> description followed  
-</br>  
-</br>  
-<a href="#gobyes">⏫</a>  
 
-### mshindle.tidbits
-[![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)  
-<a href="corpus/mshindle.tidbits">▶️</a> description followed  
-</br>  
-</br>  
-<a href="#gobyes">⏫</a>  
 
-### xusiwei.learn-golang
-[![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo)  
-<a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
-</br>  
-</br>  
-<a href="#gobyes">⏫</a>  
+ 
 
 
 </br>  
@@ -110,6 +81,13 @@ http://bit.ly/go-phrasebook (2012)
 </br>  
 <a href="#gobyes">⏫</a>  
 
+### cmu440.intro-to-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
+<a href="corpus/cmu440.intro-to-go">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
 <a href="corpus/codegangsta.essential-go">▶️</a> A smart collection of 14 important go examples from around 2015.  
@@ -139,11 +117,25 @@ https://tour.golang.org/welcome/1
 </br>  
 <a href="#gobyes">⏫</a>  
 
+### kat.concurrency-go
+[![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)  
+<a href="corpus/kat.concurrency-go">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
 ### masterminds.go-in-practice
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
 <a href="corpus/masterminds.go-in-practice">▶️</a>  Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.  
 https://www.manning.com/books/go-in-practice (2016)  
 <img src="resources/covers/Butcher-GoinP-HI.png.jpg" width="200">  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
+### miek.learningo
+[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)  
+<a href="corpus/miek.learningo">▶️</a> description followed  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -162,7 +154,14 @@ https://gobyexample.com/
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
-  
+
+### mshindle.tidbits
+[![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)  
+<a href="corpus/mshindle.tidbits">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a>  
+
 ### nathany.get-programming-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
 <a href="corpus/nathany.get-programming-with-go">▶️</a> Find here the sourcecodes of the upcoming books in 2018 "Get Programming in Go" in MEAP-State.  
@@ -186,7 +185,14 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 <a href="corpus/simonWaldherr.golang-examples">▶️</a> Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
 </br>  
 </br>  
+<a href="#gobyes">⏫</a>  
 
+### xusiwei.learn-golang
+[![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo)  
+<a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
+</br>  
+</br>  
+<a href="#gobyes">⏫</a> 
 </br>  
 </br>  
 </br>  
