@@ -95,12 +95,14 @@ tbd.
 </br>  
 
 ### mkaz.working-with-go
+tbd.
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
 Over 20 well documented code examples, with an extra section for the euler.  
 </br>  
 </br>  
 
 ### mmcgrana.gobyexample
+tbd.
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
 65 go examples.
 https://gobyexample.com/  
