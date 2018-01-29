@@ -75,14 +75,14 @@ http://bit.ly/go-phrasebook (2012)
 
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
-<a href="corpus/adonovan.golang.example">▶️</a> This is the official example collection with around 18 bit more complex examples.  
+<a href="corpus/golang.example">▶️</a> This is the official example collection with around 18 bit more complex examples.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### golang.tour
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
-<a href="corpus/adonovan.golang.tour">▶️</a> This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
+<a href="corpus/golang.tour">▶️</a> This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1  
 </br>  
 </br>  
@@ -90,14 +90,14 @@ https://tour.golang.org/welcome/1
 
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
-Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+<a href="corpus/adonovan.gopl">▶️</a> Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### masterminds.go-in-practice
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
-tbd.  
+<a href="corpus/adonovan.gopl">▶️</a>  tbd.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
