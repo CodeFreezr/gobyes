@@ -41,7 +41,7 @@ http://www.gopl.io/ (2015)
 
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
-<a href="corpus/adonovan.gopl">▶️</a> 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
+<a href="corpus/agtorre.go-cookbook">▶️</a> 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">
 </br>  
@@ -50,7 +50,7 @@ http://bit.ly/go-agtorre-cookbook (2017)
 
 ### apress.go-recipes
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
-<a href="corpus/adonovan.gopl">▶️</a> In 8 chapters and 83 go files your find a wide range a really usefull examples.  
+<a href="corpus/apress.go-recipes">▶️</a> In 8 chapters and 83 go files your find a wide range a really usefull examples.  
 http://bit.ly/go-recipes (2016)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">
 </br>  
@@ -59,7 +59,7 @@ http://bit.ly/go-recipes (2016)
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
-<a href="corpus/adonovan.gopl">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
+<a href="corpus/chissnall.phrasebook">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 http://bit.ly/go-phrasebook (2012)  
 </br>  
