@@ -26,7 +26,7 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
   <li><a href="#mmcgranagobyexample">⏩</a><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
   <li><a href="#nathanyget-programming-with-go">⏩</a><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 🆕</li>
   <li><a href="#shapeshedgo-in-24">⏩</a><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 🆕</li>  
-  <li><a href="#SimonWaldherrgolang-examples">⏩</a><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
+  <li><a href="#simonWaldherr.golang-examples">⏩</a><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
 
 
@@ -109,14 +109,14 @@ https://www.manning.com/books/go-in-practice (2016)
 
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
-Over 20 well documented code examples, with an extra section for the euler fans.  
+<a href="corpus/mkaz.working-with-go">▶️</a> Over 20 well documented code examples, with an extra section for the euler fans.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### mmcgrana.gobyexample
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
-65 go examples.
+<a href="corpus/mmcgrana.gobyexample">▶️</a> 65 go examples.
 https://gobyexample.com/  
 </br>  
 </br>  
@@ -124,7 +124,7 @@ https://gobyexample.com/
   
 ### nathany.get-programming-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
-Find here the sourcecodes of the upcoming books in 2018 "Get Programming in Go" in MEAP-State.  
+<a href="corpus/nathany.get-programming-with-go">▶️</a> Find here the sourcecodes of the upcoming books in 2018 "Get Programming in Go" in MEAP-State.  
 https://www.manning.com/books/get-programming-with-go (2018)  
 <img src="resources/covers/Youngman_GetProg-go_hiresmeap.jpg" width="200">  
 </br>  
@@ -133,16 +133,16 @@ https://www.manning.com/books/get-programming-with-go (2018)
   
 ### shapeshed.go-in-24
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
-Here you find the sourcecode of one of the best structures book: "Go in 24 hours".  
+<a href="corpus/shapeshed.go-in-24">▶️</a> Here you find the sourcecode of one of the best structures book: "Go in 24 hours".  
 http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977 (2017)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
   
-### SimonWaldherr.golang-examples
+### simonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
-Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
+<a href="corpus/simonWaldherr.golang-examples">▶️</a> Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
 </br>  
 </br>  
 
