@@ -90,6 +90,7 @@ Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analy
 </br>  
 
 ### masterminds.go-in-practice
+[![Go Report Card](https://goreportcard.com/badge/github.com/)](https://goreportcard.com/report/github.com/)  
 tbd.  
 </br>  
 </br>  
@@ -102,7 +103,6 @@ Over 20 well documented code examples, with an extra section for the euler.
 </br>  
 
 ### mmcgrana.gobyexample
-tbd.
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
 65 go examples.
 https://gobyexample.com/  
@@ -110,12 +110,14 @@ https://gobyexample.com/
 </br>  
   
 ### nathany.get-programming-with-go
-tbd.
+[![Go Report Card](https://goreportcard.com/badge/github.com/)](https://goreportcard.com/report/github.com/)  
+tbd.  
 </br>  
 </br>  
   
 ### shapeshed.go-in-24
-tbd.
+[![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
+tbd.   
 </br>  
 </br>  
   
