@@ -10,10 +10,10 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 </br>  
 
 <ol>
-  <li><a href="#adonovangopl">👁️</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
-  <li><a href="#agtorrego-cookbook">👁️</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
-  <li><a href="#apressgo-recipes">👁️</a><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
-  <li><a href="#chisnallphrasebook">👁️</a><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
+  <li><a href="#adonovangopl">⏩</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
+  <li><a href="#agtorrego-cookbook">⏩</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
+  <li><a href="#apressgo-recipes">⏩</a><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
+  <li><a href="#chisnallphrasebook">⏩</a><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
   <li><a href="#codegangstaessential-go">👁️</a><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><a href="#golangexample">👁️</a><b>golang.example</b>	https://github.com/golang/example</li>
   <li><a href="#golangtour">👁️</a><b>golang.tour</b>	https://github.com/golang/tour</li>
@@ -32,9 +32,9 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   
 ### adonovan.gopl
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
-Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan. 
+<a href="corpus/adonovan.gopl">▶️</a> Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan. 
 http://www.gopl.io/ (2015)  
-<img src="resources/covers/gobs.png" width="200">
+<img src="resources/covers/gobl.png" width="200">
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
