@@ -11,10 +11,10 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 
 
 
-<a href="#adonovangopl">👁️</a>
-<a href="#agtorrego-cookbook">👁️</a>
+
+
 <a href="#apressgo-recipes">👁️</a>
-<a href="#chisnall.phrasebook">👁️</a>
+<a href="#chisnallphrasebook">👁️</a>
 <a href="#iandgocookbook">👁️</a>
 <a href="#iandgocookbook">👁️</a>
 <a href="#iandgocookbook">👁️</a>
@@ -29,8 +29,11 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 
 
 <ol>
-  <li><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
-  <li><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
+  <li><a href="#adonovangopl">👁️</a>
+    <b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 
+    💫
+  </li>  
+  <li><a href="#agtorrego-cookbook">👁️</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
   <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
   <li><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
   <li><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
