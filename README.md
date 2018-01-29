@@ -7,25 +7,6 @@ Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and s
 Here are the links to the original repos or homepages, please star/fork/bookmark:
   
 </br>  
-</br>  
-
-
-
-
-
-
-
-<a href="#golangexample">👁️</a>
-<a href="#golangtour">👁️</a>
-<a href="#hermant.data-structure-algo">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#mastermindsgo-in-practice">👁️</a>
-<a href="#mkazworking-with-go">👁️</a>
-<a href="#mmcgranagobyexample">👁️</a>
-<a href="#nathanyget-programming-with-go">👁️</a>
-<a href="#shapeshedgo-in-24">👁️</a>
-<a href="#SimonWaldherrgolang-examples">👁️</a>
-
 
 <ol>
   <li><a href="#adonovangopl">👁️</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
@@ -33,16 +14,16 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   <li><a href="#apressgo-recipes">👁️</a><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
   <li><a href="#chisnallphrasebook">👁️</a><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
   <li><a href="#codegangstaessential-go">👁️</a><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
-  <li><b>golang.example</b>	https://github.com/golang/example</li>
-  <li><b>golang.tour</b>	https://github.com/golang/tour</li>
-  <li><b>hermant.data-structure-algo</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
-  <li><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
-  <li><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫</li>  
-  <li><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
-  <li><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
-  <li><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 💫</li>
-  <li><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 💫</li>  
-  <li><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
+  <li><a href="#golangexample">👁️</a><b>golang.example</b>	https://github.com/golang/example</li>
+  <li><a href="#golangtour">👁️</a><b>golang.tour</b>	https://github.com/golang/tour</li>
+  <li><a href="#hermant.data-structure-algo">👁️</a><b>hermant.data-structure-algo</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
+  <li><a href="#iandgocookbook">👁️</a><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
+  <li><a href="#mastermindsgo-in-practice">👁️</a><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫</li>  
+  <li><a href="#mkazworking-with-go">👁️</a><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
+  <li><a href="#mmcgranagobyexample">👁️</a><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
+  <li><a href="#nathanyget-programming-with-go">👁️</a><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 💫</li>
+  <li><a href="#shapeshedgo-in-24">👁️</a><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 💫</li>  
+  <li><a href="#SimonWaldherrgolang-examples">👁️</a><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
