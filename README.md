@@ -100,14 +100,16 @@ https://tour.golang.org/welcome/1
 
 ### masterminds.go-in-practice
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
-<a href="corpus/adonovan.gopl">▶️</a>  tbd.  
+<a href="corpus/adonovan.gopl">▶️</a>  Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.  
+https://www.manning.com/books/go-in-practice (2016)
+<img src="resources/covers/Butcher-GoinP-HI.png.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
 
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
-Over 20 well documented code examples, with an extra section for the euler.  
+Over 20 well documented code examples, with an extra section for the euler fans.  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -122,14 +124,18 @@ https://gobyexample.com/
   
 ### nathany.get-programming-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
-tbd.  
+Find here the sourcecodes of the upcoming books in 2018 "Get Programming in Go" in MEAP-State.  
+https://www.manning.com/books/get-programming-with-go (2018)  
+<img src="resources/covers/Youngman_GetProg-go_hiresmeap.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
   
 ### shapeshed.go-in-24
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
-tbd.   
+Here you find the sourcecode of one of the best structures book: "Go in 24 hours".  
+http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977 (2017)  
+<img src="resources/covers/go-in-24.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
