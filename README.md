@@ -35,6 +35,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
 </br>  
 </br>  
+⏫  
 
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
@@ -43,6 +44,7 @@ http://bit.ly/go-agtorre-cookbook (2017)
 <img src="resources/covers/packt-go_cookbook.png" width="200">
 </br>  
 </br>  
+⏫  
 
 ### apress.go-recipes
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
@@ -51,6 +53,7 @@ http://bit.ly/go-recipes (2016)
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">
 </br>  
 </br>  
+⏫  
 
 ### chisnall.phrasebook
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
@@ -59,12 +62,14 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 </br>  
 </br>  
+⏫  
 
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
 A smart collection of 14 important go examples from around 2015.  
 </br>  
 </br>  
+⏫  
 
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
