@@ -17,7 +17,6 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   <li><a href="#codegangstaessential-go">👁️</a><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><a href="#golangexample">👁️</a><b>golang.example</b>	https://github.com/golang/example</li>
   <li><a href="#golangtour">👁️</a><b>golang.tour</b>	https://github.com/golang/tour</li>
-  <li><a href="#hermantdata-structure-algo">👁️</a><b>hermant.data-structure-algo</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
   <li><a href="#iandgocookbook">👁️</a><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
   <li><a href="#mastermindsgo-in-practice">👁️</a><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫</li>  
   <li><a href="#mkazworking-with-go">👁️</a><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
@@ -84,14 +83,7 @@ This is the repo of the of the "A Tour of Go". One of the first thing you have t
 https://tour.golang.org/welcome/1  
 </br>  
 </br>  
-<a href="#gobyes">⏫</a>  
-
-### hermant.data-structure-algo
-[![Go Report Card](https://goreportcard.com/badge/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go)](https://goreportcard.com/report/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go) 
-tbd.  
-</br>  
-</br>  
-<a href="#gobyes">⏫</a>  
+<a href="#gobyes">⏫</a>   
 
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
