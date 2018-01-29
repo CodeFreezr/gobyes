@@ -13,33 +13,29 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
 
 
 
-<a href="#apressgo-recipes">👁️</a>
-<a href="#chisnallphrasebook">👁️</a>
+
+
+<a href="#golangexample">👁️</a>
+<a href="#golangtour">👁️</a>
+<a href="#hermant.data-structure-algo">👁️</a>
 <a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
-<a href="#iandgocookbook">👁️</a>
+<a href="#mastermindsgo-in-practice">👁️</a>
+<a href="#mkazworking-with-go">👁️</a>
+<a href="#mmcgranagobyexample">👁️</a>
+<a href="#nathanyget-programming-with-go">👁️</a>
+<a href="#shapeshedgo-in-24">👁️</a>
+<a href="#SimonWaldherrgolang-examples">👁️</a>
 
 
 <ol>
-  <li><a href="#adonovangopl">👁️</a>
-    <b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 
-    💫
-  </li>  
+  <li><a href="#adonovangopl">👁️</a><b>adonovan.gopl</b>	https://github.com/adonovan/gopl.io/ 💫</li>  
   <li><a href="#agtorrego-cookbook">👁️</a><b>agtorre.go-cookbook</b>	https://github.com/agtorre/go-cookbook</li>
-  <li><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
-  <li><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
-  <li><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
+  <li><a href="#apressgo-recipes">👁️</a><b>apress.go-recipes</b>	https://github.com/Apress/go-recipes</li>
+  <li><a href="#chisnallphrasebook">👁️</a><b>chisnall.phrasebook</b> https://github.com/CodeFreezr/phrasebook (mirror)</li>
+  <li><a href="#codegangstaessential-go">👁️</a><b>codegangsta.essential-go</b>	https://github.com/codegangsta/essential-go</li>
   <li><b>golang.example</b>	https://github.com/golang/example</li>
   <li><b>golang.tour</b>	https://github.com/golang/tour</li>
-  <li><b>hermant.data-structure-algorithm-in-go</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
+  <li><b>hermant.data-structure-algo</b>https://github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go💫</li>  
   <li><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
   <li><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 💫</li>  
   <li><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
