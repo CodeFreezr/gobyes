@@ -51,11 +51,12 @@ http://bit.ly/go-agtorre-cookbook (2017)
 </br>  
 <a href="#gobyes">⏫</a>  
 
-### apress.go-recipes
+### apress.go-recipes (2016) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
-<a href="corpus/apress.go-recipes">▶️</a> In 8 chapters and 83 go files your find a wide range a really usefull examples.  
+In 8 chapters and 83 go files your find a wide range a really usefull examples.  
+<a href="corpus/apress.go-recipes">Code</a>  
 <a href="https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=copyright&hl=de#v=onepage&q&f=false">TOC</a>  
-http://bit.ly/go-recipes (2016)  
+<a href="http://bit.ly/go-recipes">HP</a>  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">
 </br>  
 </br>  
