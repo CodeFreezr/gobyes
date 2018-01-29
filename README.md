@@ -78,7 +78,7 @@ https://tour.golang.org/welcome/1
 </br>  
 </br>  
 
-### hermant.data-structure-algorithm-in-go
+### hermant.data-structure-algor
 [![Go Report Card](https://goreportcard.com/badge/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go)](https://goreportcard.com/report/github.com/Hemant-Jain-Author/Data-Structures-Algorithms-In-Go) 
 tbd.  
 </br>  
