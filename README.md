@@ -1,6 +1,8 @@
 # gobyes
 
-![Alt text](resources/gobyes.png?raw=true "Gobye Gophers")
+![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
 
 Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference or spread the words.
 
@@ -25,7 +27,7 @@ Here are the links to the original repos or homepages, please star/fork/bookmark
   <li><a href="#SimonWaldherrgolang-examples">👁️</a><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
 </ol>
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
+
 </br>  
 </br>  
   
