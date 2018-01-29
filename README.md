@@ -10,20 +10,28 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
 </br>  
 
 
+xusiwei.learn-golang  
+mshindle.tidbits  
+cmu440.intro-to-go  
+kat.concurrency-go  
+miek.learningo  
+<li><a href="#golangtour">⏩</a><b>golang.tour</b>	</li>  
+<a href=""><img src="resources/github-sociocon.png" width="18"></a>  
 
 
 
 
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
-<a href=""><img src="resources/github-sociocon.png" width="18"></a>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <ol>
@@ -32,15 +40,15 @@ Here are the links to the details (⏩) and the original repos or homepages, ple
   <li><a href="#apressgo-recipes">⏩</a><b>apress.go-recipes</b>	<a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#chisnallphrasebook">⏩</a><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
   <li><a href="#codegangstaessential-go">⏩</a><b>codegangsta.essential-go</b>	<a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
-  <li><a href="#golangexample">⏩</a><b>golang.example</b>	https://github.com/golang/example</li>
-  <li><a href="#golangtour">⏩</a><b>golang.tour</b>	https://github.com/golang/tour</li>
-  <li><a href="#iandgocookbook">⏩</a><b>iand.gocookbook</b>	https://github.com/iand/gocookbook</li>
-  <li><a href="#mastermindsgo-in-practice">⏩</a><b>masterminds.go-in-practice</b> https://github.com/Masterminds/go-in-practice 🆕</li>  
-  <li><a href="#mkazworking-with-go">⏩</a><b>mkaz.working-with-go</b>	https://github.com/mkaz/working-with-go</li>
-  <li><a href="#mmcgranagobyexample">⏩</a><b>mmcgrana.gobyexample</b>	https://github.com/mmcgrana/gobyexample</li>
-  <li><a href="#nathanyget-programming-with-go">⏩</a><b>nathany.get-programming-with-go</b>  https://github.com/nathany/get-programming-with-go 🆕</li>
-  <li><a href="#shapeshedgo-in-24">⏩</a><b>shapeshed.go-in-24</b> https://github.com/shapeshed/golang-book-examples 🆕</li>  
-  <li><a href="#simonWaldherr.golang-examples">⏩</a><b>SimonWaldherr.golang-examples</b>	https://github.com/SimonWaldherr/golang-examples</li>
+  <li><a href="#golangexample">⏩</a><b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#golangtour">⏩</a><b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#iandgocookbook">⏩</a><b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#mastermindsgo-in-practice">⏩</a><b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>  
+  <li><a href="#mkazworking-with-go">⏩</a><b>mkaz.working-with-go</b>	<a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#mmcgranagobyexample">⏩</a><b>mmcgrana.gobyexample</b>	<a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#nathanyget-programming-with-go">⏩</a><b>nathany.get-programming-with-go</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#shapeshedgo-in-24">⏩</a><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="resources/github-sociocon.png" width="18"></a></li>  
+  <li><a href="#simonWaldherr.golang-examples">⏩</a><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="resources/github-sociocon.png" width="18"></a></li>
 </ol>
 
 
