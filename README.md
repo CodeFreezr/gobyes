@@ -148,7 +148,7 @@ https://www.manning.com/books/go-in-practice (2016)
 
 ### mmcgrana.gobyexample
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
-<a href="corpus/mmcgrana.gobyexample">▶️</a> 65 go examples.
+<a href="corpus/mmcgrana.gobyexample">▶️</a> The Mother of all GoBye's with 65 go examples.
 https://gobyexample.com/  
 <img src="resources/covers/mmcgrana.png" width="200">  
 <a href="#gobyes">⏫</a>  
