@@ -1,9 +1,0 @@
-{{ex/functions/average.md}}
-{{ex/functions/bubblesort.md}}
-{{ex/functions/for.md}}
-{{ex/functions/fib.md}}
-{{ex/functions/vararg.md}}
-{{ex/functions/funcfunc.md}}
-{{ex/functions/min.md}}
-{{ex/functions/map.md}}
-{{ex/functions/stack.md}}
