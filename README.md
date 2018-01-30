@@ -77,6 +77,7 @@ http://bit.ly/go-phrasebook (2012)
 ### cmu440.intro-to-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
 <a href="corpus/cmu440.intro-to-go">▶️</a> description followed  
+<img src="resources/covers/" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -84,6 +85,7 @@ http://bit.ly/go-phrasebook (2012)
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
 <a href="corpus/codegangsta.essential-go">▶️</a> A smart collection of 14 important go examples from around 2015.  
+<img src="resources/covers/codegangsta.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -91,6 +93,7 @@ http://bit.ly/go-phrasebook (2012)
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
 <a href="corpus/golang.example">▶️</a> This is the official example collection with around 18 bit more complex examples.  
+<img src="resources/covers/golang.png" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -99,6 +102,7 @@ http://bit.ly/go-phrasebook (2012)
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
 <a href="corpus/golang.tour">▶️</a> This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1  
+<img src="resources/covers/golang.png" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>   
@@ -106,6 +110,7 @@ https://tour.golang.org/welcome/1
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
 <a href="corpus/iand.gocookbook">▶️</a> Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+<img src="resources/covers/iand.png" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -113,6 +118,7 @@ https://tour.golang.org/welcome/1
 ### kat.concurrency-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)  
 <a href="corpus/kat.concurrency-go">▶️</a> description followed  
+<img src="resources/covers/concurrency-in-go.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -129,6 +135,7 @@ https://www.manning.com/books/go-in-practice (2016)
 ### miek.learningo
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)  
 <a href="corpus/miek.learningo">▶️</a> description followed  
+<img src="resources/covers/" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -136,6 +143,7 @@ https://www.manning.com/books/go-in-practice (2016)
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
 <a href="corpus/mkaz.working-with-go">▶️</a> Over 20 well documented code examples, with an extra section for the euler fans.  
+<img src="resources/covers/mkaz.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -144,6 +152,7 @@ https://www.manning.com/books/go-in-practice (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
 <a href="corpus/mmcgrana.gobyexample">▶️</a> 65 go examples.
 https://gobyexample.com/  
+<img src="resources/covers/mmcgrana.png" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -151,6 +160,7 @@ https://gobyexample.com/
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)  
 <a href="corpus/mshindle.tidbits">▶️</a> description followed  
+<img src="resources/covers/mshindle.jpg" width="200">  
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
