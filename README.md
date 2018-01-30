@@ -2,7 +2,7 @@
 
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/gobyes)](https://goreportcard.com/report/github.com/codefreezr/gobyes) (Overall)  
+
 
 Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference or spread the words.
 
