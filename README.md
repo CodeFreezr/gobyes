@@ -176,7 +176,7 @@ https://www.manning.com/books/get-programming-with-go (2018)
   
 ### shapeshed.go-in-24
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
-<a href="corpus/shapeshed.go-in-24">▶️</a> Here you find the sourcecode of one of the best structures book: "Go in 24 hours".  
+<a href="corpus/shapeshed.go-in-24">▶️</a> Here you find the sourcecode of one of the best structured book: "Go in 24 hours".  
 http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977 (2017)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
 </br>  
@@ -186,6 +186,7 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 ### simonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
 <a href="corpus/simonWaldherr.golang-examples">▶️</a> Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
+<img src="resources/covers/SimonWaldherr.jpg" width="200">
 </br>  
 </br>  
 <a href="#gobyes">⏫</a>  
@@ -193,6 +194,7 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 ### xusiwei.learn-golang
 [![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo)  
 <a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
+<img src="resources/covers/xusiwei.jpg" width="200">
 </br>  
 </br>  
 <a href="#gobyes">⏫</a> 
@@ -219,16 +221,6 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 </br>  
 </br>  
 </br>  
-</br>  
-
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
+</br>   
 
 ### End-of-Page  
