@@ -3,8 +3,7 @@
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")
 
 
-
-Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, obtain a ticket to / organize a gopher conference or spread the words.
+Collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
 Here are the links to the details ⏩ and the github repos <img src="resources/github-sociocon.png" width="18"> Please star/fork/bookmark them alot:
 </br>  
