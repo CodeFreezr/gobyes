@@ -21,8 +21,7 @@ Here are the links to the details ⏩ and the github repos <img src="resources/g
   <li><a href="#golangtour">⏩</a> <b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#iandgocookbook">⏩</a> <b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#katconcurrency-go">⏩</a> <b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
-  <li><a href="#mastermindsgo-in-practice">⏩</a> <b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>  
-  <li><a href="#mieklearningo">⏩</a> <b>miek.learningo</b>	<a href="https://github.com/miekg/learninggo"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
+  <li><a href="#mastermindsgo-in-practice">⏩</a> <b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
   <li><a href="#mkazworking-with-go">⏩</a> <b>mkaz.working-with-go</b>	<a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#mmcgranagobyexample">⏩</a> <b>mmcgrana.gobyexample</b>	<a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#mshindletidbits">⏩</a> <b>mshindle.tidbits</b>	<a href="https://github.com/mshindle/tidbits"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
@@ -40,7 +39,7 @@ Here are the links to the details ⏩ and the github repos <img src="resources/g
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
 <a href="corpus/adonovan.gopl">▶️</a> Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 http://www.gopl.io/ (2015)  
-<img src="resources/covers/gobl.png" width="200">
+<img src="resources/covers/gobl.png" width="200">  
 <a href="#gobyes">⏫</a>  
 </br>  
 </br>  
@@ -49,7 +48,7 @@ http://www.gopl.io/ (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)  
 <a href="corpus/agtorre.go-cookbook">▶️</a> 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)  
-<img src="resources/covers/packt-go_cookbook.png" width="200">
+<img src="resources/covers/packt-go_cookbook.png" width="200">  
 <a href="#gobyes">⏫</a>  
 </br>  
 </br>  
@@ -60,7 +59,7 @@ In 8 chapters and 83 go files your find a wide range a really usefull examples.
 <a href="corpus/apress.go-recipes">Code</a>  
 <a href="https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=copyright&hl=de#v=onepage&q&f=false">TOC</a>  
 <a href="http://bit.ly/go-recipes">HP</a>  
-<img src="resources/covers/Apress-GoRecipes.jpg" width="200">
+<img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
 <a href="#gobyes">⏫</a>  
 </br>  
 </br>  
@@ -138,16 +137,6 @@ https://www.manning.com/books/go-in-practice (2016)
 </br>  
 </br>  
 
-
-### miek.learningo
-[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)  
-<a href="corpus/miek.learningo">▶️</a> description followed  
-<img src="resources/covers/" width="200">  
-<a href="#gobyes">⏫</a>  
-</br>  
-</br>  
-
-
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
 <a href="corpus/mkaz.working-with-go">▶️</a> Over 20 well documented code examples, with an extra section for the euler fans.  
@@ -199,7 +188,7 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 ### simonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
 <a href="corpus/simonWaldherr.golang-examples">▶️</a> Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
-<img src="resources/covers/SimonWaldherr.jpg" width="200">
+<img src="resources/covers/SimonWaldherr.jpg" width="200">  
 <a href="#gobyes">⏫</a>  
 </br>  
 </br>  
@@ -208,7 +197,7 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 ### xusiwei.learn-golang
 [![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo)  
 <a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
-<img src="resources/covers/xusiwei.jpg" width="200">
+<img src="resources/covers/xusiwei.jpg" width="200">  
 <a href="#gobyes">⏫</a> 
 </br>  
 </br>  
