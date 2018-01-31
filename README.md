@@ -70,19 +70,25 @@ In 8 chapters and 83 go files your find a wide range a really usefull examples.
 </br>  
 </br>  
 
-### chisnall.phrasebook
-[![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
-<a href="corpus/chisnall.phrasebook/examples/">▶️</a> Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall .  
-http://bit.ly/go-phrasebook (2012)  
+### chisnall.phrasebook (2012)
+[![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook) (just mirror)  
+Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall.  
+[Code](corpus/chisnall.phrasebook/examples/)  
+[TOC](tbd)  
+[HP](http://bit.ly/go-phrasebook)    
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
 </br>  
 
 ### cmu440.intro-to-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
-<a href="corpus/cmu440.intro-to-go">▶️</a> description followed  
-<img src="resources/covers/cmu220.jpg" width="200">  
+[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)]https://github.com/cmu440/intro-to-go)  
+[Code](corpus/cmu440.intro-to-go/)  
+TOC n/a  
+HP n/a    
+Nice description followed here ...  
+<img src="resources/covers/cmu220.png" width="200">  
 [⏫](#gobyes)  
 </br>  
 </br>  
@@ -201,7 +207,7 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 
 
 ### xusiwei.learn-golang
-[![Go Report Card](https://goreportcard.com/badge/github.com/miekg/learninggo)](https://goreportcard.com/report/github.com/miekg/learninggo)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
 <a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
 <img src="resources/covers/xusiwei.jpg" width="200">  
 [⏫](#gobyes)  
