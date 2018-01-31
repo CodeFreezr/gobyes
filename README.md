@@ -45,18 +45,20 @@ http://www.gopl.io/ (2015)
 </br>  
 
 ### agtorre.go-cookbook
-[▶️](corpus/agtorre.go-cookbook)[![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
+[![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
-
-<a href="corpus/agtorre.go-cookbook">▶️</a> 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
-http://bit.ly/go-agtorre-cookbook (2017)  
+13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
+[Code](corpus/agtorre.go-cookbook)
+[TOC]()
+[HP](http://bit.ly/go-agtorre-cookbook)
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
 <a href="#gobyes">⏫</a>  
 </br>  
 </br>  
 
 ### apress.go-recipes (2016) 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
 In 8 chapters and 83 go files your find a wide range a really usefull examples.  
 <a href="corpus/apress.go-recipes">Code</a>  
 <a href="https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=copyright&hl=de#v=onepage&q&f=false">TOC</a>  
