@@ -36,10 +36,10 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   
 ### adonovan.gopl (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
-![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 [Code](corpus/adonovan.gopl)  
-[TOC]()  
+[TOC](tbd)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
 [⏫](#gobyes)  
@@ -51,7 +51,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 [![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
 13 chapters full of examples and recipes.
 [Code](corpus/agtorre.go-cookbook)  
-[TOC]()  
+[TOC](tbd)  
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
 [⏫](#gobyes) 
