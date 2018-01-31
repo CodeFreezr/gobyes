@@ -36,17 +36,17 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   
 ### adonovan.gopl
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
-![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)  
+![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)  
 <a href="corpus/adonovan.gopl">▶️</a> Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 http://www.gopl.io/ (2015)  
 <img src="resources/covers/gobl.png" width="200">  
 <a href="#gobyes">⏫</a>  
 </br>  
 </br>  
-![]()
+
 ### agtorre.go-cookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
-![![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
+![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)  
 <a href="corpus/agtorre.go-cookbook">▶️</a> 13 chapters full of examples and recipes. Find the book (paperback, ebook, online) for this gobyes here:  
 http://bit.ly/go-agtorre-cookbook (2017)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
