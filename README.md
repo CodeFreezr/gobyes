@@ -35,7 +35,8 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </br>  
   
 ### adonovan.gopl
-[![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)  
 <a href="corpus/adonovan.gopl">▶️</a> Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 http://www.gopl.io/ (2015)  
 <img src="resources/covers/gobl.png" width="200">  
