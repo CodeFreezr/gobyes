@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {{partial "head.html"}}
+  {{range $i, $css := .Params.extra_css}}
+  <link href="{{$css}}" rel="stylesheet"/>
+  {{end}}
+</head>
+<body class="container-fluid">
+  {{partial "nav.html"}}
+  <div class="container">
+    <div class="row">
+      <a class="btn btn-sm btn-link" href="/screencasts">
+        <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
+        All
+      </a>
+    </div>
+    <div class="row">
+      <h1>{{.Title}}</h1>
+    </div>
+    <div class="row col-sm-8">
+      {{ .Content }}
+    </div>
+  </div>
+  <div class="row text-center">
+    <!-- ads for individual content page -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <ins class="adsbygoogle"
+        style="display:block; text-align:center;"
+        data-ad-layout="in-article"
+        data-ad-format="fluid"
+        data-ad-client="ca-pub-4879856180927890"
+        data-ad-slot="2682329272"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  <div class="row text-center footer">
+    {{partial "footer.html"}}
+  </div>
+
+  {{partial "js.html"}}
+</body>
+</html>
