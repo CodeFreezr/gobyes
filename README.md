@@ -158,7 +158,7 @@ Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-
 
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go.svg)](https://github.com/mkaz/working-with-go/)  [![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go.svg)](https://github.com/kat-co/mkaz/working-with-go/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go.svg)](https://github.com/mkaz/working-with-go/)  
 Over 20 well documented code examples, with an extra section for the euler mathematix fans.  
 [Code gobye](corpus/mkaz.working-with-go)  
 [TOC](tbd)  
@@ -188,53 +188,45 @@ Smart description followed here...
 <img src="resources/covers/mshindle.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
 
 ### nathany.get-programming-with-go (upcomming)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)  
 Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
-[Code](corpus/nathany.get-programming-with-go)  
+[Code gobye](corpus/nathany.get-programming-with-go)  
 [TOC](tbd)  
 [HP](https://www.manning.com/books/get-programming-with-go)  
 <img src="resources/covers/Youngman_GetProg-go_hiresmeap.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
   
 ### shapeshed.go-in-24 (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". I you are in hurry, this one is for you.  
-[Code](corpus/shapeshed.go-in-24)  
+[Code gobye](corpus/shapeshed.go-in-24)  
 [TOC](tbd)  
 [HP](http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
   
 ### simonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/SimonWaldherr/golang-examples/)  
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
-[Code](corpus/simonWaldherr.golang-examples)  
+[Code gobye](corpus/simonWaldherr.golang-examples)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/SimonWaldherr.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
 
 ### xusiwei.learn-golang
 [![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xusiwei/learn-golang.svg)](https://github.com/xusiwei/learn-golang/)  
 Smart Description goes here.  
-[Code](corpus/xusiwei.learn-golang)  
+[Code gobye](corpus/xusiwei.learn-golang)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/xusiwei.jpg" width="200">  
