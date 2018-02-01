@@ -66,6 +66,26 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 [⏫](#gobyes)   
 </br>  
 
+### arschles.go-in-5-minutes  
+[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes/)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes/)  
+Smart descriptions here ...  
+[Code gobye](corpus/arschles.go-in-5-minutes)  
+[TOC](tbd)  
+[HP](tbd)  
+<img src="resources/covers/arschles.jpg" width="200">  
+[⏫](#gobyes)  
+</br>  
+
+### astaxie.build-web-with-go  
+[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang/)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang/)  
+Smart descriptions here ...  
+[Code gobye](corpus/astaxie.build-web-with-go)  
+[TOC](tbd)  
+[HP](tbd)  
+<img src="resources/covers/astaxie.jpg" width="200">  
+[⏫](#gobyes)  
+</br>  
+
 ### chisnall.phrasebook (2012)
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/phrasebook.svg)](https://github.com/CodeFreezr/phrasebook/) (just mirror)  
@@ -99,6 +119,28 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 [⏫](#gobyes)  
 </br>  
 
+### goes211.golangtraining  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev/)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev/)  
+Smart descriptions here ...  
+[Code gobye](corpus/goes211.golangtraining)  
+[TOC](tbd)  
+[HP](tbd)  
+<img src="resources/covers/goes211.jpg" width="200">  
+[⏫](#gobyes)  
+</br>  
+
+### goes211.golang-web-dev  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining/)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining/)  
+Smart descriptions here ...  
+[Code gobye](corpus/goes211.golang-web-dev)  
+[TOC](tbd)  
+[HP](tbd)  
+<img src="resources/covers/goes211.jpg" width="200">  
+[⏫](#gobyes)  
+</br>  
+
+
+
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)
 [![GitHub last commit](https://img.shields.io/github/last-commit/golang/example.svg)](https://github.com/golang/example)  
@@ -122,7 +164,6 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 </br>  
 </br>  
 
-
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/iand/gocookbook.svg)](https://github.com/iand/gocookbook/)  
@@ -144,6 +185,16 @@ Smart description followed here ...
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>   
+
+### kelsey.intro-to-go  
+[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop/)  [![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
+Kelsey a kind of an anchor man for the kube based google cloud, has also created a go beginners guide some years ago. With only a few solo go-files, but alot markdown embedded ones. 
+[Code gobye](corpus/kelsey.intro-to-go)  
+[TOC](tbd)  
+[HP](tbd)  
+<img src="resources/covers/" width="200">  
+[⏫](#gobyes)  
+</br>  
 
 ### masterminds.go-in-practice (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)
