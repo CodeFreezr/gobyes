@@ -136,56 +136,52 @@ Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analy
 ### kat.concurrency-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)
 [![GitHub last commit](https://img.shields.io/github/last-commit/kat-co/concurrency-in-go-src.svg)](https://github.com/kat-co/concurrency-in-go-src/)  
-Smart description followed here 
+Smart description followed here ...  
 [Code gobye](corpus/kat.concurrency-go)  
 [TOC](tbd)  
-[🌐](tbd)  
+[HP](tbd)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>   
 
-### masterminds.go-in-practice
-[![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
-<a href="corpus/masterminds.go-in-practice">▶️</a>  Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.  
-https://www.manning.com/books/go-in-practice (2016)  
-[Code]()  
+### masterminds.go-in-practice (2016)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/go-in-practice.svg)](https://github.com/Masterminds/go-in-practice/)  
+Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.    
+[Code gobye](corpus/masterminds.go-in-practice)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://www.manning.com/books/go-in-practice )  
 <img src="resources/covers/Butcher-GoinP-HI.png.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
 
 ### mkaz.working-with-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
-<a href="corpus/mkaz.working-with-go">▶️</a> Over 20 well documented code examples, with an extra section for the euler fans.  
-[Code]()  
+[![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go.svg)](https://github.com/mkaz/working-with-go/)  [![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go.svg)](https://github.com/kat-co/mkaz/working-with-go/)  
+Over 20 well documented code examples, with an extra section for the euler mathematix fans.  
+[Code gobye](corpus/mkaz.working-with-go)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/mkaz.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
 
 ### mmcgrana.gobyexample
-[![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
-<a href="corpus/mmcgrana.gobyexample">▶️</a> The Mother of all GoBye's with 65 go examples.
-https://gobyexample.com/  
-[Code]()  
+[![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mmcgrana/gobyexample.svg)](https://github.com/mmcgrana/gobyexample/)  
+The Mother of all GoBye's with 65 go examples.  
+[Code gobye](corpus/mmcgrana.gobyexample)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://gobyexample.com/  )  
 <img src="resources/covers/mmcgrana.png" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
 
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/nathany/mshindle/tidbits/)  
 Smart description followed here...    
-[Code](corpus/mshindle.tidbits)  
+[Code gobye](corpus/mshindle.tidbits)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/mshindle.jpg" width="200">  
