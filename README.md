@@ -1,4 +1,4 @@
-# gobyeHub
+# gobyes
 
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")
 
