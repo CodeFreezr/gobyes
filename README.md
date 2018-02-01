@@ -67,7 +67,9 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 </br>  
 
 ### chisnall.phrasebook (2012)
-[![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook) (just mirror)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/phrasebook.svg)](https://github.com/CodeFreezr/phrasebook/)  
+(just mirror)  
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall.  
 [Code gobye](corpus/chisnall.phrasebook/examples/)  
 [TOC](tbd)  
