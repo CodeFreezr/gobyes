@@ -83,7 +83,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 
 ### cmu440.intro-to-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
-[![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)]https://github.com/cmu440/intro-to-go)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
 [Code](corpus/cmu440.intro-to-go/)  
 TOC n/a  
 HP n/a    
@@ -93,19 +93,23 @@ Nice description followed here ...
 </br>  
 </br>  
 
-
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
-<a href="corpus/codegangsta.essential-go">▶️</a> A smart collection of 14 important go examples from around 2015.  
+A smart collection of 14 important go examples from around 2015.  
+[Code](corpus/codegangsta.essential-go)  
+[TOC](tbd)  
+[HP]()  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
 </br>  
 
-
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
 <a href="corpus/golang.example">▶️</a> This is the official example collection with around 18 bit more complex examples.  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/golang.png" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -116,6 +120,9 @@ Nice description followed here ...
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
 <a href="corpus/golang.tour">▶️</a> This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
 https://tour.golang.org/welcome/1  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/golang.png" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -125,6 +132,9 @@ https://tour.golang.org/welcome/1
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
 <a href="corpus/iand.gocookbook">▶️</a> Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/iand.png" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -134,6 +144,9 @@ https://tour.golang.org/welcome/1
 ### kat.concurrency-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)  
 <a href="corpus/kat.concurrency-go">▶️</a> description followed  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -144,6 +157,9 @@ https://tour.golang.org/welcome/1
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
 <a href="corpus/masterminds.go-in-practice">▶️</a>  Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.  
 https://www.manning.com/books/go-in-practice (2016)  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/Butcher-GoinP-HI.png.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -152,6 +168,9 @@ https://www.manning.com/books/go-in-practice (2016)
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)  
 <a href="corpus/mkaz.working-with-go">▶️</a> Over 20 well documented code examples, with an extra section for the euler fans.  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/mkaz.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -162,6 +181,9 @@ https://www.manning.com/books/go-in-practice (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)  
 <a href="corpus/mmcgrana.gobyexample">▶️</a> The Mother of all GoBye's with 65 go examples.
 https://gobyexample.com/  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/mmcgrana.png" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -171,6 +193,9 @@ https://gobyexample.com/
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)  
 <a href="corpus/mshindle.tidbits">▶️</a> description followed  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/mshindle.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -181,6 +206,9 @@ https://gobyexample.com/
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
 <a href="corpus/nathany.get-programming-with-go">▶️</a> Find here the sourcecodes of the upcoming books in 2018 "Get Programming in Go" in MEAP-State.  
 https://www.manning.com/books/get-programming-with-go (2018)  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/Youngman_GetProg-go_hiresmeap.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -191,6 +219,9 @@ https://www.manning.com/books/get-programming-with-go (2018)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
 <a href="corpus/shapeshed.go-in-24">▶️</a> Here you find the sourcecode of one of the best structured book: "Go in 24 hours".  
 http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977 (2017)  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -200,6 +231,9 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 ### simonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
 <a href="corpus/simonWaldherr.golang-examples">▶️</a> Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
+[Code]()  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/SimonWaldherr.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -207,8 +241,12 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 
 
 ### xusiwei.learn-golang
-[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)  
-<a href="corpus/xusiwei.learn-golang">▶️</a> description followed  
+[![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)
+[![GitHub last commit](https://img.shields.io/github/last-commit/xusiwei/learn-golang.svg)](https://github.com/xusiwei/learn-golang/)  
+Smart Description goes here.
+[Code](corpus/xusiwei.learn-golang)  
+[TOC](tbd)  
+[HP](tbd)  
 <img src="resources/covers/xusiwei.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
