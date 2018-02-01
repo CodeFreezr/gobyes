@@ -1,4 +1,4 @@
-# gobyes
+# gobyeHub
 
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")
 
@@ -30,7 +30,6 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#xusiweilearn-golang">⏩</a> <b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
 </ol>
 
-
 </br>  
 </br>  
   
@@ -38,91 +37,85 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
-[Code](corpus/adonovan.gopl)  
+[Code gobye](corpus/adonovan.gopl)  
 [TOC](tbd)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
 
 ### agtorre.go-cookbook (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
-13 chapters full of examples and recipes.  
-[Code](corpus/agtorre.go-cookbook)  
+13 chapters full of examples and recipes by Aaron Torres.  
+[Code gobye](corpus/agtorre.go-cookbook)  
 [TOC](tbd)  
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
 [⏫](#gobyes) 
-</br>  
 </br>  
 
 ### apress.go-recipes (2016) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
 In 8 chapters and 83 go files your find a wide range a really usefull examples.  
-<a href="corpus/apress.go-recipes">Code</a>  
+[Code gobye](corpus/apress.go-recipes)  
 <a href="https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=copyright&hl=de#v=onepage&q&f=false">TOC</a>  
 <a href="http://bit.ly/go-recipes">HP</a>  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
 [⏫](#gobyes)   
 </br>  
-</br>  
 
 ### chisnall.phrasebook (2012)
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook) (just mirror)  
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall.  
-[Code](corpus/chisnall.phrasebook/examples/)  
+[Code gobye](corpus/chisnall.phrasebook/examples/)  
 [TOC](tbd)  
 [HP](http://bit.ly/go-phrasebook)    
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
 
 ### cmu440.intro-to-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
-[Code](corpus/cmu440.intro-to-go/)  
+[Code gobye](corpus/cmu440.intro-to-go/)  
 TOC n/a  
 HP n/a    
 Nice description followed here ...  
 <img src="resources/covers/cmu220.png" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
 
 ### codegangsta.essential-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)  
-A smart collection of 14 important go examples from around 2015.  
-[Code](corpus/codegangsta.essential-go)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/essential-go.svg)](https://github.com/codegangsta/essential-go)  
+A smart collection of 14 important go examples from around 2015. He also offers this in a video course. 
+[Code gobye](corpus/codegangsta.essential-go)  
 [TOC](tbd)  
 [HP]()  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
 
 ### golang.example
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)  
-<a href="corpus/golang.example">▶️</a> This is the official example collection with around 18 bit more complex examples.  
-[Code]()  
-[TOC](tbd)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)
+[![GitHub last commit](https://img.shields.io/github/last-commit/golang/example.svg)](https://github.com/golang/example)  
+This is the official example collection with around 18 bit more complex examples.  
+[Code gobye](corpus/golang.example)
+[TOC](tbd)
 [HP](tbd)  
 <img src="resources/covers/golang.png" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
 
 ### golang.tour
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)  
-<a href="corpus/golang.tour">▶️</a> This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this pointer stuff.  
-https://tour.golang.org/welcome/1  
-[Code]()  
+[![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)
+[![GitHub last commit](https://img.shields.io/github/last-commit/golang/example.svg)](https://github.com/golang/example)  
+This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this damn c-like pointer stuff.  
+[Code gobye](corpus/golang.tour)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://tour.golang.org/welcome/1)  
 <img src="resources/covers/golang.png" width="200">  
 [⏫](#gobyes)  
 </br>  
