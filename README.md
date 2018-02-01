@@ -90,7 +90,7 @@ Nice description followed here ...
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/essential-go.svg)](https://github.com/codegangsta/essential-go)  
-A smart collection of 14 important go examples from around 2015. He also offers this in a video course. 
+A smart collection of 14 important go examples from around 2015. He also offers this in a video course.  
 [Code gobye](corpus/codegangsta.essential-go)  
 [TOC](tbd)  
 [HP]()  
@@ -102,8 +102,8 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)
 [![GitHub last commit](https://img.shields.io/github/last-commit/golang/example.svg)](https://github.com/golang/example)  
 This is the official example collection with around 18 bit more complex examples.  
-[Code gobye](corpus/golang.example)
-[TOC](tbd)
+[Code gobye](corpus/golang.example)  
+[TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/golang.png" width="200">  
 [⏫](#gobyes)  
@@ -111,7 +111,7 @@ This is the official example collection with around 18 bit more complex examples
 
 ### golang.tour
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)
-[![GitHub last commit](https://img.shields.io/github/last-commit/golang/example.svg)](https://github.com/golang/example)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/golang/tour.svg)](https://github.com/golang/tour)  
 This is the repo of the of the "A Tour of Go". One of the first thing you have to check if you want to master go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this damn c-like pointer stuff.  
 [Code gobye](corpus/golang.tour)  
 [TOC](tbd)  
@@ -123,28 +123,25 @@ This is the repo of the of the "A Tour of Go". One of the first thing you have t
 
 
 ### iand.gocookbook
-[![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)  
-<a href="corpus/iand.gocookbook">▶️</a> Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
-[Code]()  
+[![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)
+[![GitHub last commit](https://img.shields.io/github/last-commit/iand/gocookbook.svg)](https://github.com/iand/gocookbook/)  
+Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
+[Code gobye](corpus/iand.gocookbook)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/iand.png" width="200">  
 [⏫](#gobyes)  
 </br>  
-</br>  
-
 
 ### kat.concurrency-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)
-<a href="corpus/kat.concurrency-go">▶️</a> description followed  
-[Code]()  
+Smart description followed here 
+[Code gobye](corpus/kat.concurrency-go)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
-</br>  
-</br>  
-
+</br>   
 
 ### masterminds.go-in-practice
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)  
