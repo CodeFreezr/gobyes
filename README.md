@@ -58,7 +58,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 ### apress.go-recipes (2016) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
-In 8 chapters and 83 go files your find a wide range a really usefull examples.  
+In 8 chapters and 83 go files your find a wide range of really usefull examples.  
 [Code gobye](corpus/apress.go-recipes)  
 <a href="https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=copyright&hl=de#v=onepage&q&f=false">TOC</a>  
 <a href="http://bit.ly/go-recipes">HP</a>  
