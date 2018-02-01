@@ -39,7 +39,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 [Code gobye](corpus/adonovan.gopl)  
 [TOC](tbd)  
-[🌐](http://www.gopl.io/)  
+[HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -50,13 +50,13 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 13 chapters full of examples and recipes by Aaron Torres.  
 [Code gobye](corpus/agtorre.go-cookbook)  
 [TOC](tbd)  
-[🌐](http://bit.ly/go-agtorre-cookbook)  
+[HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
 [⏫](#gobyes) 
 </br>  
 
 ### apress.go-recipes (2016) 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)🌐
+[![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
 In 8 chapters and 83 go files your find a wide range of really usefull examples.  
 [Code gobye](corpus/apress.go-recipes)  
@@ -71,7 +71,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall.  
 [Code gobye](corpus/chisnall.phrasebook/examples/)  
 [TOC](tbd)  
-[🌐](http://bit.ly/go-phrasebook)    
+[HP](http://bit.ly/go-phrasebook)  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
