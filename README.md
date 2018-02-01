@@ -9,7 +9,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 
 
 <ol>
-  <li><a href="#adonovangopl_(2015)">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
+  <li><a href="#adonovangopl-(2015)">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
   <li><a href="#agtorrego-cookbook2017">⏩</a> <b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#apressgo-recipes2016">⏩</a> <b>apress.go-recipes</b>	<a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#arschlesgo-in-5-minutes">⏩</a> <b>arschles.go-in-5-minutes</b>	<a href="https://github.com/arschles/go-in-5-minutes"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
