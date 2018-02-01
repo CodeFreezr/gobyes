@@ -10,7 +10,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 
 
 <ol>
-  <div>
+  <div style="float:left">
   <li><a href="#adonovangopl">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
   <li><a href="#agtorrego-cookbook">⏩</a> <b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#apressgo-recipes">⏩</a> <b>apress.go-recipes</b>	<a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
