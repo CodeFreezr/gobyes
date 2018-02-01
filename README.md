@@ -215,13 +215,13 @@ https://www.manning.com/books/get-programming-with-go (2018)
 </br>  
 
   
-### shapeshed.go-in-24
-[![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)  
-<a href="corpus/shapeshed.go-in-24">▶️</a> Here you find the sourcecode of one of the best structured book: "Go in 24 hours".  
-http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977 (2017)  
-[Code]()  
+### shapeshed.go-in-24 (2017)
+[![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)
+[![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)  
+Here you find the sourcecode of one of the best structured book: "Go in 24 hours". I you are in hurry, this one is for you.  
+[Code](corpus/shapeshed.go-in-24)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -229,9 +229,10 @@ http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation
 
   
 ### simonWaldherr.golang-examples
-[![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)  
-<a href="corpus/simonWaldherr.golang-examples">▶️</a> Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
-[Code]()  
+[![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/xusiwei/learn-golang/)  
+Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
+[Code](corpus/simonWaldherr.golang-examples)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/SimonWaldherr.jpg" width="200">  
