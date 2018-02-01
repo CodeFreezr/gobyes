@@ -231,7 +231,7 @@ Here you find the sourcecode of one of the best structured book: "Go in 24 hours
   
 ### simonWaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/xusiwei/learn-golang/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/SimonWaldherr/golang-examples/)  
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
 [Code](corpus/simonWaldherr.golang-examples)  
 [TOC](tbd)  
