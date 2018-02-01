@@ -10,6 +10,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 
 
 <ol>
+  <table><tr><td>
   <li><a href="#adonovangopl">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
   <li><a href="#agtorrego-cookbook">⏩</a> <b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#apressgo-recipes">⏩</a> <b>apress.go-recipes</b>	<a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -19,6 +20,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#golangexample">⏩</a> <b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangtour">⏩</a> <b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#iandgocookbook">⏩</a> <b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
+    </td></td>
   <li><a href="#katconcurrency-go">⏩</a> <b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
   <li><a href="#mastermindsgo-in-practice">⏩</a> <b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
   <li><a href="#mkazworking-with-go">⏩</a> <b>mkaz.working-with-go</b>	<a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -28,6 +30,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#shapeshedgo-in-24">⏩</a> <b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="resources/github-sociocon.png" width="18"></a></li>  
   <li><a href="#simonWaldherrgolang-examples">⏩</a> <b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#xusiweilearn-golang">⏩</a> <b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
+  </td></tr><table>
 </ol>
 
 </br>  
