@@ -142,7 +142,7 @@ https://tour.golang.org/welcome/1
 
 
 ### kat.concurrency-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)
 <a href="corpus/kat.concurrency-go">▶️</a> description followed  
 [Code]()  
 [TOC](tbd)  
@@ -191,9 +191,10 @@ https://gobyexample.com/
 
 
 ### mshindle.tidbits
-[![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)  
-<a href="corpus/mshindle.tidbits">▶️</a> description followed  
-[Code]()  
+[![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
+[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/nathany/mshindle/tidbits/)  
+Smart description followed here...    
+[Code](corpus/mshindle.tidbits)  
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/mshindle.jpg" width="200">  
@@ -202,13 +203,13 @@ https://gobyexample.com/
 </br>  
 
 
-### nathany.get-programming-with-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)  
-<a href="corpus/nathany.get-programming-with-go">▶️</a> Find here the sourcecodes of the upcoming books in 2018 "Get Programming in Go" in MEAP-State.  
-https://www.manning.com/books/get-programming-with-go (2018)  
-[Code]()  
+### nathany.get-programming-with-go (upcomming)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)  
+Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
+[Code](corpus/nathany.get-programming-with-go)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://www.manning.com/books/get-programming-with-go)  
 <img src="resources/covers/Youngman_GetProg-go_hiresmeap.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
@@ -244,7 +245,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 ### xusiwei.learn-golang
 [![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xusiwei/learn-golang.svg)](https://github.com/xusiwei/learn-golang/)  
-Smart Description goes here.
+Smart Description goes here.  
 [Code](corpus/xusiwei.learn-golang)  
 [TOC](tbd)  
 [HP](tbd)  
