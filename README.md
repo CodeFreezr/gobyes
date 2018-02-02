@@ -82,7 +82,7 @@ Smart descriptions here ...
 
 ### astaxie.build-web-with-go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
-Smart descriptions here ...  
+Great multilingual international project with a good community. Backuped by the https://beego.me/ guys.  
 [Code gobye](corpus/astaxie.build-web-with-go)  
 gitbook in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) | 
 [de](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/) | 
