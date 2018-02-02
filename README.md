@@ -53,7 +53,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 [![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
 13 chapters full of examples and recipes by Aaron Torres.  
 [Code gobye](corpus/agtorre.go-cookbook)  
-[TOC](tbd)  
+[TOC](https://www.packtpub.com/mapt/book/application_development/9781783286836)  
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
 [⏫](#gobyes) 
@@ -64,8 +64,8 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
 In 8 chapters and 83 go files your find a wide range of really usefull examples.  
 [Code gobye](corpus/apress.go-recipes)  
-<a href="https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=copyright&hl=de#v=onepage&q&f=false">TOC</a>  
-<a href="http://bit.ly/go-recipes">HP</a>  
+[TOC](https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
+[HP](http://bit.ly/go-recipes)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
 [⏫](#gobyes)   
 </br>  
