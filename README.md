@@ -72,7 +72,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 
 ### arschles.go-in-5-minutes  
 [![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)  
-At the moment there ar 17 short 5 Minutes Screencast which gives you a fast inside on specific topics. 
+At the moment there are around 17 short 5 Minutes Screencasts which gives you a fast inside on specific topics.  
 [Code gobye](corpus/arschles.go-in-5-minutes)  
 [TOC](https://www.goin5minutes.com/screencasts/)  
 [HP](https://www.goin5minutes.com/)  
