@@ -189,7 +189,8 @@ Smart description followed here ...
 </br>   
 
 ### kelsey.intro-to-go  
-[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop/)  [![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
 Mr. Kelsey Hightower is not the man in the Highcastle, but an anchorman for the kube based google cloud community. He has also created a go beginners guide some years ago. With only a few solo go-files, but alot markdown embedded ones.  
 [Code gobye](corpus/kelsey.intro-to-go)  
 [TOC](tbd)  
