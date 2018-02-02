@@ -18,11 +18,11 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#chisnallphrasebook-2012">⏩</a> <b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
   <li><a href="#codegangstaessential-go">⏩</a> <b>codegangsta.essential-go</b>	<a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#goes211golangtraining">⏩</a> <b>goes211.golangtraining</b>	<a href="https://github.com/GoesToEleven/GolangTraining"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
-  <li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
+
+<li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#golangexample">⏩</a> <b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangtour">⏩</a> <b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#katconcurrency-go">⏩</a> <b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
-  <li><a href="#kelseyintro-to-go">⏩</a> <b>kelsey.intro-to-go</b>	<a href="https://github.com/kelseyhightower/intro-to-go-workshop"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#mastermindsgo-in-practice-2016">⏩</a> <b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
   <li><a href="#mkazworking-with-go">⏩</a> <b>mkaz.working-with-go</b>	<a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#mmcgranagobyexample">⏩</a> <b>mmcgrana.gobyexample</b>	<a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -34,40 +34,72 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </ol>
 </br>  
 </br>  
-    
+ 
+
+[⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012")[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#astaxiebuild-web-with-go)[⏩](#codegangstaessential-go)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#chisnallphrasebook-2012")[⏩](#goes211golangtraining)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#codegangstaessential-go)[⏩](#goes211golang-web-dev)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#goes211golangtraining)[⏩](#golangexample)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#goes211golang-web-dev)[⏩](#golangtour)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#golangexample)[⏩](#katconcurrency-go)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#golangtour)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#katconcurrency-go)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+
+
+
+</br>  
+</br>  
+
 ### adonovan.gopl (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
+[⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)  
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 [Code gobye](corpus/adonovan.gopl)  
 [TOC](http://www.gopl.io/ch1.pdf)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
-[⏫](#gobyes)  
 </br>  
 </br>  
+
 
 ### agtorre.go-cookbook (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
+[⏮️](#gobyes)[⏪](#adonovangopl-2015)[⏩](#apressgo-recipes-2016)[⏭️](#eop)  
 13 chapters full of examples and recipes by Aaron Torres.  
 [Code gobye](corpus/agtorre.go-cookbook)  
 [TOC](https://www.packtpub.com/mapt/book/application_development/9781783286836)  
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
-[⏫](#gobyes) 
 </br>  
 </br>  
 
-### apress.go-recipes (2016) 
+
+### apress.go-recipes (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
+[⏮️](#gobyes)[⏪](#agtorrego-cookbook-2017)[⏩](#arschlesgo-in-5-minutes)[⏭️](#eop)  
 In 8 chapters and 83 go files your find a wide range of really usefull examples.  
 [Code gobye](corpus/apress.go-recipes)  
 [TOC](https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
 [HP](http://bit.ly/go-recipes)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
-[⏫](#gobyes)   
 </br>  
 </br>  
 
@@ -174,22 +206,10 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 Smart description followed here ...  
 [Code gobye](corpus/kat.concurrency-go)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](http://katherine.cox-buday.com/concurrency-in-go/)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>   
-</br>  
-
-### kelsey.intro-to-go  
-[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
-Mr. Kelsey Hightower is not the man in the Highcastle, but an anchorman for the kube based google cloud community. He has also created a go beginners guide some years ago. With only a few solo go-files, but alot markdown embedded ones.  
-[Code gobye](corpus/kelsey.intro-to-go)  
-[TOC](tbd)  
-[HP](tbd)  
-<img src="resources/covers/kelsey.jpg" width="200">  
-[⏫](#gobyes)  
-</br>  
 </br>  
 
 ### masterminds.go-in-practice (2016)
@@ -266,7 +286,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/SimonWaldherr.jpg" width="200">  
-[⏫](#gobyes)  
+[⏮️](#shapeshedgo-in-24-2017)[⏫](#gobyes)[⏬](#xusiweilearn-golang)[⏭️](#End-of-Page)   
 </br>  
 
 ### xusiwei.learn-golang
@@ -277,58 +297,12 @@ Smart Description goes here.
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/xusiwei.jpg" width="200">  
-[⏫](#gobyes)  
+[⏮️](#simonWaldherrgolang-examples)[⏫](#gobyes)[⏬](#endOfPage)[⏭️](#End-of-Page)  
 </br>  
 </br>  
 
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>   
+### eop  
+.
 
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>   
 
-### End-of-Page  
+
