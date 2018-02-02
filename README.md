@@ -21,7 +21,6 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#golangexample">⏩</a> <b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangtour">⏩</a> <b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
-  <li><a href="#iandgocookbook">⏩</a> <b>iand.gocookbook</b>	<a href="https://github.com/iand/gocookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#katconcurrency-go">⏩</a> <b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
   <li><a href="#kelseyintro-to-go">⏩</a> <b>kelsey.intro-to-go</b>	<a href="https://github.com/kelseyhightower/intro-to-go-workshop"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#mastermindsgo-in-practice-2016">⏩</a> <b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
@@ -46,6 +45,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 <img src="resources/covers/gobl.png" width="200">  
 [⏫](#gobyes)  
 </br>  
+</br>  
 
 ### agtorre.go-cookbook (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
@@ -56,6 +56,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
 [⏫](#gobyes) 
+</br>  
 </br>  
 
 ### apress.go-recipes (2016) 
@@ -68,6 +69,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
 [⏫](#gobyes)   
 </br>  
+</br>  
 
 ### arschles.go-in-5-minutes  
 [![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)  
@@ -77,6 +79,7 @@ At the moment there are around 17 short 5 Minutes Screencasts which gives you a 
 [HP](https://www.goin5minutes.com/)  
 <img src="resources/covers/arschles.jpg" width="200">  
 [⏫](#gobyes)  
+</br>  
 </br>  
 
 ### astaxie.build-web-with-go  
@@ -93,6 +96,7 @@ HP in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/conten
 <img src="resources/covers/astaxie.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
+</br>  
 
 ### chisnall.phrasebook (2012)
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)
@@ -103,6 +107,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 [HP](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
 [⏫](#gobyes)  
+</br>  
 </br>  
 
 ### codegangsta.essential-go
@@ -115,15 +120,17 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 <img src="resources/covers/codegangsta.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
+</br>  
 
 ### goes211.golangtraining  
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
-Smart descriptions here ...  
+Learn programming from a University Professor in Computer Science with over 20 years of teaching experience. 
 [Code gobye](corpus/goes211.GolangTraining)  
 [TOC](tbd)  
 [HP](https://www.greatercommons.com/learn/5098183625539584)  
 <img src="resources/covers/goes211.jpg" width="200">  
 [⏫](#gobyes)  
+</br>  
 </br>  
 
 ### goes211.golang-web-dev  
@@ -131,10 +138,11 @@ Smart descriptions here ...
 Smart descriptions here ...  
 [Code gobye](corpus/goes211.golang-web-dev)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://www.greatercommons.com/learn/6600110066630656)  
 <img src="resources/covers/goes211.jpg" width="200">  
 [⏫](#gobyes)  
 </br> 
+</br>  
 
 ### golang.example
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/example)](https://goreportcard.com/report/github.com/golang/example)
@@ -142,9 +150,10 @@ Smart descriptions here ...
 This is the official example collection with around 18 bit more complex examples.  
 [Code gobye](corpus/golang.example)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://github.com/golang/example/blob/master/README.md)  
 <img src="resources/covers/golang.png" width="200">  
 [⏫](#gobyes)  
+</br>  
 </br>  
 
 ### golang.tour
@@ -159,17 +168,6 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 </br>  
 </br>  
 
-### iand.gocookbook
-[![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iand/gocookbook.svg)](https://github.com/iand/gocookbook)  
-Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
-[Code gobye](corpus/iand.gocookbook)  
-[TOC](tbd)  
-[HP](tbd)  
-<img src="resources/covers/iand.png" width="200">  
-[⏫](#gobyes)  
-</br>  
-
 ### kat.concurrency-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)
 [![GitHub last commit](https://img.shields.io/github/last-commit/kat-co/concurrency-in-go-src.svg)](https://github.com/kat-co/concurrency-in-go-src/)  
@@ -180,6 +178,7 @@ Smart description followed here ...
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>   
+</br>  
 
 ### kelsey.intro-to-go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)
@@ -190,6 +189,7 @@ Mr. Kelsey Hightower is not the man in the Highcastle, but an anchorman for the 
 [HP](tbd)  
 <img src="resources/covers/kelsey.jpg" width="200">  
 [⏫](#gobyes)  
+</br>  
 </br>  
 
 ### masterminds.go-in-practice (2016)
