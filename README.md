@@ -82,7 +82,7 @@ At the moment there are around 17 short 5 Minutes Screencasts which gives you a 
 
 ### astaxie.build-web-with-go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
-Great multilingual international project with a good community. Backuped by the https://beego.me/ guys.  
+Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
 [Code gobye](corpus/astaxie.build-web-with-go)  
 gitbook in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) | 
 [de](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/) | 
