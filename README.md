@@ -42,7 +42,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 [Code gobye](corpus/adonovan.gopl)  
-[TOC](tbd)  
+[TOC](http://www.gopl.io/ch1.pdf)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
 [⏫](#gobyes)  
