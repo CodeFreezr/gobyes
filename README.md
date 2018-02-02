@@ -49,7 +49,6 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 [TOC](http://www.gopl.io/ch1.pdf)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
-[⏫](#gobyes)  
 </br>  
 </br>  
 
@@ -63,7 +62,6 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 [TOC](https://www.packtpub.com/mapt/book/application_development/9781783286836)  
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
-[⏫](#gobyes) 
 </br>  
 </br>  
 
@@ -77,7 +75,6 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 [TOC](https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
 [HP](http://bit.ly/go-recipes)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
-[⏫](#gobyes)   
 </br>  
 </br>  
 
