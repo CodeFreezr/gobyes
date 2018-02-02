@@ -109,6 +109,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/essential-go.svg)](https://github.com/codegangsta/essential-go)  
 A smart collection of 14 important go examples from around 2015. He also offers this in a video course.  
 [Code gobye](corpus/codegangsta.essential-go)  
+[TOC](tbd)  
 [HP](https://www.kajabinext.com/marketplace/courses/1-essential-go)  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 [⏫](#gobyes)  
@@ -117,9 +118,9 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 ### goes211.golangtraining  
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
 Smart descriptions here ...  
-[Code gobye](corpus/goes211.golangtraining)  
+[Code gobye](corpus/goes211.GolangTraining)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://www.greatercommons.com/learn/5098183625539584)  
 <img src="resources/covers/goes211.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
