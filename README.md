@@ -109,8 +109,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/essential-go.svg)](https://github.com/codegangsta/essential-go)  
 A smart collection of 14 important go examples from around 2015. He also offers this in a video course.  
 [Code gobye](corpus/codegangsta.essential-go)  
-[TOC](tbd)  
-[HP]()  
+[HP](https://www.kajabinext.com/marketplace/courses/1-essential-go)  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
