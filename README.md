@@ -34,7 +34,9 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </ol>
 </br>  
 </br>  
-    
+
+
+
 ### adonovan.gopl (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
@@ -269,7 +271,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 [⏫](#gobyes)  
 </br>  
 
-### xusiwei.learn-golang
+[⏮️](#simonWaldherrgolang-examples)[⏫](#gobyes)[⏬](#End-of-Page)[⏭️](#End-of-Page)### xusiwei.learn-golang
 [![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xusiwei/learn-golang.svg)](https://github.com/xusiwei/learn-golang/)  
 Smart Description goes here.  
@@ -277,58 +279,69 @@ Smart Description goes here.
 [TOC](tbd)  
 [HP](tbd)  
 <img src="resources/covers/xusiwei.jpg" width="200">  
-[⏫](#gobyes)  
+  
 </br>  
 </br>  
-
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>   
-
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>  
-</br>   
 
 ### End-of-Page  
+
+#adonovangopl-2015
+#agtorrego-cookbook-2017
+#apressgo-recipes-2016
+
+#shapeshedgo-in-24-2017
+#simonWaldherrgolang-examples
+#xusiweilearn-golang
+
+
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>   
+
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>  
+</br>   
+
+### Real End-of-Page  
