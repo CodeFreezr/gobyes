@@ -89,7 +89,7 @@ gitbook in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/c
 [fr](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) | 
 [pt](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) | 
 [ja](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/) | 
-[zh](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) |  
+[zh](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)  
 <img src="resources/covers/astaxie.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
