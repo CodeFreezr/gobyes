@@ -74,8 +74,8 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 [![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)  
 Smart descriptions here ...  
 [Code gobye](corpus/arschles.go-in-5-minutes)  
-[TOC](tbd)  
-[HP](tbd)  
+[TOC](https://www.goin5minutes.com/screencasts/)  
+[HP](https://www.goin5minutes.com/)  
 <img src="resources/covers/arschles.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
