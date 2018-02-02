@@ -71,7 +71,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 </br>  
 
 ### arschles.go-in-5-minutes  
-[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes/)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)  
 Smart descriptions here ...  
 [Code gobye](corpus/arschles.go-in-5-minutes)  
 [TOC](tbd)  
@@ -81,7 +81,7 @@ Smart descriptions here ...
 </br>  
 
 ### astaxie.build-web-with-go  
-[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang/)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
 Smart descriptions here ...  
 [Code gobye](corpus/astaxie.build-web-with-go)  
 [TOC](tbd)  
@@ -104,7 +104,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 ### cmu440.intro-to-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
-[Code gobye](corpus/cmu440.intro-to-go/)  
+[Code gobye](corpus/cmu440.intro-to-go)  
 TOC n/a  
 HP n/a    
 Nice description followed here ...  
@@ -124,7 +124,7 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 </br>  
 
 ### goes211.golangtraining  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev/)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
 Smart descriptions here ...  
 [Code gobye](corpus/goes211.golangtraining)  
 [TOC](tbd)  
@@ -134,7 +134,7 @@ Smart descriptions here ...
 </br>  
 
 ### goes211.golang-web-dev  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining/)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining/)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining)  [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining)  
 Smart descriptions here ...  
 [Code gobye](corpus/goes211.golang-web-dev)  
 [TOC](tbd)  
@@ -168,7 +168,7 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 
 ### iand.gocookbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/iand/gocookbook)](https://goreportcard.com/report/github.com/iand/gocookbook)
-[![GitHub last commit](https://img.shields.io/github/last-commit/iand/gocookbook.svg)](https://github.com/iand/gocookbook/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/iand/gocookbook.svg)](https://github.com/iand/gocookbook)  
 Around 45 go recipes tenderly wrapped into markdown. 🤔: Go Report won't analyse embedded code.   
 [Code gobye](corpus/iand.gocookbook)  
 [TOC](tbd)  
