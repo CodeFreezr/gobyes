@@ -84,12 +84,12 @@ Smart descriptions here ...
 [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
 Smart descriptions here ...  
 [Code gobye](corpus/astaxie.build-web-with-go)  
-gitbooks in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) | 
+gitbook in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) | 
 [de](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/) | 
 [fr](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) | 
 [pt](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) | 
 [ja](https://astaxie.gitbooks.io/build-web-application-with-golang/content/ja/) | 
-[zh](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) | 
+[zh](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) |  
 <img src="resources/covers/astaxie.jpg" width="200">  
 [⏫](#gobyes)  
 </br>  
