@@ -174,7 +174,7 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 Smart description followed here ...  
 [Code gobye](corpus/kat.concurrency-go)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](http://katherine.cox-buday.com/concurrency-in-go/)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>   
