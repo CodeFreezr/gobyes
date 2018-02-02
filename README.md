@@ -16,7 +16,6 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#arschlesgo-in-5-minutes">⏩</a> <b>arschles.go-in-5-minutes</b>	<a href="https://github.com/arschles/go-in-5-minutes"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#astaxiebuild-web-with-go">⏩</a> <b>astaxie.build-web-with-go</b>	<a href="https://github.com/astaxie/build-web-application-with-golang"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#chisnallphrasebook-2012">⏩</a> <b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
-  <li><a href="#cmu440intro-to-go">⏩</a> <b>cmu440.intro-to-go</b>	<a href="https://github.com/cmu440/intro-to-go"><img src="resources/github-sociocon.png" width="18"></a>(new)</li>
   <li><a href="#codegangstaessential-go">⏩</a> <b>codegangsta.essential-go</b>	<a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#goes211golangtraining">⏩</a> <b>goes211.golangtraining</b>	<a href="https://github.com/GoesToEleven/GolangTraining"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
@@ -99,20 +98,9 @@ gitbook in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/c
 [![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/phrasebook.svg)](https://github.com/CodeFreezr/phrasebook/) (just mirror)  
 Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall.  
 [Code gobye](corpus/chisnall.phrasebook/examples/)  
-[TOC](tbd)  
-[HP](http://bit.ly/go-phrasebook)  
+[TOC](http://bit.ly/go-phrasebook)  
+[HP](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
-[⏫](#gobyes)  
-</br>  
-
-### cmu440.intro-to-go
-[![Go Report Card](https://goreportcard.com/badge/github.com/cmu440/intro-to-go)](https://goreportcard.com/report/github.com/cmu440/intro-to-go)
-[![GitHub last commit](https://img.shields.io/github/last-commit/cmu440/intro-to-go.svg)](https://github.com/cmu440/intro-to-go)  
-[Code gobye](corpus/cmu440.intro-to-go)  
-TOC n/a  
-HP n/a    
-Nice description followed here ...  
-<img src="resources/covers/cmu220.png" width="200">  
 [⏫](#gobyes)  
 </br>  
 
