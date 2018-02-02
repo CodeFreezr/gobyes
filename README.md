@@ -18,11 +18,11 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#chisnallphrasebook-2012">⏩</a> <b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
   <li><a href="#codegangstaessential-go">⏩</a> <b>codegangsta.essential-go</b>	<a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#goes211golangtraining">⏩</a> <b>goes211.golangtraining</b>	<a href="https://github.com/GoesToEleven/GolangTraining"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
-  <li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
+
+<li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#golangexample">⏩</a> <b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangtour">⏩</a> <b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#katconcurrency-go">⏩</a> <b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
-  <li><a href="#kelseyintro-to-go">⏩</a> <b>kelsey.intro-to-go</b>	<a href="https://github.com/kelseyhightower/intro-to-go-workshop"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#mastermindsgo-in-practice-2016">⏩</a> <b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
   <li><a href="#mkazworking-with-go">⏩</a> <b>mkaz.working-with-go</b>	<a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#mmcgranagobyexample">⏩</a> <b>mmcgrana.gobyexample</b>	<a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -34,19 +34,17 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </ol>
 </br>  
 </br>  
+ 
 
-⏫⏪⏩⏬  
-⏮️⏪⏩⏭️  
-
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-[⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012")[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#astaxiebuild-web-with-go)[⏩](#codegangstaessential-go)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#chisnallphrasebook-2012")[⏩](#goes211golangtraining)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#codegangstaessential-go)[⏩](#goes211golang-web-dev)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#goes211golangtraining)[⏩](#golangexample)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#goes211golang-web-dev)[⏩](#golangtour)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#golangexample)[⏩](#katconcurrency-go)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#golangtour)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#katconcurrency-go)[⏩](#)[⏭️](#eop)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
@@ -212,18 +210,6 @@ Smart description followed here ...
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 [⏫](#gobyes)  
 </br>   
-</br>  
-
-### kelsey.intro-to-go  
-[![Go Report Card](https://goreportcard.com/badge/github.com/kelseyhightower/intro-to-go-workshop)](https://goreportcard.com/report/github.com/kelseyhightower/intro-to-go-workshop)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kelseyhightower/intro-to-go-workshop.svg)](https://github.com/kelseyhightower/intro-to-go-workshop/)  
-Mr. Kelsey Hightower is not the man in the Highcastle, but an anchorman for the kube based google cloud community. He has also created a go beginners guide some years ago. With only a few solo go-files, but alot markdown embedded ones.  
-[Code gobye](corpus/kelsey.intro-to-go)  
-[TOC](tbd)  
-[HP](tbd)  
-<img src="resources/covers/kelsey.jpg" width="200">  
-[⏫](#gobyes)  
-</br>  
 </br>  
 
 ### masterminds.go-in-practice (2016)
