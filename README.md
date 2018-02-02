@@ -35,15 +35,18 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </br>  
 </br>  
 
-
-
-
-
+⏫⏪⏩⏬  
+⏮️⏪⏩⏭️  
+[⏮️](#gobyes)[⏫](#gobyes)[⏬](#eop)[⏭️](#agtorrego-cookbook-2017)  
+[⏮️](#adonovangopl-2015)[⏫](#gobyes)[⏬](#eop)[⏭️](#apressgo-recipes-2016)  
+[⏮️](#agtorrego-cookbook-2017)[⏫](#gobyes)[⏬](#eop)[⏭️](#arschlesgo-in-5-minutes)  
+</br>  
+</br>  
 
 ### adonovan.gopl (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
-[⏮️](#gobyes)[⏫](#gobyes)[⏬](#eop)[⏭️](#agtorrego-cookbook-2017)  
+
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 [Code gobye](corpus/adonovan.gopl)  
 [TOC](http://www.gopl.io/ch1.pdf)  
@@ -56,7 +59,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 ### agtorre.go-cookbook (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
-[⏮️](#adonovangopl-2015)[⏫](#gobyes)[⏬](#eop)[⏭️](#apressgo-recipes-2016)  
+
 13 chapters full of examples and recipes by Aaron Torres.  
 [Code gobye](corpus/agtorre.go-cookbook)  
 [TOC](https://www.packtpub.com/mapt/book/application_development/9781783286836)  
@@ -69,7 +72,7 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 ### apress.go-recipes (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
-[⏮️](#agtorrego-cookbook-2017)[⏫](#gobyes)[⏬](#eop)[⏭️](#arschlesgo-in-5-minutes)  
+
 In 8 chapters and 83 go files your find a wide range of really usefull examples.  
 [Code gobye](corpus/apress.go-recipes)  
 [TOC](https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
