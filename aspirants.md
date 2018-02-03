@@ -25,12 +25,12 @@ https://github.com/matryer/goblueprints
 https://github.com/thewhitetulip/web-dev-golang-anti-textbook/  
 
 <ol>
-    <li><a href="#codegangstabwag">⏩</a> <b></b> <a href="https://github.com/codegangsta/bwag"><img src="resources/github-sociocon.png" width="18">codegangsta.bwag</a></li>
-    <li><a href="#goinactioncode">⏩</a> <b></b> <a href="https://github.com/goinaction/code"><img src="resources/github-sociocon.png" width="18">goinaction.code</a></li>
-    <li><a href="#goLangsamAnyType">⏩</a> <b></b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="resources/github-sociocon.png" width="18">golangsam.AnyType</a></li>
-    <li><a href="#jochasingagolang-book">⏩</a> <b></b> <a href="https://github.com/jochasinga/golang-book"><img src="resources/github-sociocon.png" width="18">jochasinga.golang-book</a></li>
-    <li><a href="#matryergoblueprints">⏩</a> <b></b> <a href="https://github.com/matryer/goblueprints"><img src="resources/github-sociocon.png" width="18">matryer.goblueprints</a></li>
-    <li><a href="#thewhitetulipweb-dev-golang-anti-textbook">⏩</a> <b></b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="resources/github-sociocon.png" width="18">thewhitetulip.anti-textbook</a></li>
+<li><a href="#codegangstabwag">⏩</a> <b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#goinactioncode">⏩</a> <b>goinaction.code</b> <a href="https://github.com/goinaction/code"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#goLangsamAnyType">⏩</a> <b>golangsam.AnyType</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#jochasingagolang-book">⏩</a> <b>jochasinga.golang-book</b> <a href="https://github.com/jochasinga/golang-book"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#matryergoblueprints">⏩</a> <b>matryer.goblueprints</b> <a href="https://github.com/matryer/goblueprints"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#thewhitetulipweb-dev-golang-anti-textbook">⏩</a> <b>thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="resources/github-sociocon.png" width="18"></a></li>
 </ol>
 
 <ol>
