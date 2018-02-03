@@ -1,7 +1,7 @@
 # Some Aspirants (2018-02-03)
 
 
-
+## gobyes
 
 codegangsta.bwag  
 goinaction.code  
@@ -115,3 +115,6 @@ Smart description comes here ...
 <img src="resources/covers/the-anti-textbook.jpg" width="200">  
 </br>  
 </br>  
+
+
+## eop
