@@ -29,7 +29,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#mshindletidbits">⏩</a> <b>mshindle.tidbits</b>	<a href="https://github.com/mshindle/tidbits"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
   <li><a href="#nathanyget-programming-with-go-upcomming">⏩</a> <b>nathany.get-programming-with-go</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#shapeshedgo-in-24-2017">⏩</a> <b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="resources/github-sociocon.png" width="18"></a></li>  
-  <li><a href="#simonWaldherrgolang-examples">⏩</a> <b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="resources/github-sociocon.png" width="18"></a></li>
+  <li><a href="#simo">⏩</a> <b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#xusiweilearn-golang">⏩</a> <b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
 </ol>
 </br>  
