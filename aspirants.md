@@ -17,7 +17,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/bwag)](https://goreportcard.com/report/github.com/codegangsta/bwag)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/bwag.svg)](https://github.com/codegangsta/bwag/)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-Smart description comes here
+Smart description comes here ...  
 [Code gobye](corpus/codegangsta.bwag)  
 [TOC](tbd)  
 [HP](tbd)  
@@ -29,7 +29,7 @@ Smart description comes here
 [![Go Report Card](https://goreportcard.com/badge/github.com/goinaction/code)](https://goreportcard.com/report/github.com/goinaction/code)
 [![GitHub last commit](https://img.shields.io/github/last-commit/goinaction/code.svg)](https://github.com/goinaction/code/)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-Smart description comes here
+Smart description comes here ...  
 [Code gobye](corpus/goinaction.code)  
 [TOC](tbd)  
 [HP](tbd)  
@@ -41,7 +41,7 @@ Smart description comes here
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoLangsam/AnyType)](https://goreportcard.com/report/github.com/GoLangsam/AnyType)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoLangsam/AnyType.svg)](https://github.com/GoLangsam/AnyType/)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-Smart description comes here
+Smart description comes here ...  
 [Code gobye](corpus/golangsam.AnyType)  
 [TOC](tbd)  
 [HP](tbd)  
@@ -53,7 +53,7 @@ Smart description comes here
 [![Go Report Card](https://goreportcard.com/badge/github.com/jochasinga/golang-book)](https://goreportcard.com/report/github.com/jochasinga/golang-book)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jochasinga/golang-book.svg)](https://github.com/jochasinga/golang-book/)  
 [⏮️](#gobyes)[⏪](#)[⏩](#)[⏭️](#eop)  
-Smart description comes here
+Smart description comes here ...  
 [Code gobye](corpus/jochasinga.golang-book)  
 [TOC](tbd)  
 [HP](tbd)  
