@@ -33,7 +33,8 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#xusiweilearn-golang">⏩</a> <b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
 </ol>
 </br>  
-</br>  
+</br> 
+![Gobyes Treemap](resources/gobeysWinDirStat.gif "Gobyes Treemap")  
 </br>  
 </br>  
 
