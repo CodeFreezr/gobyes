@@ -1,0 +1,41 @@
+{{/*-
+{{.DotDot ""		"int"		}}
+{{.DotDot "Int8"	"int8"		}}
+{{.DotDot "Int16"	"int16"		}}
+{{.DotDot "Int32"	"int32"		}}
+{{.DotDot "Int64"	"int64"		}}
+{{.DotDot "UInt"	"uint"		}}
+{{.DotDot "UInt8"	"uint8"		}}
+{{.DotDot "UInt16"	"uint16"	}}
+{{.DotDot "UInt32"	"uint32"	}}
+{{.DotDot "UInt64"	"uint64"	}}
+{{range .Range}}
+	{{.DotDot ":Package:" "IsInteger"}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// from go/types/type.go
+
+// BasicKind describes the kind of basic type.
+type BasicKind int
+
+// BasicInfo is a set of flags describing properties of a basic type.
+type BasicInfo int
+
+// Properties of basic types.
+const (
+	IsBoolean BasicInfo = 1 << iota
+	IsInteger
+	IsUnsigned
+	IsFloat
+	IsComplex
+	IsString
+	IsUntyped
+
+	IsOrdered   = IsInteger | IsFloat | IsString
+	IsNumeric   = IsInteger | IsFloat | IsComplex
+	IsConstType = IsBoolean | IsNumeric | IsString
+)
+
+var _ BasicInfo = IsOrdered // allows to use "Merge"
+// token.LSS, token.LEQ, token.GTR, token.GEQ

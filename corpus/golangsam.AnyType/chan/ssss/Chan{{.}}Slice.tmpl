@@ -1,0 +1,13 @@
+// Chan{{.}}Slice returns a channel to receive all inputs before close.
+func Chan{{.}}Slice(inp ...[]{{.Dot}}) chan {{.Dot}} {
+	out := make(chan {{.Dot}})
+	go func() {
+		defer close(out)
+		for i := range inp {
+			for j := range inp[i] {
+				out <- inp[i][j]
+			}
+		}
+	}()
+	return out
+}

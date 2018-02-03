@@ -1,0 +1,23 @@
+{{/*-
+{{.DotDot "File"		"*zip.File"	}}
+{{.DotDot "FileHeader"		"*zip.FileHeader"	}}
+{{.DotDot "ReadCloser"		"*zip.ReadCloser"	}}
+{{.DotDot "Reader"		"*zip.Reader"	}}
+{{.DotDot "Writer"		"*zip.Writer"	}}
+{{range .Range}}
+	{{.DotDot ":Package:" "zip"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "archive/zip" "zip"}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.
+
+/*
+	"File":       "*zip.File",       // ...
+	"FileHeader": "*zip.FileHeader", // func FileInfoHeader(fi os.FileInfo) (*FileHeader, error)
+	"ReadCloser": "*zip.ReadCloser", // func OpenReader(name string) (*ReadCloser, error)
+	"Reader":     "*zip.Reader",     // func NewReader(r io.ReaderAt, size int64) (*Reader, error)
+	"Writer":     "*zip.Writer",     // func NewWriter(w io.Writer) *Writer
+*/

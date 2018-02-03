@@ -1,0 +1,11 @@
+// Chan{{.}} returns a channel to receive all inputs before close.
+func Chan{{.}}(inp ...{{.Dot}}) chan {{.Dot}} {
+	out := make(chan {{.Dot}})
+	go func() {
+		defer close(out)
+		for i := range inp {
+			out <- inp[i]
+		}
+	}()
+	return out
+}

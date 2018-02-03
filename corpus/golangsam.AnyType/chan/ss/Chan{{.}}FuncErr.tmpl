@@ -1,0 +1,17 @@
+func chan{{.}}FuncErr(out chan<- {{.Dot}}, act func() ({{.Dot}}, error)) {
+	defer close(out)
+	for {
+		res, err := act() // Apply action
+		if err != nil {
+			return
+		}
+		out <- res
+	}
+}
+
+// Chan{{.}}FuncErr returns a channel to receive all results of act until err != nil before close.
+func Chan{{.}}FuncErr(act func() ({{.Dot}}, error)) (out <-chan {{.Dot}}) {
+	cha := make(chan {{.Dot}})
+	go chan{{.}}FuncErr(cha, act)
+	return cha
+}

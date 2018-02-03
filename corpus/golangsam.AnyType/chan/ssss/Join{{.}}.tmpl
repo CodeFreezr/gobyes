@@ -1,0 +1,12 @@
+// Join{{.}} sends inputs on the given out channel and returns a done channel to receive one signal when inp has been drained
+func Join{{.}}(out chan<- {{.Dot}}, inp ...{{.Dot}}) chan struct{} {
+	done := make(chan struct{})
+	go func() {
+		defer close(done)
+		for i := range inp {
+			out <- inp[i]
+		}
+		done <- struct{}{}
+	}()
+	return done
+}

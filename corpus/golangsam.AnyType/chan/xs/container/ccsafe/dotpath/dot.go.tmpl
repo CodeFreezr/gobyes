@@ -1,0 +1,11 @@
+{{/*-
+{{.DotDot "DotPath"     "*dotpath.DotPath"}}
+{{range .Range}}
+	{{.DotDot ":Package:" "dotpath"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "github.com/golangsam/container/ccsafe/dotpath" ""}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.

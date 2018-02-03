@@ -1,0 +1,15 @@
+// Done{{.}}Func returns a channel to receive one signal before close after act has been applied to all inp.
+func Done{{.}}Func(inp <-chan {{.Dot}}, act func(a {{.Dot}})) (out <-chan struct{}) {
+	cha := make(chan struct{})
+	if act == nil {
+		act = func(a {{.Dot}}) { return }
+	}
+	go func(done chan<- struct{}, inp <-chan {{.Dot}}, act func(a {{.Dot}})) {
+		defer close(done)
+		for i := range inp {
+			act(i) // Apply action
+		}
+		done <- struct{}{}
+	}(cha, inp, act)
+	return cha
+}

@@ -1,0 +1,15 @@
+// Chan{{.}}FuncNok returns a channel to receive all results of act until nok before close.
+func Chan{{.}}FuncNok(act func() ({{.Dot}}, bool)) (<-chan {{.Dot}}) {
+	out := make(chan {{.Dot}})
+	go func() {
+		defer close(out)
+		for {
+			res, ok := act() // Apply action
+			if !ok {
+				return
+			}
+			out <- res
+		}
+	}()
+	return out
+}

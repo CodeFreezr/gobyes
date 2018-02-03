@@ -1,0 +1,40 @@
+// {{.}}Tube is the signature for a pipe function.
+type {{.}}Tube func(inp <-chan {{.Dot}}, out <-chan {{.Dot}})
+
+// {{.}}Daisy returns a channel to receive all inp after having passed thru tube.
+func {{.}}Daisy(inp <-chan {{.Dot}}, tube {{.}}Tube) (out <-chan {{.Dot}}) {
+	cha := make(chan {{.Dot}})
+	go tube(inp, cha)
+	return cha
+}
+
+// {{.}}DaisyChain returns a channel to receive all inp after having passed thru all tubes.
+func {{.}}DaisyChain(inp <-chan {{.Dot}}, tubes ...{{.}}Tube) (out <-chan {{.Dot}}) {
+	cha := inp
+	for i := range tubes {
+		cha = {{.}}Daisy(cha, tubes[i])
+	}
+	return cha
+}
+
+/*
+func sendOneInto(snd chan<- int) {
+	defer close(snd)
+	snd <- 1 // send a 1
+}
+
+func sendTwoInto(snd chan<- int) {
+	defer close(snd)
+	snd <- 1 // send a 1
+	snd <- 2 // send a 2
+}
+
+var fun = func(left chan<- int, right <-chan int) { left <- 1 + <-right }
+
+func main() {
+	leftmost := make(chan int)
+	right := daisyChain(leftmost, fun, 10000) // the chain - right to left!
+	go sendTwoInto(right)
+	fmt.Println(<-leftmost)
+}
+*/

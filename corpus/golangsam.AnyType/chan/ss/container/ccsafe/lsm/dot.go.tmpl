@@ -1,0 +1,11 @@
+{{/*-
+{{.DotDot "LSM"     "*lsm.LazyStringerMap"}}
+{{range .Range}}
+	{{.DotDot ":Package:" "lsm"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "github.com/golangsam/container/ccsafe/lsm" ""}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.

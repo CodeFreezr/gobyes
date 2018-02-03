@@ -1,0 +1,5 @@
+{{ with .G ":Import:" }}{{if .Range  }}import (
+{{ range .Range}}	{{if .Dot    }}{{.Dot}} {{end}}"{{.}}"
+{{ end }})
+
+{{ end }}{{ end }}

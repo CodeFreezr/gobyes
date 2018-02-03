@@ -1,0 +1,50 @@
+// DCh{{.}} is a demand channel
+type DCh{{.}} struct {
+	dat chan {{.Dot}}
+	req chan struct{}
+}
+
+// MakeDemand{{.}}Chan returns
+// a (pointer to a) fresh
+// unbuffered
+// demand channel
+func MakeDemand{{.}}Chan() *DCh{{.}} {
+	d := new(DCh{{.}})
+	d.dat = make(chan {{.Dot}})
+	d.req = make(chan struct{})
+	return d
+}
+
+// MakeDemand{{.}}Buff returns
+// a (pointer to a) fresh
+// buffered (with capacity cap)
+// demand channel
+func MakeDemand{{.}}Buff(cap int) *DCh{{.}} {
+	d := new(DCh{{.}})
+	d.dat = make(chan {{.Dot}}, cap)
+	d.req = make(chan struct{}, cap)
+	return d
+}
+
+// Provide{{.}} is the send function - aka "MyKind <- some {{.}}"
+func (c *DCh{{.}}) Provide{{.}}(dat {{.Dot}}) {
+	<-c.req
+	c.dat <- dat
+}
+
+// Request{{.}} is the receive function - aka "some {{.}} <- MyKind"
+func (c *DCh{{.}}) Request{{.}}() (dat {{.Dot}}) {
+	c.req <- struct{}{}
+	return <-c.dat
+}
+
+// Try{{.}} is the comma-ok multi-valued form of Request{{.}} and
+// reports whether a received value was sent before the {{.}} channel was closed.
+func (c *DCh{{.}}) Try{{.}}() (dat {{.Dot}}, open bool) {
+	c.req <- struct{}{}
+	dat, open = <-c.dat
+	return dat, open
+}
+
+// TODO(apa): close, cap & len
+

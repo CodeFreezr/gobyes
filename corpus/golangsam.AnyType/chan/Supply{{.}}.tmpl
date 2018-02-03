@@ -1,0 +1,50 @@
+// SCh{{.}} is a supply channel
+type SCh{{.}} struct {
+	dat chan {{.Dot}}
+	// req chan struct{}
+}
+
+// MakeSupply{{.}}Chan returns
+// a (pointer to a) fresh
+// unbuffered
+// supply channel
+func MakeSupply{{.}}Chan() *SCh{{.}} {
+	d := new(SCh{{.}})
+	d.dat = make(chan {{.Dot}})
+	// d.req = make(chan struct{})
+	return d
+}
+
+// MakeSupply{{.}}Buff returns
+// a (pointer to a) fresh
+// buffered (with capacity cap)
+// supply channel
+func MakeSupply{{.}}Buff(cap int) *SCh{{.}} {
+	d := new(SCh{{.}})
+	d.dat = make(chan {{.Dot}}, cap)
+	// eq = make(chan struct{}, cap)
+	return d
+}
+
+// Provide{{.}} is the send function - aka "MyKind <- some {{.}}"
+func (c *SCh{{.}}) Provide{{.}}(dat {{.Dot}}) {
+	// .req
+	c.dat <- dat
+}
+
+// Request{{.}} is the receive function - aka "some {{.}} <- MyKind"
+func (c *SCh{{.}}) Request{{.}}() (dat {{.Dot}}) {
+	// eq <- struct{}{}
+	return <-c.dat
+}
+
+// Try{{.}} is the comma-ok multi-valued form of Request{{.}} and
+// reports whether a received value was sent before the {{.}} channel was closed.
+func (c *SCh{{.}}) Try{{.}}() (dat {{.Dot}}, open bool) {
+	// eq <- struct{}{}
+	dat, open = <-c.dat
+	return dat, open
+}
+
+// TODO(apa): close, cap & len
+

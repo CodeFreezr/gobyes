@@ -1,0 +1,8 @@
+language: go
+
+notifications:
+  email:
+    recipients:
+    - Travis.APA@a-bc.net
+    on_success: always
+    on_failure: always

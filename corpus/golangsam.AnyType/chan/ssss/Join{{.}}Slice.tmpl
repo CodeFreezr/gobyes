@@ -1,0 +1,14 @@
+// Join{{.}}Slice sends inputs on the given out channel and returns a done channel to receive one signal when inp has been drained
+func Join{{.}}Slice(out chan<- {{.Dot}}, inp ...[]{{.Dot}}) chan struct{} {
+	done := make(chan struct{})
+	go func() {
+		defer close(done)
+		for i := range inp {
+			for j := range inp[i] {
+				out <- inp[i][j]
+			}
+		}
+		done <- struct{}{}
+	}()
+	return done
+}

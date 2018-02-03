@@ -1,0 +1,12 @@
+{{/*-
+{{.DotDot "Pointer"	"*SomeType"	}}
+{{.DotDot "PointerS"	"[]*SomeType"	}}
+{{.DotDot "SomeType"	"SomeType"	}}
+{{.DotDot "SomeTypeS"	"[]SomeType"	}}
+{{range .Range}}
+	{{.DotDot ":Package:" "test"}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// SomeType is some type and just represents a string.
+type SomeType string

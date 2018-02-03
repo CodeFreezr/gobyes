@@ -1,0 +1,34 @@
+{{/*-
+{{.DotDot "ByteReader"		"io.ByteReader"		}}
+{{.DotDot "ByteScanner"		"io.ByteScanner"	}}
+{{.DotDot "ByteWriter"		"io.ByteWriter"		}}
+{{.DotDot "Closer"		"io.Closer"		}}
+{{.DotDot "ReadCloser"		"io.ReadCloser"		}}
+{{.DotDot "ReadSeeker"		"io.ReadSeeker"		}}
+{{.DotDot "ReadWriteCloser"	"io.ReadWriteCloser"	}}
+{{.DotDot "ReadWriteSeeker"	"io.ReadWriteSeeker"	}}
+{{.DotDot "ReadWriter"		"io.ReadWriter"		}}
+{{.DotDot "Reader"		"io.Reader"		}}
+{{.DotDot "ReaderAt"		"io.ReaderAt"		}}
+{{.DotDot "ReaderFrom"		"io.ReaderFrom"		}}
+{{.DotDot "RuneReader"		"io.RuneReader"		}}
+{{.DotDot "RuneScanner"		"io.RuneScanner"	}}
+{{.DotDot "Seeker"		"io.Seeker"		}}
+{{.DotDot "WriteCloser"		"io.WriteCloser"	}}
+{{.DotDot "WriteSeeker"		"io.WriteSeeker"	}}
+{{.DotDot "Writer"		"io.Writer"		}}
+{{.DotDot "WriterAt"		"io.WriterAt"		}}
+{{.DotDot "WriterTo"		"io.WriterTo"		}}
+{{.DotDot "LimitedReader"	"*io.LimitedReader"	}}
+{{.DotDot "PipeReader"		"*io.PipeReader"	}}
+{{.DotDot "PipeWriter"		"*io.PipeWriter"	}}
+{{.DotDot "SectionReader"	"*io.SectionReader"	}}
+{{range .Range}}
+	{{.DotDot ":Package:" "io"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "io" ""}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.

@@ -1,0 +1,25 @@
+{{ define "Core"                	  }}{{/*
+     Version "_Core.all"        
+     Creators                   	*/}}
+{{-  template "Make{{.}}Chan"   	. }}
+{{/* Generators	                	*/}}
+{{-  template "Chan{{.}}"       	. }}
+{{   template "Chan{{.}}Slice"  	. }}
+{{   template "Chan{{.}}FuncNil"	. }}
+{{   template "Chan{{.}}FuncNok"	. }}
+{{   template "Chan{{.}}FuncErr"	. }}
+{{/* Joiners                    	*/}}
+{{-  template "Join{{.}}"       	. }}
+{{   template "Join{{.}}Slice"  	. }}
+{{   template "Join{{.}}Chan"   	. }}
+{{/* Finalisers                 	*/}}
+{{-  template "Done{{.}}"       	. }}
+{{   template "Done{{.}}Slice"  	. }}
+{{   template "Done{{.}}Func"   	. }}
+{{/* Extenders                  	*/}}
+{{-  template "Pipe{{.}}Buffer" 	. }}
+{{   template "Pipe{{.}}Func"   	. }}
+{{   template "Pipe{{.}}Fork"   	. }}
+{{/* Tube & DaisyChain          	*/}}
+{{-  template "{{.}}Tube"       	. }}
+{{- end}}

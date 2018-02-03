@@ -1,0 +1,11 @@
+// Pipe{{.}}Buffer returns a buffered channel with capacity cap to receive all inp before close.
+func Pipe{{.}}Buffer(inp <-chan {{.Dot}}, cap int) chan {{.Dot}} {
+	out := make(chan {{.Dot}}, cap)
+	go func() {
+		defer close(out)
+		for i := range inp {
+			out <- i
+		}
+	}()
+	return out
+}

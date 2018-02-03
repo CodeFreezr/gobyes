@@ -1,0 +1,24 @@
+// Make{{.}}Chan returns a new open channel
+// (simply a 'chan {{.Dot}}' that is).
+//
+// Note: No '{{.}}-producer' is launched here yet! (as is in all the other functions).
+//
+// This is useful to easily create corresponding variables such as
+//
+//	var my{{.}}PipelineStartsHere := Make{{.}}Chan()
+//	// ... lot's of code to design and build Your favourite "my{{.}}WorkflowPipeline"
+//	// ...
+//	// ... *before* You start pouring data into it, e.g. simply via:
+//	for drop := range water {
+//		my{{.}}PipelineStartsHere <- drop
+//	}
+//	close(my{{.}}PipelineStartsHere)
+//
+// Hint: especially helpful, if Your piping library operates on some hidden (non-exported) type
+// (or on a type imported from elsewhere - and You don't want/need or should(!) have to care.)
+//
+// Note: as always (except for Pipe{{.}}Buffer) the channel is unbuffered.
+//
+func Make{{.}}Chan() chan {{.Dot}} {
+	return make(chan {{.Dot}})
+}

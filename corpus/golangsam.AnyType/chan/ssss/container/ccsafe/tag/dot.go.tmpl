@@ -1,0 +1,11 @@
+{{/*-
+{{.DotDot "Tag"     "*tag.TagAny"}}
+{{range .Range}}
+	{{.DotDot ":Package:" "tag"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "github.com/golangsam/container/ccsafe/tag" ""}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.

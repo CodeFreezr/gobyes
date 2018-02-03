@@ -1,0 +1,16 @@
+// Pipe{{.}}Func returns a channel to receive every result of act applied to inp before close.
+// Note: it 'could' be Pipe{{.}}Map for functional people,
+// but 'map' has a very different meaning in go lang.
+func Pipe{{.}}Func(inp <-chan {{.Dot}}, act func(a {{.Dot}}) {{.Dot}}) chan {{.Dot}} {
+	out := make(chan {{.Dot}})
+	if act == nil {
+		act = func(a {{.Dot}}) {{.Dot}} { return a }
+	}
+	go func() {
+		defer close(out)
+		for i := range inp {
+			out <- act(i)
+		}
+	}()
+	return out
+}

@@ -1,0 +1,19 @@
+{{/*-
+{{.DotDot "Header"	"*tar.Header"	}}
+{{.DotDot "Reader"	"*tar.Reader"	}}
+{{.DotDot "Writer"	"*tar.Writer"	}}
+{{range .Range}}
+	{{.DotDot ":Package:" "tar"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "archive/tar" "tar"}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.
+
+/*
+	"Header": "*tar.Header", // func FileInfoHeader(fi os.FileInfo, link string) (*Header, error)
+	"Reader": "*tar.Reader", // func NewReader(r io.Reader) *Reader
+	"Writer": "*tar.Writer", // func NewWriter(w io.Writer) *Writer
+*/

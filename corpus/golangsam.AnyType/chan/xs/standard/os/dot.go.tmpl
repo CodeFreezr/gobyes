@@ -1,0 +1,13 @@
+{{/*-
+{{.DotDot "File"	"*os.File"		}}
+{{.DotDot "FileInfo"	"os.FileInfo"		}}
+{{.DotDot "Signal"	"os.Signal"		}}
+{{range .Range}}
+	{{.DotDot ":Package:" "os"}}
+	{{with .G ":Import:"}}
+		{{.DotDot "os" ""}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+// No go functionality is associated with this source file.

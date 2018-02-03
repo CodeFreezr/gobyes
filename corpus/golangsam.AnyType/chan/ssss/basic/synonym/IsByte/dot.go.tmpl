@@ -1,0 +1,43 @@
+{{/*-
+{{.DotDot ""			"[]byte"	}}
+{{.DotDot "Byte"		"byte"		}}
+{{.DotDot "Buffer"		"bytes.Buffer"	}}
+{{.DotDot "Reader"		"bytes.Reader"	}}
+{{.DotDot "ByteReader"		"io.ByteReader"		}}
+{{.DotDot "ByteScanner"		"io.ByteScanner"	}}
+{{.DotDot "ByteWriter"		"io.ByteWriter"		}}
+{{range .Range}}
+	{{.DotDot ":Package:" "IsByte"}}
+{{end}}
+{{with .G "Buffer"   }}
+	{{with .G ":Import:"   }}
+		{{.DotDot "bytes"	""	}}
+	{{end}}
+{{end}}
+{{with .G "Reader"   }}
+	{{with .G ":Import:"   }}
+		{{.DotDot "bytes"	""	}}
+	{{end}}
+{{end}}
+{{with .G "ByteReader"   }}
+	{{with .G ":Import:"   }}
+		{{.DotDot "io"	""	}}
+	{{end}}
+{{end}}
+{{with .G "ByteScanner"   }}
+	{{with .G ":Import:"   }}
+		{{.DotDot "io"	""	}}
+	{{end}}
+{{end}}
+{{with .G "ByteWriter"   }}
+	{{with .G ":Import:"   }}
+		{{.DotDot "io"	""	}}
+	{{end}}
+{{end}}
+-*/}}
+{{- template "Prolog"			. -}}
+/* Quote from "The Go Programming Language" Chapter 3 - page 52:
+The type rune is a synonym for int32 and conventionally indicates that a value is a Unicode code point. The two names may be used interchangeably.
+
+Similarly, the type byte is a synonym for uint8, and emphasizes that the value is a piece of raw data rather than a small numeric quantity.
+*/

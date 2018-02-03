@@ -1,0 +1,23 @@
+// {{.}}Chan represents a
+// bidirectional
+// channel
+type {{.}}Chan interface {
+	{{.}}ROnlyChan // aka "<-chan" - receive only
+	{{.}}SOnlyChan // aka "chan<-" - send only
+}
+
+// {{.}}ROnlyChan represents a
+// receive-only
+// channel
+type {{.}}ROnlyChan interface {
+	Request{{.}}() (dat {{.Dot}}) // the receive function - aka "My{{.}} := <-My{{.}}ROnlyChan"
+	Try{{.}}() (dat {{.Dot}}, open bool) // the multi-valued comma-ok receive function - aka "My{{.}}, ok := <-My{{.}}ROnlyChan"
+}
+
+// {{.}}SOnlyChan represents a
+// send-only
+// channel
+type {{.}}SOnlyChan interface {
+	Provide{{.}}(dat {{.Dot}}) // the send function - aka "MyKind <- some {{.}}"
+}
+

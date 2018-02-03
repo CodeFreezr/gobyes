@@ -1,0 +1,12 @@
+// Done{{.}} returns a channel to receive one signal before close after inp has been drained.
+func Done{{.}}(inp <-chan {{.Dot}}) chan struct{} {
+	done := make(chan struct{})
+	go func() {
+		defer close(done)
+		for i := range inp {
+			_ = i // Drain inp
+		}
+		done <- struct{}{}
+	}()
+	return done
+}

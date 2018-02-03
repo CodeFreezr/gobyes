@@ -1,0 +1,15 @@
+// Done{{.}}Slice returns a channel which will receive a slice
+// of all the {{.}}s received on inp channel before close.
+// Unlike Done{{.}}, a full slice is sent once, not just an event.
+func Done{{.}}Slice(inp <-chan {{.Dot}}) (done <-chan []{{.Dot}}) {
+	cha := make(chan []{{.Dot}})
+	go func(inp <-chan {{.Dot}}, done chan<- []{{.Dot}}) {
+		defer close(done)
+		{{.}}S := []{{.Dot}}{}
+		for i := range inp {
+			{{.}}S = append({{.}}S, i)
+		}
+		done <- {{.}}S
+	}(inp, cha)
+	return cha
+}
