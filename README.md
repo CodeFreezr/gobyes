@@ -89,7 +89,7 @@ At the moment there are around 17 short 5 Minutes Screencasts which gives you a 
 ### astaxie.build-web-with-go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
-[⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012")[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012)[⏭️](#eop)  
 Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
 [Code gobye](corpus/astaxie.build-web-with-go)  
 [TOC](tbd)  
@@ -118,7 +118,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 ### codegangsta.essential-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/essential-go)](https://goreportcard.com/report/github.com/codegangsta/essential-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/essential-go.svg)](https://github.com/codegangsta/essential-go)  
-[⏮️](#gobyes)[⏪](#chisnallphrasebook-2012")[⏩](#goes211golangtraining)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#chisnallphrasebook-2012)[⏩](#goes211golangtraining)[⏭️](#eop)  
 A smart collection of 14 important go examples from around 2015. He also offers this in a video course.  
 [Code gobye](corpus/codegangsta.essential-go)  
 [TOC](tbd)  
@@ -250,7 +250,7 @@ Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" 
 ### shapeshed.go-in-24 (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)  
-[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcomming)[⏩](#simonWaldherrgolang-examples)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcomming)[⏩](#simo)[⏭️](#eop)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". I you are in hurry, this one is for you.  
 [Code gobye](corpus/shapeshed.go-in-24)  
 [TOC](tbd)  
@@ -260,6 +260,7 @@ Here you find the sourcecode of one of the best structured book: "Go in 24 hours
 </br>  
   
 ### simonWaldherr.golang-examples
+### simo
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/SimonWaldherr/golang-examples/)  
 [⏮️](#gobyes)[⏪](#shapeshedgo-in-24-2017)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
@@ -274,7 +275,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 ### xusiwei.learn-golang
 [![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xusiwei/learn-golang.svg)](https://github.com/xusiwei/learn-golang/)  
-[⏮️](#gobyes)[⏪](#simonWaldherrgolang-examples)[⏩](#eop)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#simo)[⏩](#eop)[⏭️](#eop)  
 Smart Description goes here.  
 [Code gobye](corpus/xusiwei.learn-golang)  
 [TOC](tbd)  
