@@ -34,7 +34,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </ol>
 </br>  
 </br> 
-![Gobyes Treemap](resources/gobeysWinDirStat.gif "Gobyes Treemap")  
+![Gobyes Treemap](resources/gobeysWinDirStat2.png "Gobyes Treemap")  
 </br>  
 </br>  
 
