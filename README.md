@@ -87,7 +87,7 @@ At the moment there are around 17 short 5 Minutes Screencasts which gives you a 
 </br>  
 
 ### astaxie.build-web-with-go  
-[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
 [⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012")[⏭️](#eop)  
 Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
@@ -128,7 +128,7 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 </br>  
 
 ### goes211.golangtraining  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
 [⏮️](#gobyes)[⏪](#codegangstaessential-go)[⏩](#goes211golang-web-dev)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
@@ -140,7 +140,7 @@ Learn programming from a University Professor in Computer Science with over 20 y
 </br>  
 
 ### goes211.golang-web-dev  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining)  
 [⏮️](#gobyes)[⏪](#goes211golangtraining)[⏩](#golangexample)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
