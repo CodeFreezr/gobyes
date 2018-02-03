@@ -3,7 +3,7 @@
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
-We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork also the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
+We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
 Here are the links to the origin github repos <img src="resources/github-sociocon.png" width="18"> and further details below ⏩. Please star/fork/bookmark them alot:
 </br>  
