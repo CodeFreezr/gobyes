@@ -20,7 +20,7 @@
 Smart description comes here ...  
 [Code gobye](corpus/codegangsta.bwag)  
 [TOC](tbd)  
-[HP](tbd)  
+[HP](https://codegangsta.gitbooks.io/building-web-apps-with-go/)  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 </br>  
 </br>  
