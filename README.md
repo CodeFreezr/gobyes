@@ -43,7 +43,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
         <td valign="top">
             <ol start="21">
                 <li><a href="#mshindletidbits"><b>mshindle.tidbits</b></a> <a href="https://github.com/mshindle/tidbits"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#nathanyget-programming-with-go-upcomming"><b>nathany.get-programming-with-go</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#nathanyget-programming-with-go-upcoming"><b>nathany.get-programming-with-go</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#shapeshedgo-in-24-2017"><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#simonwaldherrgolang-examples"><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -307,7 +307,7 @@ The Mother of all GoBye's with over 60 go examples.
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/nathany/mshindle/tidbits/)  
-[⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcomming)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcoming)[⏭️](#eop)  
 Around 14 snippets of example golang code to help teach certain concepts.     
 [Code gobye](corpus/mshindle.tidbits)  
 [TOC](toc)  
@@ -315,7 +315,7 @@ Around 14 snippets of example golang code to help teach certain concepts.
 </br>  
 </br>  
 
-### nathany.get-programming-with-go (upcomming)
+### nathany.get-programming-with-go (upcoming)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)  
 [⏮️](#gobyes)[⏪](#mshindletidbits)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
@@ -330,7 +330,7 @@ Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" 
 ### shapeshed.go-in-24 (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)  
-[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcomming)[⏩](#simonwaldherrgolang-examples)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcoming)[⏩](#simonwaldherrgolang-examples)[⏭️](#eop)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". I you are in hurry, this one is for you.  
 [Code gobye](corpus/shapeshed.go-in-24)  
 [TOC](toc)  
