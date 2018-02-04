@@ -10,7 +10,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </br>  
 
 
-<table><tr>
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"><tr>
 <td valign="top">
 <ol start="1">
   <li><a href="#adonovangopl-2015">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
