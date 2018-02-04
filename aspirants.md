@@ -3,7 +3,7 @@
 
 ## gobyes
 
-<ol>
+<ol start="6">
     <li><a href="#codegangstabwag">⏩</a> <b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="resources/github-sociocon.png" width="18"></a></li>
     <li><a href="#goinactioncode-2015">⏩</a> <b>goinaction.code (2015)</b> <a href="https://github.com/goinaction/code"><img src="resources/github-sociocon.png" width="18"></a></li>
     <li><a href="#golangsamanytype">⏩</a> <b>golangsam.anytype</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="resources/github-sociocon.png" width="18"></a></li>
