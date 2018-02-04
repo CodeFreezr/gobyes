@@ -340,8 +340,7 @@ Here you find the sourcecode of one of the best structured book: "Go in 24 hours
 </br>  
 </br>  
   
-### simonWaldherr.golang-examples
-### simo
+### simonwaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/SimonWaldherr/golang-examples/)  
 [⏮️](#gobyes)[⏪](#shapeshedgo-in-24-2017)[⏩](#thewhitetulipweb-dev-golang-anti-textbook)[⏭️](#eop)  
@@ -356,7 +355,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 ### thewhitetulip.web-dev-golang-anti-textbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/thewhitetulip/web-dev-golang-anti-textbook)](https://goreportcard.com/report/github.com/thewhitetulip/web-dev-golang-anti-textbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook.svg)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)  
-[⏮️](#gobyes)[⏪](#simo)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#simonwaldherrgolang-examples)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
 Smart description comes here ...
 [Code gobye](corpus/thewhitetulip.anti-textbook)  
 [TOC](tbd)  
