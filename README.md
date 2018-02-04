@@ -10,6 +10,19 @@ Here are the links to the origin github repos <img src="resources/github-socioco
 </br>  
 
 
+<table><tr>
+<td>
+eins
+
+</td>
+<td>
+zwei
+</td>
+<td>
+drei
+</td>
+</tr></table>
+
 <ol>
   <li><a href="#adonovangopl-2015">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
   <li><a href="#agtorrego-cookbook-2017">⏩</a> <b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -19,8 +32,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#chisnallphrasebook-2012">⏩</a> <b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
   <li><a href="#codegangstaessential-go">⏩</a> <b>codegangsta.essential-go</b>	<a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#goes211golangtraining">⏩</a> <b>goes211.golangtraining</b>	<a href="https://github.com/GoesToEleven/GolangTraining"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
-
-<li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
+  <li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a> new!</li>
   <li><a href="#golangexample">⏩</a> <b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangtour">⏩</a> <b>golang.tour</b>	<a href="https://github.com/golang/tour"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#katconcurrency-go">⏩</a> <b>kat.concurrency-go</b>	<a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a> (new)</li>
