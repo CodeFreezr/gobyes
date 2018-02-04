@@ -34,7 +34,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#golangsamanytype"><b>golangsam.anytype</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#jochasingagolang-book"><b>jochasinga.golang-book</b> <a href="https://github.com/jochasinga/golang-book"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#katconcurrency-go"><b>kat.concurrency-go</b></a> <a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#mastermindsgo-in-practice-2016"><b>mstrmnds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
+                <li><a href="#mstrmndsgo-in-practice-2016"><b>mstrmnds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
                 <li><a href="#matryergoblueprints"><b>matryer.goblueprints</b> <a href="https://github.com/matryer/goblueprints"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#mkazworking-with-go"><b>mkaz.working-with-go</b></a> <a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#mmcgranagobyexample"><b>mmcgrana.gobyexample</b></a> <a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -247,7 +247,7 @@ The Book was written by Caleb Doxsey with all "inline" go files. Find here an ex
 ### kat.concurrency-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)
 [![GitHub last commit](https://img.shields.io/github/last-commit/kat-co/concurrency-in-go-src.svg)](https://github.com/kat-co/concurrency-in-go-src/)  
-[⏮️](#gobyes)[⏪](#jochasingagolang-book)[⏩](#mastermindsgo-in-practice-2016)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#jochasingagolang-book)[⏩](#mstrmndsgo-in-practice-2016)[⏭️](#eop)  
 Concurrency is one of the core use cases of golang, so if you want master this find a got starting point with this book.
 [Code gobye](corpus/kat.concurrency-go)  
 [TOC](tbd)  
@@ -271,7 +271,7 @@ Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-
 ### matryer.goblueprints
 [![Go Report Card](https://goreportcard.com/badge/github.com/matryer/goblueprints)](https://goreportcard.com/report/github.com/matryer/goblueprints)
 [![GitHub last commit](https://img.shields.io/github/last-commit/matryer/goblueprints.svg)](https://github.com/matryer/goblueprints/)  
-[⏮️](#gobyes)[⏪](#mastermindsgo-in-practice-2016)[⏩](#mkazworking-with-go)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#mstrmndsgo-in-practice-2016)[⏩](#mkazworking-with-go)[⏭️](#eop)  
 Smart description comes here ...
 [Code gobye](corpus/matryer.goblueprints)  
 [TOC](tbd)  
