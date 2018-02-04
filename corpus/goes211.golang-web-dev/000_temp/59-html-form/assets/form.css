@@ -1,9 +1,0 @@
-form {
-    display: flex;
-    flex-direction: column;
-    font-size: 6rem;
-}
-
-input {
-    height: 5vh;
-}
