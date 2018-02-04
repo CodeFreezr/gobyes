@@ -6,9 +6,9 @@
 ![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
-1: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes)](toc)  
+1: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes?category=code)](toc)  
 
-[![](https://tokei.rs/b1/github/CodeFreezr/tokei?gobyes=code)](https://github.com/CodeFreezr/gobyes)  
+2: [![](https://tokei.rs/b1/github/CodeFreezr/tokei?category=code)](https://github.com/CodeFreezr/gobyes)  
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
