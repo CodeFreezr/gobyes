@@ -140,7 +140,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/bwag)](https://goreportcard.com/report/github.com/codegangsta/bwag)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/bwag.svg)](https://github.com/codegangsta/bwag/)  
 [⏮️](#gobyes)[⏪](#chisnallphrasebook-2012)[⏩](#codegangstaessential-go)[⏭️](#eop)  
-Smart description comes here ...  
+Codegangst dig here into the world of "building-web-applications-with-go" Beside go itself you can learn here also a lot about heroku & microservices.
 [Code gobye](corpus/codegangsta.bwag)  
 [TOC](toc)  
 [HP](https://codegangsta.gitbooks.io/building-web-apps-with-go/)  
@@ -236,7 +236,7 @@ Templates, and ready-to-use go lang source files - generated with dotgo. Here is
 [![Go Report Card](https://goreportcard.com/badge/github.com/jochasinga/golang-book)](https://goreportcard.com/report/github.com/jochasinga/golang-book)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jochasinga/golang-book.svg)](https://github.com/jochasinga/golang-book/)  
 [⏮️](#gobyes)[⏪](#golangsamanytype)[⏩](#katconcurrency-go)[⏭️](#eop)  
-The Book was written by Caleb Doxsey with all "inline" go files. Find here an extract of this file into a github repo.
+The Book was written by Caleb Doxsey with all the go files "inline". Find here an extract of this file into a github repo. Perhaps we find a solution to get this stuff more in sync to bit more actual original.
 [Code gobye](corpus/jochasinga.golang-book)  
 [TOC](toc)  
 [HP](http://www.golang-book.com/)  
@@ -272,7 +272,7 @@ Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-
 [![Go Report Card](https://goreportcard.com/badge/github.com/matryer/goblueprints)](https://goreportcard.com/report/github.com/matryer/goblueprints)
 [![GitHub last commit](https://img.shields.io/github/last-commit/matryer/goblueprints.svg)](https://github.com/matryer/goblueprints/)  
 [⏮️](#gobyes)[⏪](#mstrmndsgo-in-practice-2016)[⏩](#mkazworking-with-go)[⏭️](#eop)  
-Smart description comes here ...
+Expect nearly 90 go files organised in 11 chapters in this awesome lecture about go by mastermind Mat Ryer, who is also one guy behind http://gopherize.me.
 [Code gobye](corpus/matryer.goblueprints)  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)  
@@ -296,7 +296,7 @@ Over 20 well documented code examples, with an extra section for the euler mathe
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mmcgrana/gobyexample.svg)](https://github.com/mmcgrana/gobyexample/)  
 [⏮️](#gobyes)[⏪](#mkazworking-with-go)[⏩](#mshindletidbits)[⏭️](#eop)  
-The Mother of all GoBye's with 65 go examples.  
+The Mother of all GoBye's with over 60 go examples.  
 [Code gobye](corpus/mmcgrana.gobyexample)  
 [TOC](toc)  
 [HP](https://gobyexample.com/  )  
@@ -308,10 +308,9 @@ The Mother of all GoBye's with 65 go examples.
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/nathany/mshindle/tidbits/)  
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcomming)[⏭️](#eop)  
-Smart description followed here...    
+Around 14 snippets of example golang code to help teach certain concepts.     
 [Code gobye](corpus/mshindle.tidbits)  
 [TOC](toc)  
-[HP](tbd)  
 <img src="resources/covers/mshindle.jpg" width="200">  
 </br>  
 </br>  
