@@ -10,7 +10,8 @@
 2: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes?category=code)](toc)  
 3: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes?category=blanks)](toc)  
 4: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes?category=files)](toc)  
-5: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes?category=comments)](toc)  
+5: [![](https://tokei.rs/b1/github/CodeFreezr/gobyes?category=comments)](toc)5: 
+[![](https://tokei.rs/b1/github/CodeFreezr/gobyes)](toc)  
 
 
 
