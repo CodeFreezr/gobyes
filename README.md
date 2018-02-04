@@ -6,12 +6,12 @@
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
-Here are the links to the origin github repos <img src="resources/github-sociocon.png" width="18"> and further details below ⏩. Please star/fork/bookmark them alot:
+Find the origin github repos behind <img src="resources/github-sociocon.png" width="18"> or click on "last commit". Please star/fork/bookmark them alot.
 </br>  
 
 
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"><tr>
-<td valign="top">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;"><tr cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<td valign="top" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <ol start="1">
   <li><a href="#adonovangopl-2015">⏩</a> <b>adonovan.gopl</b>	<a href="https://github.com/adonovan/gopl.io/"><img src="resources/github-sociocon.png" width="18"></a></li> 
   <li><a href="#agtorrego-cookbook-2017">⏩</a> <b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -25,7 +25,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#goes211golang-web-dev">⏩</a> <b>goes211.golang-web-dev</b>	<a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a></li>
 </ol>
 </td>
-<td valign="top">
+<td valign="top" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <ol start="11">
   <li><a href="#goinactioncode-2015">⏩</a> <b>goinaction.code (2015)</b> <a href="https://github.com/goinaction/code"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#golangexample">⏩</a> <b>golang.example</b>	<a href="https://github.com/golang/example"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -39,7 +39,7 @@ Here are the links to the origin github repos <img src="resources/github-socioco
   <li><a href="#mmcgranagobyexample">⏩</a> <b>mmcgrana.gobyexample</b>	<a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
 </ol>
 </td>
-<td valign="top">
+<td valign="top" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <ol start="21">
   <li><a href="#mshindletidbits">⏩</a> <b>mshindle.tidbits</b>	<a href="https://github.com/mshindle/tidbits"><img src="resources/github-sociocon.png" width="18"></a></li>
   <li><a href="#nathanyget-programming-with-go-upcomming">⏩</a> <b>nathany.get-programming-with-go</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
