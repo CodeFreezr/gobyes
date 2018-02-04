@@ -347,7 +347,7 @@ Here you find the sourcecode of one of the best structured book: "Go in 24 hours
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
 [Code gobye](corpus/simonWaldherr.golang-examples)  
 [TOC](toc)  
-[HP](tbd)  
+[HP](corpus/simonWaldherr.golang-examples/readme.md)  
 <img src="resources/covers/SimonWaldherr.jpg" width="200">  
 </br>  
 </br>  
@@ -356,7 +356,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 [![Go Report Card](https://goreportcard.com/badge/github.com/thewhitetulip/web-dev-golang-anti-textbook)](https://goreportcard.com/report/github.com/thewhitetulip/web-dev-golang-anti-textbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook.svg)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)  
 [⏮️](#gobyes)[⏪](#simonwaldherrgolang-examples)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
-Smart description comes here ...  
+Find within this project Video-Screencasts, gitbook or a leanpub download.  
 [Code gobye](corpus/thewhitetulip.anti-textbook)  
 [TOC](toc)  
 [HP](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)  
