@@ -113,7 +113,7 @@ At the moment there are around 17 short 5 Minutes Screencasts which gives you a 
 [⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012)[⏭️](#eop)  
 Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
 [Code gobye](corpus/astaxie.build-web-with-go)  
-[TOC](tbd)  
+[TOC](toc)  
 HP in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) | 
 [de](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/) | 
 [fr](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) | 
@@ -142,7 +142,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 [⏮️](#gobyes)[⏪](#chisnallphrasebook-2012)[⏩](#codegangstaessential-go)[⏭️](#eop)  
 Smart description comes here ...  
 [Code gobye](corpus/codegangsta.bwag)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://codegangsta.gitbooks.io/building-web-apps-with-go/)  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 </br>  
@@ -154,7 +154,7 @@ Smart description comes here ...
 [⏮️](#gobyes)[⏪](#codegangstabwag)[⏩](#goes211golangtraining)[⏭️](#eop)  
 A smart collection of 14 important go examples from around 2015. He also offers this in a video course.  
 [Code gobye](corpus/codegangsta.essential-go)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.kajabinext.com/marketplace/courses/1-essential-go)  
 <img src="resources/covers/codegangsta.jpg" width="200">  
 </br>  
@@ -166,7 +166,7 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 [⏮️](#gobyes)[⏪](#codegangstaessential-go)[⏩](#goes211golang-web-dev)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
 [Code gobye](corpus/goes211.GolangTraining)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.greatercommons.com/learn/5098183625539584)  
 <img src="resources/covers/goes211.jpg" width="200">  
 </br>  
@@ -178,7 +178,7 @@ Learn programming from a University Professor in Computer Science with over 20 y
 [⏮️](#gobyes)[⏪](#goes211golangtraining)[⏩](#goinactioncode-2015)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
 [Code gobye](corpus/goes211.golang-web-dev)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.greatercommons.com/learn/6600110066630656)  
 <img src="resources/covers/goes211.jpg" width="200">  
 </br> 
@@ -190,7 +190,7 @@ Learn programming from a University Professor in Computer Science with over 20 y
 [⏮️](#gobyes)[⏪](#goes211golang-web-dev)[⏩](#golangexample)[⏭️](#eop)  
 Great Manning Book written by William Kennedy with Brian Ketelson and Erik St. Martin.  
 [Code gobye](corpus/goinaction.code)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.manning.com/books/go-in-action)  
 <img src="resources/covers/GoInAction.jpg" width="200">  
 </br>  
@@ -202,7 +202,7 @@ Great Manning Book written by William Kennedy with Brian Ketelson and Erik St. M
 [⏮️](#gobyes)[⏪](#goinactioncode-2015)[⏩](#golangtour)[⏭️](#eop)  
 This is the official example collection with around 18 bit more complex examples.  
 [Code gobye](corpus/golang.example)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://github.com/golang/example/blob/master/README.md)  
 <img src="resources/covers/golang.png" width="200">  
 </br>  
@@ -214,7 +214,7 @@ This is the official example collection with around 18 bit more complex examples
 [⏮️](#gobyes)[⏪](#golangexample)[⏩](#golangsamanytype)[⏭️](#eop)  
 This is the repo of the "A Tour of Go". One of the first thing you have to play with if you want to try go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this damn c-like pointer stuff.  
 [Code gobye](corpus/golang.tour)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://tour.golang.org/welcome/1)  
 <img src="resources/covers/golang.png" width="200">  
 </br>  
@@ -226,7 +226,7 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 [⏮️](#gobyes)[⏪](#golangtour)[⏩](#jochasingagolang-book)[⏭️](#eop)  
 Templates, and ready-to-use go lang source files - generated with dotgo. Here is important not to read the generated stuff, but to understand the mechanic of generation.  
 [Code gobye](corpus/golangsam.AnyType)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://golangsam.github.io/)  
 <img src="resources/covers/GoLangsam.JPG" width="200">  
 </br>  
@@ -238,7 +238,7 @@ Templates, and ready-to-use go lang source files - generated with dotgo. Here is
 [⏮️](#gobyes)[⏪](#golangsamanytype)[⏩](#katconcurrency-go)[⏭️](#eop)  
 The Book was written by Caleb Doxsey with all "inline" go files. Find here an extract of this file into a github repo.
 [Code gobye](corpus/jochasinga.golang-book)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](http://www.golang-book.com/)  
 <img src="resources/covers/An-Introduction-to-Programming-in-Go.png" width="200">  
 </br>  
@@ -250,7 +250,7 @@ The Book was written by Caleb Doxsey with all "inline" go files. Find here an ex
 [⏮️](#gobyes)[⏪](#jochasingagolang-book)[⏩](#mstrmndsgo-in-practice-2016)[⏭️](#eop)  
 Concurrency is one of the core use cases of golang, so if you want master this find a got starting point with this book.
 [Code gobye](corpus/kat.concurrency-go)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](http://katherine.cox-buday.com/concurrency-in-go/)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
 </br>   
@@ -262,7 +262,7 @@ Concurrency is one of the core use cases of golang, so if you want master this f
 [⏮️](#gobyes)[⏪](#katconcurrency-go)[⏩](#matryergoblueprints)[⏭️](#eop)  
 Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.    
 [Code gobye](corpus/masterminds.go-in-practice)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.manning.com/books/go-in-practice )  
 <img src="resources/covers/Butcher-GoinP-HI.png.jpg" width="200">  
 </br>  
@@ -274,7 +274,7 @@ Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-
 [⏮️](#gobyes)[⏪](#mstrmndsgo-in-practice-2016)[⏩](#mkazworking-with-go)[⏭️](#eop)  
 Smart description comes here ...
 [Code gobye](corpus/matryer.goblueprints)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)  
 <img src="resources/covers/blueprints.jpg" width="200">  
 </br>  
@@ -286,7 +286,7 @@ Smart description comes here ...
 [⏮️](#gobyes)[⏪](#matryergoblueprints)[⏩](#mmcgranagobyexample)[⏭️](#eop)  
 Over 20 well documented code examples, with an extra section for the euler mathematix fans.  
 [Code gobye](corpus/mkaz.working-with-go)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](tbd)  
 <img src="resources/covers/mkaz.jpg" width="200">  
 </br>  
@@ -298,7 +298,7 @@ Over 20 well documented code examples, with an extra section for the euler mathe
 [⏮️](#gobyes)[⏪](#mkazworking-with-go)[⏩](#mshindletidbits)[⏭️](#eop)  
 The Mother of all GoBye's with 65 go examples.  
 [Code gobye](corpus/mmcgrana.gobyexample)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://gobyexample.com/  )  
 <img src="resources/covers/mmcgrana.png" width="200">  
 </br>  
@@ -310,7 +310,7 @@ The Mother of all GoBye's with 65 go examples.
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcomming)[⏭️](#eop)  
 Smart description followed here...    
 [Code gobye](corpus/mshindle.tidbits)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](tbd)  
 <img src="resources/covers/mshindle.jpg" width="200">  
 </br>  
@@ -322,7 +322,7 @@ Smart description followed here...
 [⏮️](#gobyes)[⏪](#mshindletidbits)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
 Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
 [Code gobye](corpus/nathany.get-programming-with-go)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://www.manning.com/books/get-programming-with-go)  
 <img src="resources/covers/Youngman_GetProg-go_hiresmeap.jpg" width="200">  
 </br>  
@@ -334,7 +334,7 @@ Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" 
 [⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcomming)[⏩](#simo)[⏭️](#eop)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". I you are in hurry, this one is for you.  
 [Code gobye](corpus/shapeshed.go-in-24)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
 </br>  
@@ -346,7 +346,7 @@ Here you find the sourcecode of one of the best structured book: "Go in 24 hours
 [⏮️](#gobyes)[⏪](#shapeshedgo-in-24-2017)[⏩](#thewhitetulipweb-dev-golang-anti-textbook)[⏭️](#eop)  
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
 [Code gobye](corpus/simonWaldherr.golang-examples)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](tbd)  
 <img src="resources/covers/SimonWaldherr.jpg" width="200">  
 </br>  
@@ -358,7 +358,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 [⏮️](#gobyes)[⏪](#simonwaldherrgolang-examples)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
 Smart description comes here ...  
 [Code gobye](corpus/thewhitetulip.anti-textbook)  
-[TOC](tbd)  
+[TOC](toc)  
 [HP](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)  
 <img src="resources/covers/the-anti-textbook.jpg" width="200">  
 </br>  
@@ -370,7 +370,7 @@ Smart description comes here ...
 [⏮️](#gobyes)[⏪](#thewhitetulipweb-dev-golang-anti-textbook)[⏩](#eop)[⏭️](#eop)  
 Smart Description goes here.  
 [Code gobye](corpus/xusiwei.learn-golang)  
-[TOC](tbd)    
+[TOC](toc)    
 <img src="resources/covers/xusiwei.jpg" width="200">  
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
