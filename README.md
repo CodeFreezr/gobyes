@@ -6,7 +6,7 @@
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
-Find the origin github repos behind <img src="resources/github-sociocon.png" width="18"> or click on "last commit". Please star/fork/bookmark them alot.
+Find the origin github repos behind <img src="resources/github-sociocon.png" width="18"> or click on "last commit" in the details. Please star/fork/bookmark them alot.
 </br>  
 
 
@@ -19,7 +19,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#apressgo-recipes-2016"><b>apress.go-recipes</b></a> <a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#arschlesgo-in-5-minutes"><b>arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web-with-go</b></a> <a href="https://github.com/astaxie/build-web-application-with-golang"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a> (mirror)</li>
+                <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstabwag"><b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstaessential-go"><b>codegangsta.essential-go</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goes211golangtraining"><b>goes211.golangtraining</b></a> <a href="https://github.com/GoesToEleven/GolangTraining"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -34,7 +34,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#golangsamanytype"><b>golangsam.anytype</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#jochasingagolang-book"><b>jochasinga.golang-book</b> <a href="https://github.com/jochasinga/golang-book"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#katconcurrency-go"><b>kat.concurrency-go</b></a> <a href="https://github.com/kat-co/concurrency-in-go-src"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#mastermindsgo-in-practice-2016"><b>masterminds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
+                <li><a href="#mastermindsgo-in-practice-2016"><b>mstrmnds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="resources/github-sociocon.png" width="18"></a></li>   
                 <li><a href="#matryergoblueprints"><b>matryer.goblueprints</b> <a href="https://github.com/matryer/goblueprints"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#mkazworking-with-go"><b>mkaz.working-with-go</b></a> <a href="https://github.com/mkaz/working-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#mmcgranagobyexample"><b>mmcgrana.gobyexample</b></a> <a href="https://github.com/mmcgrana/gobyexample"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -256,7 +256,7 @@ Concurrency is one of the core use cases of golang, so if you want master this f
 </br>   
 </br>  
 
-### masterminds.go-in-practice (2016)
+### mstrmnds.go-in-practice (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/go-in-practice.svg)](https://github.com/Masterminds/go-in-practice/)  
 [⏮️](#gobyes)[⏪](#katconcurrency-go)[⏩](#matryergoblueprints)[⏭️](#eop)  
