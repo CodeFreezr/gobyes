@@ -5,7 +5,11 @@
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
 ![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
+
 [![](https://tokei.rs/b1/github/CodeFreezr/gobyes)](toc)
+
+[![](https://tokei.rs/b1/github/Aaronepower/tokei?category=code)](https://github.com/CodeFreezr/gobyes)
+
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
 Find the origin github repos behind <img src="resources/github-sociocon.png" width="18"> or click on "last commit" in the details. Please star/fork/bookmark them alot.
