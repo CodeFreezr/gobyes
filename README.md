@@ -356,7 +356,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 [![Go Report Card](https://goreportcard.com/badge/github.com/thewhitetulip/web-dev-golang-anti-textbook)](https://goreportcard.com/report/github.com/thewhitetulip/web-dev-golang-anti-textbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook.svg)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)  
 [⏮️](#gobyes)[⏪](#simonwaldherrgolang-examples)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
-Smart description comes here ...
+Smart description comes here ...  
 [Code gobye](corpus/thewhitetulip.anti-textbook)  
 [TOC](tbd)  
 [HP](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)  
@@ -370,8 +370,7 @@ Smart description comes here ...
 [⏮️](#gobyes)[⏪](#thewhitetulipweb-dev-golang-anti-textbook)[⏩](#eop)[⏭️](#eop)  
 Smart Description goes here.  
 [Code gobye](corpus/xusiwei.learn-golang)  
-[TOC](tbd)  
-[HP](tbd)  
+[TOC](tbd)    
 <img src="resources/covers/xusiwei.jpg" width="200">  
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
