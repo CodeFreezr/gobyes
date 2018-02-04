@@ -368,7 +368,7 @@ Smart description comes here ...
 [![Go Report Card](https://goreportcard.com/badge/github.com/xusiwei/learn-golang)](https://goreportcard.com/report/github.com/xusiwei/learn-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/xusiwei/learn-golang.svg)](https://github.com/xusiwei/learn-golang/)  
 [⏮️](#gobyes)[⏪](#thewhitetulipweb-dev-golang-anti-textbook)[⏩](#eop)[⏭️](#eop)  
-Smart Description goes here.  
+This gobye is a golab out of 66 go examples which was created while xusiwei becomes a gopher ʕ◔ϖ◔ʔ.  
 [Code gobye](corpus/xusiwei.learn-golang)  
 [TOC](toc)    
 <img src="resources/covers/xusiwei.jpg" width="200">  
