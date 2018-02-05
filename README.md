@@ -6,7 +6,6 @@
 ![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
-
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
 Find the origin github repos behind <img src="resources/github-sociocon.png" width="18"> or click on "last commit" in the details. Please star/fork/bookmark them alot.
@@ -64,9 +63,10 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
 ### adonovan.gopl (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
-[⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/adonovan/gopl.io)
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
-[Code gobye](corpus/adonovan/gopl.io)  
+<!-- [Code gobye](corpus/adonovan/gopl.io)  -->
 [TOC](http://www.gopl.io/ch1.pdf)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
