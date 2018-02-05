@@ -335,7 +335,7 @@ Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" 
 [![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)  
 [⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcoming)[⏩](#simonwaldherrgolang-examples)[⏭️](#eop)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". I you are in hurry, this one is for you.  
-[Code gobye](corpus/shapeshed/go-in-24)  
+[Code gobye](corpus/shapeshed/golang-book-examples)  
 [TOC](toc)  
 [HP](http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977)  
 <img src="resources/covers/go-in-24.jpg" width="200">  
