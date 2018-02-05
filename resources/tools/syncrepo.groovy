@@ -17,12 +17,13 @@ println "Sync: " + provider + user + "/" + repo
 cloneCmd = cloneCmd + provider + user + "/" + repo
 def proc = cloneCmd.execute()
 proc.waitFor()
+println "Clone: done."
 
 //sloc
 def slocCmd = 'cmd /c sloc ' + repo + ' > ' + repo + '\\sloc.log'
 def procSloc = slocCmd.execute()
 procSloc.waitFor()
-
+println "Sloc: done."
 
 ant = new AntBuilder()
 ant.sequential {
