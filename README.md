@@ -239,7 +239,7 @@ Templates, and ready-to-use go lang source files - generated with dotgo. Here is
 [![Go Report Card](https://goreportcard.com/badge/github.com/jochasinga/golang-book)](https://goreportcard.com/report/github.com/jochasinga/golang-book)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jochasinga/golang-book.svg)](https://github.com/jochasinga/golang-book/)  
 [⏮️](#gobyes)[⏪](#golangsamanytype)[⏩](#katconcurrency-go)[⏭️](#eop)  
-The Book was written by Caleb Doxsey with all the go files "inline". Find here an extract of this file into a github repo. Perhaps we find a solution to get this stuff more in sync to bit more actual original.
+The Book was written by Caleb Doxsey with all the go files "inline". Find here an extract of this file into a github repo. Perhaps we find a solution to get this stuff more in sync to bit more actual original.  
 [Code gobye](corpus/jochasinga/golang-book)  
 [TOC](toc)  
 [HP](http://www.golang-book.com/)  
@@ -251,7 +251,7 @@ The Book was written by Caleb Doxsey with all the go files "inline". Find here a
 [![Go Report Card](https://goreportcard.com/badge/github.com/kat-co/concurrency-in-go-src)](https://goreportcard.com/report/github.com/kat-co/concurrency-in-go-src)
 [![GitHub last commit](https://img.shields.io/github/last-commit/kat-co/concurrency-in-go-src.svg)](https://github.com/kat-co/concurrency-in-go-src/)  
 [⏮️](#gobyes)[⏪](#jochasingagolang-book)[⏩](#mstrmndsgo-in-practice-2016)[⏭️](#eop)  
-Concurrency is one of the core use cases of golang, so if you want master this find a got starting point with this book.
+Concurrency is one of the core use cases of golang, so if you want master this find a got starting point with this book.  
 [Code gobye](corpus/kat/concurrency-go)  
 [TOC](toc)  
 [HP](http://katherine.cox-buday.com/concurrency-in-go/)  
