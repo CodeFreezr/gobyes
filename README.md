@@ -115,7 +115,7 @@ At the moment there are around 17 short 5 Minutes Screencasts which gives you a 
 [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)  
 [⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012)[⏭️](#eop)  
 Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
-[Code gobye](corpus/astaxie/build-web-with-go)  
+[Code gobye](corpus/astaxie/build-web-application-with-golang)  
 [TOC](toc)  
 HP in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) | 
 [de](https://astaxie.gitbooks.io/build-web-application-with-golang/content/de/) | 
