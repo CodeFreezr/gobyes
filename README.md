@@ -102,7 +102,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 [![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--02-blue.svg)](corpus/arschles/go-in-5-minutes)  
 [⏮️](#gobyes)[⏪](#apressgo-recipes-2016)[⏩](#astaxiebuild-web-with-go)[⏭️](#eop)  
-At the moment there are around 17 short 5 Minutes Screencasts which gives you a fast inside on specific topics.  
+Find short in all code examples 5 Minutes Screencasts, linked via badge, which gives you a fast inside on specific topics. Great source for digging deeper into go.  
 [TOC](https://www.goin5minutes.com/screencasts/)  
 [HP](https://www.goin5minutes.com/)  
 <img src="resources/covers/arschles.jpg" width="200">  
