@@ -252,7 +252,7 @@ The Book was written by Caleb Doxsey with all the go files "inline". Find here a
 [![GitHub last commit](https://img.shields.io/github/last-commit/kat-co/concurrency-in-go-src.svg)](https://github.com/kat-co/concurrency-in-go-src/)  
 [⏮️](#gobyes)[⏪](#jochasingagolang-book)[⏩](#mstrmndsgo-in-practice-2016)[⏭️](#eop)  
 Concurrency is one of the core use cases of golang, so if you want master this find a got starting point with this book.  
-[Code gobye](corpus/kat/concurrency-go)  
+[Code gobye](corpus/kat/concurrency-in-go)  
 [TOC](toc)  
 [HP](http://katherine.cox-buday.com/concurrency-in-go/)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
