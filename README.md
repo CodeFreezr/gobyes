@@ -164,8 +164,8 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 </br>  
 
 ### goes211.golangtraining  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining)  
 [⏮️](#gobyes)[⏪](#codegangstaessential-go)[⏩](#goes211golang-web-dev)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
 [Code gobye](corpus/goes211/GolangTraining)  
@@ -176,8 +176,8 @@ Learn programming from a University Professor in Computer Science with over 20 y
 </br>  
 
 ### goes211.golang-web-dev  
-[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/GolangTraining)](https://goreportcard.com/report/github.com/GoesToEleven/GolangTraining)
-[![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/GoesToEleven/golang-web-dev)](https://goreportcard.com/report/github.com/GoesToEleven/golang-web-dev)
+[![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
 [⏮️](#gobyes)[⏪](#goes211golangtraining)[⏩](#goinactioncode-2015)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
 [Code gobye](corpus/goes211/golang-web-dev)  
@@ -252,7 +252,7 @@ The Book was written by Caleb Doxsey with all the go files "inline". Find here a
 [![GitHub last commit](https://img.shields.io/github/last-commit/kat-co/concurrency-in-go-src.svg)](https://github.com/kat-co/concurrency-in-go-src/)  
 [⏮️](#gobyes)[⏪](#jochasingagolang-book)[⏩](#mstrmndsgo-in-practice-2016)[⏭️](#eop)  
 Concurrency is one of the core use cases of golang, so if you want master this find a got starting point with this book.  
-[Code gobye](corpus/kat/concurrency-go)  
+[Code gobye](corpus/kat/concurrency-in-go)  
 [TOC](toc)  
 [HP](http://katherine.cox-buday.com/concurrency-in-go/)  
 <img src="resources/covers/concurrency-in-go.jpg" width="200">  
@@ -275,7 +275,7 @@ Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-
 [![Go Report Card](https://goreportcard.com/badge/github.com/matryer/goblueprints)](https://goreportcard.com/report/github.com/matryer/goblueprints)
 [![GitHub last commit](https://img.shields.io/github/last-commit/matryer/goblueprints.svg)](https://github.com/matryer/goblueprints/)  
 [⏮️](#gobyes)[⏪](#mstrmndsgo-in-practice-2016)[⏩](#mkazworking-with-go)[⏭️](#eop)  
-Expect nearly 90 go files organised in 11 chapters in this awesome lecture about go by mastermind Mat Ryer, who is also one guy behind http://gopherize.me.
+Expect nearly 90 go files organised in 11 chapters in this awesome lecture about go by mastermind Mat Ryer, who is also one guy behind http://gopherize.me.  
 [Code gobye](corpus/matryer/goblueprints)  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)  
@@ -309,7 +309,7 @@ The Mother of all GoBye's with over 60 go examples.
 
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/nathany/mshindle/tidbits/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/mshindle/tidbits/)  
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcoming)[⏭️](#eop)  
 Around 14 snippets of example golang code to help teach certain concepts.     
 [Code gobye](corpus/mshindle/tidbits)  
