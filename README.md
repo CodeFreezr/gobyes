@@ -66,7 +66,6 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/adonovan/gopl.io)  
 [⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)  
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
-<!-- [Code gobye](corpus/adonovan/gopl.io)  -->
 [TOC](http://www.gopl.io/ch1.pdf)  
 [HP](http://www.gopl.io/)  
 <img src="resources/covers/gobl.png" width="200">  
