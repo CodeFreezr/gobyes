@@ -8,7 +8,7 @@ package lsm
 // DO NOT EDIT - Improve the pattern!
 
 import (
-	"github.com/golangsam/container/ccsafe/lsm"
+	"github.com/GoLangsam/container/ccsafe/lsm"
 )
 
 var _ *lsm.LazyStringerMap // silence import

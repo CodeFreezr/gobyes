@@ -10,7 +10,7 @@ package dot
 // Note: SendProxyDot imports "container/ring" for the expanding buffer.
 import (
 	"container/ring"
-	"github.com/golangsam/container/ccsafe/dot"
+	"github.com/GoLangsam/container/ccsafe/dot"
 )
 
 // DotCAP is the capacity of the buffered proxy channel

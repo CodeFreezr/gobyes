@@ -97,3 +97,8 @@ So: be a ***Happy*** Gopher!
 This project is licensed under the MIT general use license.
 You're free to integrate, fork, and play with this code as you feel fit without consulting the author,
 as long as you provide proper credit to the author in your works.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/GoLangsam/AnyType/badge.svg?style=beer-square)](https://beerpay.io/GoLangsam/AnyType)  [![Beerpay](https://beerpay.io/GoLangsam/AnyType/make-wish.svg?style=flat-square)](https://beerpay.io/GoLangsam/AnyType?focus=wish)

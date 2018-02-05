@@ -10,7 +10,7 @@ package lsm
 // Note: SendProxyLSM imports "container/ring" for the expanding buffer.
 import (
 	"container/ring"
-	"github.com/golangsam/container/ccsafe/lsm"
+	"github.com/GoLangsam/container/ccsafe/lsm"
 )
 
 // LSMCAP is the capacity of the buffered proxy channel

@@ -10,7 +10,7 @@ package tag
 // Note: SendProxyTag imports "container/ring" for the expanding buffer.
 import (
 	"container/ring"
-	"github.com/golangsam/container/ccsafe/tag"
+	"github.com/GoLangsam/container/ccsafe/tag"
 )
 
 // TagCAP is the capacity of the buffered proxy channel

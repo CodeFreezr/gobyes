@@ -10,7 +10,7 @@ package dotpath
 // Note: SendProxyDotPath imports "container/ring" for the expanding buffer.
 import (
 	"container/ring"
-	"github.com/golangsam/container/ccsafe/dotpath"
+	"github.com/Golangsam/container/ccsafe/dotpath"
 )
 
 // DotPathCAP is the capacity of the buffered proxy channel

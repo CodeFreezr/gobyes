@@ -8,7 +8,7 @@ package dot
 // DO NOT EDIT - Improve the pattern!
 
 import (
-	"github.com/golangsam/container/ccsafe/dot"
+	"github.com/GoLangsam/container/ccsafe/dot"
 )
 
 // MakeDotChan returns a new open channel

@@ -8,7 +8,7 @@ package dotpath
 // DO NOT EDIT - Improve the pattern!
 
 import (
-	"github.com/golangsam/container/ccsafe/dotpath"
+	"github.com/GoLangsam/container/ccsafe/dotpath"
 )
 
 var _ *dotpath.DotPath // silence import
