@@ -226,7 +226,9 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 ### golangsam.anytype
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoLangsam/AnyType)](https://goreportcard.com/report/github.com/GoLangsam/AnyType)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoLangsam/AnyType.svg)](https://github.com/GoLangsam/AnyType/)  
-[⏮️](#gobyes)[⏪](#golangtour)[⏩](#jochasingagolang-book)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#golangtour)[⏩](#jochasingagolang-book)[⏭️](#eop)
+
+![https://img.shields.io/badge/gobyed-18--02--05-blue.svg](corpus/golangsam/AnyType)
 Templates, and ready-to-use go lang source files - generated with dotgo. Here is important not to read the generated stuff, but to understand the mechanic of generation.  
 [Code gobye](corpus/golangsam/AnyType)  
 [TOC](toc)  
