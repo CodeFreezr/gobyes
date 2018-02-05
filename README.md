@@ -275,7 +275,7 @@ Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-
 [![Go Report Card](https://goreportcard.com/badge/github.com/matryer/goblueprints)](https://goreportcard.com/report/github.com/matryer/goblueprints)
 [![GitHub last commit](https://img.shields.io/github/last-commit/matryer/goblueprints.svg)](https://github.com/matryer/goblueprints/)  
 [⏮️](#gobyes)[⏪](#mstrmndsgo-in-practice-2016)[⏩](#mkazworking-with-go)[⏭️](#eop)  
-Expect nearly 90 go files organised in 11 chapters in this awesome lecture about go by mastermind Mat Ryer, who is also one guy behind http://gopherize.me.
+Expect nearly 90 go files organised in 11 chapters in this awesome lecture about go by mastermind Mat Ryer, who is also one guy behind http://gopherize.me.  
 [Code gobye](corpus/matryer/goblueprints)  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)  
