@@ -76,10 +76,10 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 
 ### agtorre.go-cookbook (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/agtorre/go-cookbook)](https://goreportcard.com/report/github.com/agtorre/go-cookbook)
-[![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/agtorre/go-cookbook.svg)](https://github.com/agtorre/go-cookbook)
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--22-blue.svg)](corpus/agtorre/go-cookbook)  
 [⏮️](#gobyes)[⏪](#adonovangopl-2015)[⏩](#apressgo-recipes-2016)[⏭️](#eop)  
 13 chapters full of examples and recipes by Aaron Torres.  
-[Code gobye](corpus/agtorre/go-cookbook)  
 [TOC](https://www.packtpub.com/mapt/book/application_development/9781783286836)  
 [HP](http://bit.ly/go-agtorre-cookbook)  
 <img src="resources/covers/packt-go_cookbook.png" width="200">  
@@ -89,10 +89,10 @@ Find here the sources of one of the best ranking Go-Book "The Go Programming Lan
 
 ### apress.go-recipes (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Apress/go-recipes)](https://goreportcard.com/report/github.com/Apress/go-recipes)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/Apress/go-recipes.svg)](https://github.com/Apress/go-recipes)
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--22-blue.svg)](corpus/apress/go-recipes)  
 [⏮️](#gobyes)[⏪](#agtorrego-cookbook-2017)[⏩](#arschlesgo-in-5-minutes)[⏭️](#eop)  
 In 8 chapters and 83 go files your find a wide range of really usefull examples.  
-[Code gobye](corpus/apress/go-recipes)  
 [TOC](https://books.google.de/books?id=mi6IDQAAQBAJ&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)  
 [HP](http://bit.ly/go-recipes)  
 <img src="resources/covers/Apress-GoRecipes.jpg" width="200">  
@@ -100,10 +100,10 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 </br>  
 
 ### arschles.go-in-5-minutes  
-[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)  
+[![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--02-blue.svg)](corpus/arschles/go-in-5-minutes)  
 [⏮️](#gobyes)[⏪](#apressgo-recipes-2016)[⏩](#astaxiebuild-web-with-go)[⏭️](#eop)  
 At the moment there are around 17 short 5 Minutes Screencasts which gives you a fast inside on specific topics.  
-[Code gobye](corpus/arschles/go-in-5-minutes)  
 [TOC](https://www.goin5minutes.com/screencasts/)  
 [HP](https://www.goin5minutes.com/)  
 <img src="resources/covers/arschles.jpg" width="200">  
