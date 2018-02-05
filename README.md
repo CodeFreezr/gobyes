@@ -62,9 +62,9 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
 
 ### adonovan.gopl (2015)
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
-[![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/adonovan/gopl.io)  
 [⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/adonovan/gopl.io)
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 <!-- [Code gobye](corpus/adonovan/gopl.io)  -->
 [TOC](http://www.gopl.io/ch1.pdf)  
