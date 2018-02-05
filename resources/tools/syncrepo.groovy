@@ -5,7 +5,7 @@
 // 2do: change "gobeyd"
 
 def tempDir = 'd:\\temp\\gitemp'
-def corpusDir = 'd:\\dbt\\01\\git\\gobeys\\corpus'
+def corpusDir = 'd:\\dbt\\01\\git\\gobyes\\corpus'
 def provider = 'https://github.com/'
 def cloneCmd = 'git clone '
 def user = this.args[0]
