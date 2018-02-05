@@ -298,7 +298,7 @@ Over 20 well documented code examples, with an extra section for the euler mathe
 ### mmcgrana.gobyexample
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mmcgrana/gobyexample.svg)](https://github.com/mmcgrana/gobyexample/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--22-blue.svg)](corpus/mmcgrana/gobyexample)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/mmcgrana/gobyexample)  
 [⏮️](#gobyes)[⏪](#mkazworking-with-go)[⏩](#mshindletidbits)[⏭️](#eop)  
 The Mother of all GoBye's with over 60 go examples.  
 [TOC](toc)  
@@ -321,7 +321,7 @@ Around 14 snippets of example golang code to help teach certain concepts.
 ### nathany.get-programming-with-go (upcoming)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/nathany/get-programming-with-go)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/nathany/get-programming-with-go)  
 [⏮️](#gobyes)[⏪](#mshindletidbits)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
 Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
 [TOC](toc)  
