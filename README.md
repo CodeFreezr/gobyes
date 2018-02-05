@@ -359,7 +359,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 [![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook.svg)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)  
 [⏮️](#gobyes)[⏪](#simonwaldherrgolang-examples)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
 Find within this project Video-Screencasts, gitbook or a leanpub download.  
-[Code gobye](corpus/thewhitetulip/anti-textbook)  
+[Code gobye](corpus/thewhitetulip/web-dev-golang-anti-textbook)  
 [TOC](toc)  
 [HP](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)  
 <img src="resources/covers/the-anti-textbook.jpg" width="200">  
