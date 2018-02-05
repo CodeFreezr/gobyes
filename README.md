@@ -309,7 +309,7 @@ The Mother of all GoBye's with over 60 go examples.
 
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/nathany/mshindle/tidbits/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/mshindle/tidbits/)  
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcoming)[⏭️](#eop)  
 Around 14 snippets of example golang code to help teach certain concepts.     
 [Code gobye](corpus/mshindle/tidbits)  
