@@ -214,7 +214,7 @@ This is the official example collection with around 18 bit more complex examples
 ### golang.tour
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)
 [![GitHub last commit](https://img.shields.io/github/last-commit/golang/tour.svg)](https://github.com/golang/tour)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--22-blue.svg)](corpus/golang/tour)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/golang/tour)  
 [⏮️](#gobyes)[⏪](#golangexample)[⏩](#golangsamanytype)[⏭️](#eop)  
 This is the repo of the "A Tour of Go". One of the first thing you have to play with if you want to try go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this damn c-like pointer stuff.  
 [TOC](toc)  
