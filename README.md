@@ -143,7 +143,7 @@ Here are the sourcecodes from "The Go Programming Language Phrasebook" by David 
 [![Go Report Card](https://goreportcard.com/badge/github.com/codegangsta/bwag)](https://goreportcard.com/report/github.com/codegangsta/bwag)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codegangsta/bwag.svg)](https://github.com/codegangsta/bwag/)  
 [⏮️](#gobyes)[⏪](#chisnallphrasebook-2012)[⏩](#codegangstaessential-go)[⏭️](#eop)  
-Codegangst dig here into the world of "building-web-applications-with-go" Beside go itself you can learn here also a lot about heroku & microservices.
+Codegangst dig here into the world of "building-web-applications-with-go" Beside go itself you can learn here also a lot about heroku & microservices.  
 [Code gobye](corpus/codegangsta/bwag)  
 [TOC](toc)  
 [HP](https://codegangsta.gitbooks.io/building-web-apps-with-go/)  
