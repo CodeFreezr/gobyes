@@ -64,7 +64,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
 [![Go Report Card](https://goreportcard.com/badge/github.com/adonovan/gopl.io)](https://goreportcard.com/report/github.com/adonovan/gopl.io)
 [![GitHub last commit](https://img.shields.io/github/last-commit/adonovan/gopl.io.svg)](https://github.com/adonovan/gopl.io/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/adonovan/gopl.io)  
-[⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)
+[⏮️](#gobyes)[⏪](#gobyes)[⏩](#agtorrego-cookbook-2017)[⏭️](#eop)  
 Find here the sources of one of the best ranking Go-Book "The Go Programming Language" by Alan A.A. Donovan & Brian W. Kerninghan.  
 <!-- [Code gobye](corpus/adonovan/gopl.io)  -->
 [TOC](http://www.gopl.io/ch1.pdf)  
@@ -129,10 +129,10 @@ HP in: [en](https://astaxie.gitbooks.io/build-web-application-with-golang/conten
 
 ### chisnall.phrasebook (2012)
 [![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)
-[![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/phrasebook.svg)](https://github.com/CodeFreezr/phrasebook/) (just mirror)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CodeFreezr/phrasebook.svg)](https://github.com/CodeFreezr/phrasebook/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--26-blue.svg)](corpus/chisnall/phrasebook)  
 [⏮️](#gobyes)[⏪](#astaxiebuild-web-with-go)[⏩](#codegangstabwag)[⏭️](#eop)  
-Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall.  
+Here are the sourcecodes from "The Go Programming Language Phrasebook" by David Chisnall. This is a zip-download and git upstream-mirror.  
 [TOC](http://bit.ly/go-phrasebook)  
 [HP](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)  
 <img src="resources/covers/GoProgrammingPhrasebook.jpg" width="200">  
@@ -262,7 +262,7 @@ Concurrency is one of the core use cases of golang, so if you want master this f
 
 ### mstrmnds.go-in-practice (2016)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Masterminds/go-in-practice)](https://goreportcard.com/report/github.com/Masterminds/go-in-practice)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/go-in-practice.svg)](https://github.com/Masterminds/go-in-practice/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/Masterminds/go-in-practice.svg)](https://github.com/Masterminds/go-in-practice/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/masterminds/go-in-practice)  
 [⏮️](#gobyes)[⏪](#katconcurrency-go)[⏩](#matryergoblueprints)[⏭️](#eop)  
 Find here the sourcecodes from the book "Go in Practive" in 11 Chapters, 129 Go-Files and 70 Techniques.    
@@ -310,7 +310,7 @@ The Mother of all GoBye's with over 60 go examples.
 
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
-[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/mshindle/tidbits/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/mshindle/tidbits/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--29-blue.svg)](corpus/mshindle/tidbits)  
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcoming)[⏭️](#eop)  
 Around 14 snippets of example golang code to help teach certain concepts.     
@@ -321,7 +321,7 @@ Around 14 snippets of example golang code to help teach certain concepts.
 
 ### nathany.get-programming-with-go (upcoming)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
-[![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/nathany/get-programming-with-go)  
 [⏮️](#gobyes)[⏪](#mshindletidbits)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
 Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
