@@ -168,7 +168,7 @@ A smart collection of 14 important go examples from around 2015. He also offers 
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/GolangTraining.svg)](https://github.com/GoesToEleven/GolangTraining)  
 [⏮️](#gobyes)[⏪](#codegangstaessential-go)[⏩](#goes211golang-web-dev)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
-[Code gobye](corpus/goes211/GolangTraining)  
+[Code gobye](corpus/GoesToEleven/GolangTraining)  
 [TOC](toc)  
 [HP](https://www.greatercommons.com/learn/5098183625539584)  
 <img src="resources/covers/goes211.jpg" width="200">  
@@ -180,7 +180,7 @@ Learn programming from a University Professor in Computer Science with over 20 y
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoesToEleven/golang-web-dev.svg)](https://github.com/GoesToEleven/golang-web-dev)  
 [⏮️](#gobyes)[⏪](#goes211golangtraining)[⏩](#goinactioncode-2015)[⏭️](#eop)  
 Learn programming from a University Professor in Computer Science with over 20 years of teaching experience.  
-[Code gobye](corpus/goes211/golang-web-dev)  
+[Code gobye](corpus/GoesToEleven/golang-web-dev)  
 [TOC](toc)  
 [HP](https://www.greatercommons.com/learn/6600110066630656)  
 <img src="resources/covers/goes211.jpg" width="200">  
