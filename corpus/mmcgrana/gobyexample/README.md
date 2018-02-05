@@ -34,6 +34,16 @@ To build continuously in a loop:
 $ tools/build-loop
 ```
 
+### Publishing
+
+To upload the site:
+
+```console
+$ gem install aws-sdk
+$ export export AWS_ACCESS_KEY_ID=...
+$ export AWS_SECRET_ACCESS_KEY=...
+$ tools/upload-site
+```
 
 ### License
 
@@ -48,9 +58,10 @@ The Go Gopher is copyright [Renée French](http://reneefrench.blogspot.com/) and
 
 Contributor translations of the Go by Example site are available in:
 
-* [Chinese](http://gobyexample.everyx.in/) by [everyx](https://github.com/everyx)
+* [Chinese](https://gobyexample.xgwang.me/) by [xg-wang](https://github.com/xg-wang/gobyexample)
 * [French](http://le-go-par-l-exemple.keiruaprod.fr) by [keirua](https://github.com/keirua/gobyexample)
 * [Italian](http://gobyexample.it) by the [Go Italian community](https://github.com/golangit/gobyexample-it)
+* [Korean](https://mingrammer.com/gobyexample/) by [mingrammer](https://github.com/mingrammer)
 * [Spanish](http://goconejemplos.com) by the [Go Mexico community](https://github.com/dabit/gobyexample)
 
 ### Thanks

@@ -1,6 +1,6 @@
 // In the previous example we saw how to manage simple
 // counter state using [atomic operations](atomic-counters).
-// For more complex state we can use a _[mutex](http://en.wikipedia.org/wiki/Mutual_exclusion)_
+// For more complex state we can use a <em>[mutex](http://en.wikipedia.org/wiki/Mutual_exclusion)</em>
 // to safely access data across multiple goroutines.
 
 package main
@@ -23,8 +23,8 @@ func main() {
 
     // We'll keep track of how many read and write
     // operations we do.
-    var readOps uint64 = 0
-    var writeOps uint64 = 0
+    var readOps uint64
+    var writeOps uint64
 
     // Here we start 100 goroutines to execute repeated
     // reads against the state, once per millisecond in

@@ -1,8 +1,8 @@
 
-// set user arg[0] and repo arg[1]
 // 2do: User os.FileSeperator ...
 // 2do: run headcom / playgrounder etc. pp.
-// 2do: change "gobeyd"
+// 2do: change "gobeyd" in readme.md
+// 2do: Solve Problme with ".files and folders"
 
 def tempDir = 'd:\\temp\\gitemp'
 def corpusDir = 'd:\\dbt\\01\\git\\gobyes\\corpus'
