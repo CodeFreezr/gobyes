@@ -226,7 +226,7 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 ### golangsam.anytype
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoLangsam/AnyType)](https://goreportcard.com/report/github.com/GoLangsam/AnyType)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoLangsam/AnyType.svg)](https://github.com/GoLangsam/AnyType/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--03-blue.svg)](corpus/golangsam/AnyType)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/golangsam/AnyType)  
 [⏮️](#gobyes)[⏪](#golangtour)[⏩](#jochasingagolang-book)[⏭️](#eop)  
 Templates, and ready-to-use go lang source files - generated with dotgo. Here is important not to read the generated stuff, but to understand the mechanic of generation.  
 [TOC](toc)  
@@ -237,7 +237,7 @@ Templates, and ready-to-use go lang source files - generated with dotgo. Here is
 
 ### jochasinga.golang-book
 [![Go Report Card](https://goreportcard.com/badge/github.com/jochasinga/golang-book)](https://goreportcard.com/report/github.com/jochasinga/golang-book)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jochasinga/golang-book.svg)](https://github.com/jochasinga/golang-book/)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/jochasinga/golang-book.svg)](https://github.com/jochasinga/golang-book/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--03-blue.svg)](corpus/jochasinga/golang-book)  
 [⏮️](#gobyes)[⏪](#golangsamanytype)[⏩](#katconcurrency-go)[⏭️](#eop)  
 The Book was written by Caleb Doxsey with all the go files "inline". Find here an extract of this file into a github repo. Perhaps we find a solution to get this stuff more in sync to bit more actual original.  
