@@ -22,7 +22,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#agtorrego-cookbook-2017"><b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#apressgo-recipes-2016"><b>apress.go-recipes</b></a> <a href="https://github.com/Apress/go-recipes"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#arschlesgo-in-5-minutes"><b>arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web-with-go</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstabwag"><b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstaessential-go"><b>codegangsta.essential</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
