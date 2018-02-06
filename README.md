@@ -1,10 +1,12 @@
 # Go By Examples - Corpus
 
-### gobyes
+[![Join the chat at https://gitter.im/gobyes/Lobby](https://badges.gitter.im/gobyes/Lobby.svg)](https://gitter.im/gobyes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
+
+### gobyes
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
 ![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
-[![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
@@ -298,7 +300,7 @@ Over 20 well documented code examples, with an extra section for the euler mathe
 ### mmcgrana.gobyexample
 [![Go Report Card](https://goreportcard.com/badge/github.com/mmcgrana/gobyexample)](https://goreportcard.com/report/github.com/mmcgrana/gobyexample)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mmcgrana/gobyexample.svg)](https://github.com/mmcgrana/gobyexample/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--22-blue.svg)](corpus/mmcgrana/gobyexample)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/mmcgrana/gobyexample)  
 [⏮️](#gobyes)[⏪](#mkazworking-with-go)[⏩](#mshindletidbits)[⏭️](#eop)  
 The Mother of all GoBye's with over 60 go examples.  
 [TOC](toc)  
@@ -321,7 +323,7 @@ Around 14 snippets of example golang code to help teach certain concepts.
 ### nathany.get-programming-with-go (upcoming)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/nathany/get-programming-with-go)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/nathany/get-programming-with-go)  
 [⏮️](#gobyes)[⏪](#mshindletidbits)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
 Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
 [TOC](toc)  
