@@ -25,7 +25,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web-with-go</b></a> <a href="https://github.com/astaxie/build-web-application-with-golang"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstabwag"><b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#codegangstaessential-go"><b>codegangsta.essential-go</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#codegangstaessential-go"><b>codegangsta.essential</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goes211golangtraining"><b>goes211.golangtraining</b></a> <a href="https://github.com/GoesToEleven/GolangTraining"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goes211golang-web-dev"><b>goes211.golang-web-dev</b></a> <a href="https://github.com/GoesToEleven/golang-web-dev"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goinactioncode-2015"><b>goinaction.code (2015)</b> <a href="https://github.com/goinaction/code"><img src="resources/github-sociocon.png" width="18"></a></li>
