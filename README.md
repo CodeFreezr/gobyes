@@ -354,7 +354,7 @@ Authors(s): Naren Yellavula
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/building-restful-web-services-go?utm_source=github&utm_medium=repository&utm_campaign=9781788294287)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-BuildingRESTful.png" width="200">  
 </br> 
 </br>
 
@@ -368,7 +368,7 @@ Authors(s): Mina Andrawos, Martin Helmich
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/cloud-native-programming-golang)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-CloudNative.png" width="200">  
 </br> 
 </br>
 
@@ -382,7 +382,7 @@ Authors(s): Mario Castro Contreras
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-design-patterns)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-DesignPattern.png" width="200">  
 </br> 
 </br>
 
@@ -396,7 +396,7 @@ Authors(s): Mihalis Tsoukalos
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/mapt/book/networking_and_servers/9781787125643)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-GoSystemProgramming.png" width="200">  
 </br> 
 </br>
 
@@ -410,7 +410,7 @@ Authors(s): Nathan Kozyra, Mat Ryer
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-building-web-applications)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-GoBuildingWebApp.png" width="200">  
 </br> 
 </br>
 
@@ -438,7 +438,7 @@ Authors(s): Vladimir Vivien, Mario Castro Contreras, Mat Ryer
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-design-patterns-real-world-projects)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-PatternForRealworld.png" width="200">  
 </br> 
 </br>
 
@@ -452,7 +452,7 @@ Authors(s): Kamesh Balasubramanian
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/web-development/isomorphic-go)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-IsomorhicGo.png" width="200">  
 </br> 
 </br>
 
@@ -466,7 +466,7 @@ Authors(s): Lex Sheehan
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/learning-functional-programming-go)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-LearningFunctionalGo.png" width="200">  
 </br> 
 </br>
 
@@ -480,7 +480,7 @@ Authors(s): Vladimir Vivien
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/learning-go-programming?utm_source=github&utm_medium=repository&utm_campaign=9781784395438)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-LearningGo.png" width="200">  
 </br> 
 </br>
 
@@ -494,7 +494,7 @@ Authors(s): Daniel Whitenack
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-go)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-MachineLearning.png" width="200">  
 </br> 
 </br>
 
@@ -508,7 +508,7 @@ Authors(s): John Daniel Leon
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/networking-and-servers/security-go)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-SecurityGo.png" width="200">  
 </br> 
 </br>
 
