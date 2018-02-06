@@ -1,0 +1,12 @@
+call groovy syncrepo PacktPublishing Building-RESTful-Web-Services-with-Go
+call groovy syncrepo PacktPublishing Cloud-Native-programming-with-Golang
+call groovy syncrepo PacktPublishing Go-Building-7-Real-World-Projects
+call groovy syncrepo PacktPublishing Go-Building-Web-Applications
+call groovy syncrepo PacktPublishing Go-Design-Patterns
+call groovy syncrepo PacktPublishing Go-Design-Patterns-for-Real-World-Projects
+call groovy syncrepo PacktPublishing Isomorphic-Go
+call groovy syncrepo PacktPublishing Learning-Functional-Programming-in-Go
+call groovy syncrepo PacktPublishing Learning-Go-Programming
+call groovy syncrepo PacktPublishing Machine-Learning-With-Go
+call groovy syncrepo PacktPublishing Security-with-Go
+call groovy syncrepo PacktPublishing Go-Systems-Programming
