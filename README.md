@@ -1,7 +1,6 @@
 # Go By Examples - Corpus
 
 [![Join the chat at https://gitter.im/gobyes/Lobby](https://badges.gitter.im/gobyes/Lobby.svg)](https://gitter.im/gobyes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gobyes/Lobby?source=orgpage)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
 
