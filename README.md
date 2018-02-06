@@ -4,6 +4,7 @@
 
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
 ![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gobyes)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
