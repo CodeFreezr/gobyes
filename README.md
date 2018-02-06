@@ -1,5 +1,7 @@
 # Go By Examples - Corpus
 
+[![Join the chat at https://gitter.im/gobyes/Lobby](https://badges.gitter.im/gobyes/Lobby.svg)](https://gitter.im/gobyes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### gobyes
 
 ![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
