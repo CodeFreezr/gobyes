@@ -1,13 +1,13 @@
 # Go By Examples - Corpus
 
 [![Join the chat at https://gitter.im/gobyes/Lobby](https://badges.gitter.im/gobyes/Lobby.svg)](https://gitter.im/gobyes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-### gobyes
-
-![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
-![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/gobyes/Lobby?source=orgpage)
 [![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
+
+
+### gobyes
+![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
+![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
