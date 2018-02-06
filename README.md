@@ -50,7 +50,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#pktsystemsprogramming-2017"><b>pkt.systemsprogramming (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-Web-Applications"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktgo-buildwebapp-2016"><b>pkt.go-buildwebapp (2016)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktgo-buildsevenapps-2017"><b>pkt.go-buildsevenapps (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#pktgo-patternforrealworld-2017"><b>pkt.go-patternforrealworld (2017)</b></a>  <a href="https://github.com/PacktPublishing/Isomorphic-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#pktgo-patternforrealworld-2017"><b>pkt.go-pattern4real (2017)</b></a>  <a href="https://github.com/PacktPublishing/Isomorphic-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktisomorphic-go-2017"><b>pkt.isomorphic-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
             </ol>
         </td>
