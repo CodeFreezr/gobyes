@@ -424,7 +424,7 @@ Authors(s): Ben Trantor, Rostislav Zsinko, Mat Ryer
 Abstract: Smart Description here ...  
 [TOC](toc)  
 [HP](https://www.packtpub.com/application-development/go-building-7-real-world-projects)  
-<img src="resources/covers/gobl.png" width="200">  
+<img src="resources/covers/pkt-Building7Apps.png" width="200">  
 </br> 
 </br>
 
