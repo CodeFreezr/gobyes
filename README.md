@@ -5,8 +5,8 @@
 
 
 ### gobyes
-![Gobye Gophers](resources/gobyes.png?raw=true "Gobye Gophers")  
-![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  
+![Gobye Gophers](resources/gobyes-inc.png?raw=true "Gobye Gophers")  
+<!-- ![Gobye Gophers2](resources/gobeysWinDirStat.jpg?raw=true "Gobye Gophers2")  -->
 
 We collect a couple of gobyes (Go By Examples) repositories to learn, analyse and streamline. If you like to contribute, please star/fork at first the original repos, buy the books, book the courses, obtain a ticket to / organize a gopher conference and/or spread the words.
 
