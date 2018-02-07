@@ -4,17 +4,17 @@
 
 <ol>
 
-<li><a href="# pktbuild-restful-2017 "><b> pkt.build-restful (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktcloudnative-2017 "><b> pkt.cloudnative (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Cloud-Native-programming-with-Golang "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktgo-build-7-apps-2017 "><b> pkt.go-build-7-apps (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktgo-build-web-app-2016 "><b> pkt.go-build-web-app (2016) </b></a>  <a href=" https://github.com/PacktPublishing/Go-Building-Web-Applications "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktgo-designpatterns-2017 "><b> pkt.go-designpatterns (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Go-Design-Patterns "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktsystems-programming-2017 "><b> pkt.systems-programming (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Go-Systems-Programming "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktisomorphic-go-2017 "><b> pkt.isomorphic-go (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Isomorphic-Go "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktlearning-functional-go-2017 "><b> pkt.learning-functional-go (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktlearning-go-2016 "><b> pkt.learning-go (2016) </b></a>  <a href=" https://github.com/PacktPublishing/Learning-Go-Programming "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktmachinelearning-go-2017 "><b> pkt.machinelearning-go (2017) </b></a>  <a href=" https://github.com/PacktPublishing/Machine-Learning-With-Go "><img src="resources/github-sociocon.png" width="18"></a></li>
-<li><a href="# pktsecurity-go-2018 "><b> pkt.security-go (2018) </b></a>  <a href=" https://github.com/PacktPublishing/Security-with-Go "><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktbuild-restful-2017"><b>pkt.build-restful (2017)</b></a>  <a href="https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktcloudnative-2017"><b>pkt.cloudnative (2017)</b></a>  <a href="https://github.com/PacktPublishing/Cloud-Native-programming-with-Golang"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktgo-build-7-apps-2017"><b>pkt.go-build-7-apps (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktgo-build-web-app-2016"><b>pkt.go-build-web-app (2016)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-Web-Applications"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktgo-designpatterns-2017"><b>pkt.go-designpatterns (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktsystems-programming-2017"><b>pkt.systems-programming (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Systems-Programming"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktisomorphic-go-2017"><b>pkt.isomorphic-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Isomorphic-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktlearning-functional-go-2017"><b>pkt.learning-functional-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktlearning-go-2016"><b>pkt.learning-go (2016)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Go-Programming"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktmachinelearning-go-2017"><b>pkt.machinelearning-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Machine-Learning-With-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
+<li><a href="#pktsecurity-go-2018"><b>pkt.security-go (2018)</b></a>  <a href="https://github.com/PacktPublishing/Security-with-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
 
 </ol>
 
