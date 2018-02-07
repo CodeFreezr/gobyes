@@ -51,7 +51,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#pktgo-designpatterns-2017"><b>pkt.go-designpatterns (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktsystems-programming-2017"><b>pkt.systems-prog (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Systems-Programming"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktisomorphic-go-2017"><b>pkt.isomorphic-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Isomorphic-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#pktlearning-functional-go-2017"><b>pkt.learning-functional-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#pktlearning-functional-go-2017"><b>pkt.learning-functional (2017)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Functional-Programming-in-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
             </ol>
         </td>
         <td valign="top">
