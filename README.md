@@ -347,7 +347,7 @@ Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" 
 [![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go)](https://goreportcard.com/report/github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Building-RESTful-Web-Services-with-Go.svg)](https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Building-RESTful-Web-Services-with-Go)  
-[⏮️](#gobyes)[⏪](#)[⏩](#pktcloudnative-2017)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcoming)[⏩](#pktcloudnative-2017)[⏭️](#eop)  
 Title: Building RESTful Web services with Go  
 Author(s): Naren Yellavula  
 Abstract: Smart Description will be written here ...  
@@ -487,7 +487,7 @@ Abstract: Smart Description will be written here ...
 [![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Security-with-Go)](https://goreportcard.com/report/github.com/PacktPublishing/Security-with-Go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Security-with-Go.svg)](https://github.com/PacktPublishing/Security-with-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Security-with-Go)  
-[⏮️](#gobyes)[⏪](#pktmachinelearning-go-2017)[⏩](#)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#pktmachinelearning-go-2017)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
 Title: Security-with-Go  
 Author(s): John Daniel Leon  
 Abstract: Smart Description will be written here ...  
@@ -496,7 +496,6 @@ Abstract: Smart Description will be written here ...
 <img src="resources/covers/pkt-SecurityGo.png" width="200"> 
 </br> 
 </br>
-
 
 
 ### shapeshed.go-in-24 (2017)
