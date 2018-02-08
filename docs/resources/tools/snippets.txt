@@ -5,3 +5,6 @@ utree -P "*.go|*.md"
 utree -P "*.go|*.md" -H "https://github.com/CodeFreezr/gobyes/tree/master/corpus/codegangsta/bwag" -o ..\@booth\bwag\dirsleft.html
 
 utree -P "*.go|*.md" -H "../../bwag" -o ..\@booth\bwag\dirsleft2.html
+
+
+JSON.parse(document.getElementById('init-data').value).activeHashflags
