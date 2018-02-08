@@ -1,9 +1,9 @@
-goplay -openbrowser=false -run=false array.go >> playlist.md
-goplay -openbrowser=false -run=false arrayAssign.go >> playlist.md
-goplay -openbrowser=false -run=false badStyleImport.go >> playlist.md
-goplay -openbrowser=false -run=false break.go >> playlist.md
-goplay -openbrowser=false -run=false calc.go >> playlist.md
-goplay -openbrowser=false -run=false cast.go >> playlist.md
+copy "array.go" >> playlist.md & goplay -openbrowser=false -run=false array.go >> playlist.md
+copy "arrayAssign.go: " >> goplay -openbrowser=false -run=false arrayAssign.go >> playlist.md
+copy "badStyleImport.go: " >> goplay -openbrowser=false -run=false badStyleImport.go >> playlist.md
+copy "break.go: " >> goplay -openbrowser=false -run=false break.go >> playlist.md
+copy "calc.go: " >> goplay -openbrowser=false -run=false calc.go >> playlist.md
+copy "cast.go: " >> goplay -openbrowser=false -run=false cast.go >> playlist.md
 goplay -openbrowser=false -run=false cgo.go >> playlist.md
 goplay -openbrowser=false -run=false chan.go >> playlist.md
 goplay -openbrowser=false -run=false chanclient.go >> playlist.md
