@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "D:\\dbt\\01\\git"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\dbt\\01\\git\\gobyes\\docs\\booth"
+		},
+		{
+			"path": "D:\\dbt\\01\\git\\gobyes\\corpus"
+		},
+		{
+			"path": "D:\\dbt\\01\\git\\gobyes\\docs"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

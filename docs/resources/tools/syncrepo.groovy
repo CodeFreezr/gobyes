@@ -3,6 +3,11 @@
 // 2do: run headcom / playgrounder etc. pp.
 // 2do: change "gobeyd" in readme.md
 // 2do: Solve Problme with ".files and folders"
+// try git checkout --orphant
+// try utree
+// try goplay
+// modify dirtree.html
+// 
 
 def tempDir = 'd:\\temp\\gitemp'
 def corpusDir = 'd:\\dbt\\01\\git\\gobyes\\corpus'
