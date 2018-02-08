@@ -45,7 +45,6 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
                 <li><a href="#mshindletidbits"><b>mshindle.tidbits</b></a> <a href="https://github.com/mshindle/tidbits"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#nathanyget-programming-with-go-upcoming"><b>nathany.get-programming</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktbuild-restful-2017"><b>pkt.build-restful (2017)</b></a>  <a href="https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#pktcloudnative-2017"><b>pkt.cloudnative (2017)</b></a>  <a href="https://github.com/PacktPublishing/Cloud-Native-programming-with-Golang"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktgo-build-7-apps-2017"><b>pkt.go-build-7-apps (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktgo-build-web-app-2016"><b>pkt.go-build-web-app (2016)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-Web-Applications"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktgo-designpatterns-2017"><b>pkt.go-designpatterns (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Design-Patterns"><img src="resources/github-sociocon.png" width="18"></a></li>
@@ -55,7 +54,7 @@ Find the origin github repos behind <img src="resources/github-sociocon.png" wid
             </ol>
         </td>
         <td valign="top">
-            <ol start="31">
+            <ol start="30">
                 <li><a href="#pktlearning-go-2016"><b>pkt.learning-go (2016)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Go-Programming"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktmachinelearning-go-2017"><b>pkt.machinelearning-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Machine-Learning-With-Go"><img src="resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktsecurity-go-2018"><b>pkt.security-go (2018)</b></a>  <a href="https://github.com/PacktPublishing/Security-with-Go"><img src="resources/github-sociocon.png" width="18"></a></li>            
@@ -347,7 +346,7 @@ Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" 
 [![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go)](https://goreportcard.com/report/github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Building-RESTful-Web-Services-with-Go.svg)](https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Building-RESTful-Web-Services-with-Go)  
-[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcoming)[⏩](#pktcloudnative-2017)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#nathanyget-programming-with-go-upcoming)[⏩](#pktgo-build-7-apps-2017)[⏭️](#eop)  
 Title: Building RESTful Web services with Go  
 Author(s): Naren Yellavula  
 Abstract: Smart Description will be written here ...  
@@ -357,25 +356,13 @@ Abstract: Smart Description will be written here ...
 </br> 
 </br>
 
-### pkt.cloudnative (2017)
-[![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Cloud-Native-programming-with-Golang)](https://goreportcard.com/report/github.com/PacktPublishing/Cloud-Native-programming-with-Golang)
-[![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Cloud-Native-programming-with-Golang.svg)](https://github.com/PacktPublishing/Cloud-Native-programming-with-Golang/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Cloud-Native-programming-with-Golang)  
-[⏮️](#gobyes)[⏪](#pktbuild-restful-2017)[⏩](#pktgo-build-7-apps-2017)[⏭️](#eop)  
-Title: Cloud Native programming with Golang  
-Author(s): Mina Andrawos, Martin Helmich  
-Abstract: Smart Description will be written here ...  
-[TOC](toc)  
-[HP](https://www.packtpub.com/application-development/cloud-native-programming-golang)  
-<img src="resources/covers/pkt-CloudNative.png" width="200"> 
-</br> 
-</br>
+
 
 ### pkt.go-build-7-apps (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Go-Building-7-Real-World-Projects)](https://goreportcard.com/report/github.com/PacktPublishing/Go-Building-7-Real-World-Projects)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Go-Building-7-Real-World-Projects.svg)](https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Go-Building-7-Real-World-Projects)  
-[⏮️](#gobyes)[⏪](#pktcloudnative-2017)[⏩](#pktgo-build-web-app-2016)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#pktbuild-restful-2017)[⏩](#pktgo-build-web-app-2016)[⏭️](#eop)  
 Title: Go: Building 7 Real-World Projects  
 Author(s): Ben Trantor, Rostislav Zsinko, Mat Ryer  
 Abstract: Smart Description will be written here ...  
