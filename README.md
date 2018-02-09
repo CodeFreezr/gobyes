@@ -1,8 +1,8 @@
 # Go By Examples - Corpus
 
 [![Join the chat at https://gitter.im/gobyes/Lobby](https://badges.gitter.im/gobyes/Lobby.svg)](https://gitter.im/gobyes/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)  
-[![Twitter URL](https://img.shields.io/twitter/url/http/DetlefBurkhardt.svg?style=social)](https://twitter.com/DetlefBurkhardt)
+[![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/gobyes.svg)](https://github.com/codefreezr/gobyes/)
+[![Twitter URL](https://img.shields.io/twitter/url/http/DetlefBurkhardt.svg?style=social)](https://twitter.com/DetlefBurkhardt)  
 
 ### gobyes
 ![Gobye Gophers](docs/resources/gobeys-inc.png?raw=true "Gobye Gophers")  
