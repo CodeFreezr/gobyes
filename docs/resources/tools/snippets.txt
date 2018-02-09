@@ -2,9 +2,12 @@ https://github.com/CodeFreezr/gobyes/tree/master/corpus/arschles/go-in-5-minutes
 
 utree -P "*.go|*.md"
 
-utree -P "*.go|*.md" -H "https://github.com/CodeFreezr/gobyes/tree/master/corpus/codegangsta/bwag" -o ..\@booth\bwag\dirsleft.html
 
-utree -P "*.go|*.md" -H "../../bwag" -o ..\@booth\bwag\dirsleft2.html
+
+utree -P "*.go" -H "https://github.com/CodeFreezr/gobyes/tree/master/corpus/codegangsta/bwag" -o ..\..\..\docs\booth\codegangsta\bwag\dirtree.html
+
+
+utree -P "*.go" -H "../../bwag" -o ..\@booth\bwag\dirsleft2.html
 
 
 JSON.parse(document.getElementById('init-data').value).activeHashflags
