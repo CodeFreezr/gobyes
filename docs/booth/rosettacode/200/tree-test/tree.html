@@ -1,0 +1,31 @@
+<div class="container">
+    <h4>Vue.js Expandable Tree Menu<br/><small>(Recursive Components)</small></h4>
+    <div id="app">
+    <tree-menu 
+               :nodes="tree.nodes" 
+               :depth="0"   
+               :label="tree.label"
+               ></tree-menu>
+    </div>
+  </div>
+  
+  
+  <script type="text/x-template" id="tree-menu">
+    <div class="tree-menu">
+      <div class="label-wrapper" @click="toggleChildren">
+        <div :style="indent" :class="labelClasses">
+          <i v-if="nodes" class="fa" :class="iconClasses"></i>
+          {{ label }}
+        </div>
+      </div>
+      <tree-menu 
+        v-if="showChildren"
+        v-for="node in nodes" 
+        :nodes="node.nodes" 
+        :label="node.label"
+        :depth="depth + 1"   
+      >
+      </tree-menu>
+    </div>
+  </script>
+  
