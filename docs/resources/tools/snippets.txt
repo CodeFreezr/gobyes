@@ -24,3 +24,12 @@ pushd & cd 100-doors-1 & copy ..\..\RosettaGoCode\100-doors-1.go & popd
 
 
 System.setProperty("http.agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:10.0) Gecko/20100101 Firefox/10.0")
+
+
+
+
+https://rosettacode.org/mw/index.php?title=AKS_test_for_primes&printable=yes
+
+
+http://rosettacode.org/wiki?curid=9498
+
