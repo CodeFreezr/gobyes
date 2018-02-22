@@ -7,13 +7,14 @@ import (
 	"os"
 	"time"
 
+	"errors"
+	"strings"
+
 	"github.com/mshindle/tidbits/dynamic"
 	"github.com/mshindle/tidbits/limit"
 	"github.com/mshindle/tidbits/retry"
 	"github.com/mshindle/tidbits/toy"
 	"github.com/urfave/cli"
-	"strings"
-	"errors"
 )
 
 func main() {
@@ -83,11 +84,26 @@ func main() {
 			Aliases: []string{"o"},
 			Usage:   "parse a string of words - reversing the odd numbered words",
 			Action: func(c *cli.Context) error {
-				text := strings.Join(c.Args()," ")
-				if !strings.HasSuffix(text,".") {
+				text := strings.Join(c.Args(), " ")
+				if !strings.HasSuffix(text, ".") {
 					return errors.New("string must terminate with a `.`")
 				}
 				toy.Oddword(text)
+				return nil
+			},
+		},
+		{
+			Name:    "gcd",
+			Aliases: []string{"g"},
+			Usage:   "return the greatest common denominator between two numbers",
+			Action: func(c *cli.Context) error {
+				fmt.Println("Running gcd => 12 15")
+				gcd := toy.GCD(12, 15)
+				fmt.Printf("GCD => %d\n", gcd)
+
+				fmt.Println("Running lcm => 12 15")
+				lcm := toy.LCM(12, 15)
+				fmt.Printf("LCM => %d\n", lcm)
 				return nil
 			},
 		},

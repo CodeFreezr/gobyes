@@ -1,3 +1,4 @@
+// Downloads a repo, decoupled it, sloc it and copy to a destination
 
 // 2do: User os.FileSeperator ...
 // 2do: run headcom / playgrounder etc. pp.

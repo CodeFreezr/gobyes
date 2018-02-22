@@ -112,7 +112,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 
 ### arschles.go-in-5-minutes  
 [![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/arschles/go-in-5-minutes)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--22-blue.svg)](corpus/arschles/go-in-5-minutes)  
 [⏮️](#gobyes)[⏪](#apressgo-recipes-2016)[⏩](#astaxiebuild-web-with-go)[⏭️](#eop)  
 Find short in all code examples 5 Minutes Screencasts, linked via badge, which gives you a fast inside on specific topics. Great source for digging deeper into go.  
 [TOC](https://www.goin5minutes.com/screencasts/)  
@@ -322,7 +322,7 @@ The Mother of all GoBye's with over 60 go examples.
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/mshindle/tidbits/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--29-blue.svg)](corpus/mshindle/tidbits)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--22-blue.svg)](corpus/mshindle/tidbits)  
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcoming)[⏭️](#eop)  
 Around 14 snippets of example golang code to help teach certain concepts.     
 [TOC](docs)  
@@ -488,7 +488,7 @@ Abstract: Smart Description will be written here ...
 ### shapeshed.go-in-24 (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--27-blue.svg)](corpus/shapeshed/golang-book-examples)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--22-blue.svg)](corpus/shapeshed/golang-book-examples)  
 [⏮️](#gobyes)[⏪](#pktsecurity-go-2018)[⏩](#simonwaldherrgolang-examples)[⏭️](#eop)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". If you are in hurry, this one is for you.  
 [TOC](docs)  
