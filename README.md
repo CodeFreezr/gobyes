@@ -58,6 +58,7 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#pktlearning-go-2016"><b>pkt.learning-go (2016)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Go-Programming"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktmachinelearning-go-2017"><b>pkt.machinelearning-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Machine-Learning-With-Go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktsecurity-go-2018"><b>pkt.security-go (2018)</b></a>  <a href="https://github.com/PacktPublishing/Security-with-Go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>            
+                <li><a href="#rosettacode-to-gotasks"><b>rosettacode-to.go.tasks</b> <a href="https://github.com/codefreezr/rosettacode-to-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#shapeshedgo-in-24-2017"><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#simonwaldherrgolang-examples"><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
@@ -66,7 +67,6 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
         </td>
     </tr>
 </table>
-
 
 </br>  
 </br> 
@@ -485,11 +485,25 @@ Abstract: Smart Description will be written here ...
 </br>
 
 
+### rosettacode-to-go.tasks
+[![Go Report Card](https://goreportcard.com/badge/github.com/codefreezr/rosettacode-to-go)](https://goreportcard.com/report/github.com/codefreezr/rosettacode-to-go)
+[![GitHub last commit](https://img.shields.io/github/last-commit/codefreezr/rosettacode-to-go.svg)](https://github.com/codefreezr/rosettacode-to-go/)
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--23-blue.svg)](corpus/rosettacode-to-go/tasks)  
+[⏮️](#gobyes)[⏪](#pktsecurity-go-2018)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
+RosettaCode.org: Nearly 1000 programming tasks in over 650 languages. Find here the go codes  
+[TOC](https://codefreezr.github.io/rosettacode-by-nmbrs/)  
+[HP](http://rosettacode.org)  
+<img src="docs/resources/covers/rosettacode.png" width="200">  
+</br>  
+</br>  
+
+
+
 ### shapeshed.go-in-24 (2017)
 [![Go Report Card](https://goreportcard.com/badge/github.com/shapeshed/golang-book-examples)](https://goreportcard.com/report/github.com/shapeshed/golang-book-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/shapeshed/golang-book-examples.svg)](https://github.com/shapeshed/golang-book-examples/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--22-blue.svg)](corpus/shapeshed/golang-book-examples)  
-[⏮️](#gobyes)[⏪](#pktsecurity-go-2018)[⏩](#simonwaldherrgolang-examples)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#rosettacode-to-gotasks)[⏩](#simonwaldherrgolang-examples)[⏭️](#eop)  
 Here you find the sourcecode of one of the best structured book: "Go in 24 hours". If you are in hurry, this one is for you.  
 [TOC](docs)  
 [HP](http://www.informit.com/store/go-in-24-hours-sams-teach-yourself-next-generation-9780134771977)  
