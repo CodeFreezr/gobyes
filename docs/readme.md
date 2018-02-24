@@ -12,4 +12,4 @@ Expect some experiments with
 - [ ] vuejs components
 - [ ] D3
 - [ ] gephi
-* ...
+
