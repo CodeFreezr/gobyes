@@ -474,7 +474,7 @@ Abstract: Smart Description will be written here ...
 [![Go Report Card](https://goreportcard.com/badge/github.com/PacktPublishing/Security-with-Go)](https://goreportcard.com/report/github.com/PacktPublishing/Security-with-Go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/PacktPublishing/Security-with-Go.svg)](https://github.com/PacktPublishing/Security-with-Go/)
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/PacktPublishing/Security-with-Go)  
-[⏮️](#gobyes)[⏪](#pktmachinelearning-go-2017)[⏩](#shapeshedgo-in-24-2017)[⏭️](#eop)  
+[⏮️](#gobyes)[⏪](#pktmachinelearning-go-2017)[⏩](#rosettacode-to-gotasks)[⏭️](#eop)  
 Title: Security-with-Go  
 Author(s): John Daniel Leon  
 Abstract: Smart Description will be written here ...  
