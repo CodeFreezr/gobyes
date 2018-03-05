@@ -68,7 +68,11 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
     </tr>
 </table>
 
-Find more repos which need some <3 here: https://github.com/CodeFreezr/gobyes-incubator
+
+
+ Find more repos which need some <3 [here](https://github.com/CodeFreezr/gobyes-incubator)
+
+
 ---
 </br>  
 </br> 
