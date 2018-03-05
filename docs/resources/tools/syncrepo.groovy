@@ -1,4 +1,5 @@
 // Downloads a repo, decoupled it, sloc it and copy to a destination
+// groovy syncrepo [user] [repo]
 
 // 2do: User os.FileSeperator ...
 // 2do: run headcom / playgrounder etc. pp.
@@ -35,9 +36,7 @@ ant = new AntBuilder()
 ant.sequential {
   delete(file:repo + '\\.gitignore')  
   delete(dir:repo + '\\.git')  
-  move (todir: tempDir + "\\" + user + "\\" + repo) {
-    fileset (dir: repo)
-  }
+  //move (todir: tempDir + "\\" + user + "\\" + repo) {fileset (dir: repo)}
 }
 
 println "Sync: done."
