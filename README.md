@@ -339,7 +339,7 @@ Around 14 snippets of example golang code to help teach certain concepts.
 ### nathany.get-programming-with-go (upcoming)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nathany/get-programming-with-go)](https://goreportcard.com/report/github.com/nathany/get-programming-with-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nathany/get-programming-with-go.svg)](https://github.com/nathany/get-programming-with-go/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/nathany/get-programming-with-go)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--05-blue.svg)](corpus/nathany/get-programming-with-go)  
 [⏮️](#gobyes)[⏪](#mshindletidbits)[⏩](#pktbuild-restful-2017)[⏭️](#eop)  
 Find here the sourcecodes of this upcoming book in 2018 "Get Programming in Go" in MEAP-State.  
 [TOC](docs)  
