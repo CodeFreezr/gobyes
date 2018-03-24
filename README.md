@@ -21,8 +21,8 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#adonovangopl-2015"><b>adonovan.gopl</b></a> <a href="https://github.com/adonovan/gopl.io/"><img src="docs/resources/github-sociocon.png" width="18"></a></li> 
                 <li><a href="#agtorrego-cookbook-2017"><b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#apressgo-recipes-2016"><b>apress.go-recipes</b></a> <a href="https://github.com/Apress/go-recipes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#arschlesgo-in-5-minutes"><b>!arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#astaxiebuild-web-with-go"><b>!astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#arschlesgo-in-5-minutes"><b>arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstabwag"><b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstaessential-go"><b>codegangsta.essential</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
@@ -30,7 +30,7 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#goes211golang-web-dev"><b>!goes211.golang-web-dev</b></a> <a href="https://github.com/GoesToEleven/golang-web-dev"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goinactioncode-2015"><b>goinaction.code (2015)</b> <a href="https://github.com/goinaction/code"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#golangexample"><b>golang.example</b></a> <a href="https://github.com/golang/example"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#golangtour"><b>!golang.tour</b></a> <a href="https://github.com/golang/tour"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#golangtour"><b>golang.tour</b></a> <a href="https://github.com/golang/tour"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#golangsamanytype"><b>golangsam.anytype</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#jochasingagolang-book"><b>jochasinga.golang-book</b> <a href="https://github.com/jochasinga/golang-book"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
             </ol>
@@ -62,7 +62,7 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#rosettacode-to-gotasks"><b>rosettacode-to.go.tasks</b> <a href="https://github.com/codefreezr/rosettacode-to-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#shapeshedgo-in-24-2017"><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#simonwaldherrgolang-examples"><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>!thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#xusiweilearn-golang"><b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
             </ol>
         </td>
@@ -120,7 +120,7 @@ In 8 chapters and 83 go files your find a wide range of really usefull examples.
 
 ### arschles.go-in-5-minutes  
 [![Go Report Card](https://goreportcard.com/badge/github.com/arschles/go-in-5-minutes)](https://goreportcard.com/report/github.com/arschles/go-in-5-minutes)  [![GitHub last commit](https://img.shields.io/github/last-commit/arschles/go-in-5-minutes.svg)](https://github.com/arschles/go-in-5-minutes)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--22-blue.svg)](corpus/arschles/go-in-5-minutes)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/arschles/go-in-5-minutes)  
 [⏮️](#gobyes)[⏪](#apressgo-recipes-2016)[⏩](#astaxiebuild-web-with-go)[⏭️](#eop)  
 Find short in all code examples 5 Minutes Screencasts, linked via badge, which gives you a fast inside on specific topics. Great source for digging deeper into go.  
 [TOC](https://www.goin5minutes.com/screencasts/)  
@@ -132,7 +132,7 @@ Find short in all code examples 5 Minutes Screencasts, linked via badge, which g
 ### astaxie.build-web-with-go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/astaxie/build-web-application-with-golang)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/astaxie/build-web-application-with-golang)  
 [⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012)[⏭️](#eop)  
 Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
 [TOC](docs)  
@@ -234,7 +234,7 @@ This is the official example collection with around 18 bit more complex examples
 ### golang.tour
 [![Go Report Card](https://goreportcard.com/badge/github.com/golang/tour)](https://goreportcard.com/report/github.com/golang/tour)
 [![GitHub last commit](https://img.shields.io/github/last-commit/golang/tour.svg)](https://github.com/golang/tour)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/golang/tour)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/golang/tour)  
 [⏮️](#gobyes)[⏪](#golangexample)[⏩](#golangsamanytype)[⏭️](#eop)  
 This is the repo of the "A Tour of Go". One of the first thing you have to play with if you want to try go. It's an awesome interactive online tour which explains a lot of go aspects, starting with a "Hello World" and not ending with this damn c-like pointer stuff.  
 [TOC](docs)  
@@ -543,7 +543,7 @@ Simons gobye repository is one of the most comprehensive one. It is divided into
 ### thewhitetulip.web-dev-golang-anti-textbook
 [![Go Report Card](https://goreportcard.com/badge/github.com/thewhitetulip/web-dev-golang-anti-textbook)](https://goreportcard.com/report/github.com/thewhitetulip/web-dev-golang-anti-textbook)
 [![GitHub last commit](https://img.shields.io/github/last-commit/thewhitetulip/web-dev-golang-anti-textbook.svg)](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--03-blue.svg)](corpus/thewhitetulip/web-dev-golang-anti-textbook)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/thewhitetulip/web-dev-golang-anti-textbook)  
 [⏮️](#gobyes)[⏪](#simonwaldherrgolang-examples)[⏩](#xusiweilearn-golang)[⏭️](#eop)  
 Find within this project Video-Screencasts, gitbook or a leanpub download.  
 [TOC](docs)  
