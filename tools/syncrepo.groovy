@@ -36,7 +36,7 @@ ant = new AntBuilder()
 ant.sequential {
   delete(file:repo + '\\.gitignore')  
   delete(dir:repo + '\\.git')  
-  move (todir: corpusDir + "\\" + user + "\\" + repo) {fileset (dir: repo)}
+  move (todir: tempDir + "\\" + user + "\\" + repo) {fileset (dir: repo)}
 }
 
 println "Sync: done."
