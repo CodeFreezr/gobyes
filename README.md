@@ -21,16 +21,16 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#adonovangopl-2015"><b>adonovan.gopl</b></a> <a href="https://github.com/adonovan/gopl.io/"><img src="docs/resources/github-sociocon.png" width="18"></a></li> 
                 <li><a href="#agtorrego-cookbook-2017"><b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#apressgo-recipes-2016"><b>apress.go-recipes</b></a> <a href="https://github.com/Apress/go-recipes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#arschlesgo-in-5-minutes"><b>arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#arschlesgo-in-5-minutes"><b>!arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#astaxiebuild-web-with-go"><b>!astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstabwag"><b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstaessential-go"><b>codegangsta.essential</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goes211golangtraining"><b>goes211.golangtraining</b></a> <a href="https://github.com/GoesToEleven/GolangTraining"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#goes211golang-web-dev"><b>goes211.golang-web-dev</b></a> <a href="https://github.com/GoesToEleven/golang-web-dev"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#goes211golang-web-dev"><b>!goes211.golang-web-dev</b></a> <a href="https://github.com/GoesToEleven/golang-web-dev"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goinactioncode-2015"><b>goinaction.code (2015)</b> <a href="https://github.com/goinaction/code"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#golangexample"><b>golang.example</b></a> <a href="https://github.com/golang/example"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#golangtour"><b>golang.tour</b></a> <a href="https://github.com/golang/tour"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#golangtour"><b>!golang.tour</b></a> <a href="https://github.com/golang/tour"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#golangsamanytype"><b>golangsam.anytype</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#jochasingagolang-book"><b>jochasinga.golang-book</b> <a href="https://github.com/jochasinga/golang-book"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
             </ol>
@@ -62,7 +62,7 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#rosettacode-to-gotasks"><b>rosettacode-to.go.tasks</b> <a href="https://github.com/codefreezr/rosettacode-to-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#shapeshedgo-in-24-2017"><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#simonwaldherrgolang-examples"><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>!thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#xusiweilearn-golang"><b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
             </ol>
         </td>
