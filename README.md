@@ -494,10 +494,10 @@ Abstract: Smart Description will be written here ...
 
 ### quii.learn-go-with-tests
 [![Go Report Card](https://goreportcard.com/badge/github.com/quii/learn-go-with-tests)](https://goreportcard.com/report/github.com/quii/learn-go-with-tests) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/quii/learn-go-with-tests.svg)](https://github.com/quii/learn-go-with-tests)   
+[![GitHub last commit](https://img.shields.io/github/last-commit/quii/learn-go-with-tests.svg)](https://github.com/quii/learn-go-with-tests) 
 [![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/adonovan/gopl.io)  
 [⏮️](#gobyes)[⏪](#pktsecurity-go-2018)[⏩](#rosettacode-to-gotasks)[⏭️](#eop)  
-Great Idea to learn goland coding from the begining with TDD in mind.  
+Great Idea to learn golang coding from the begining with TDD in mind.  
 [TOC](https://github.com/quii/learn-go-with-tests)  
 [HP](http://www.quii.co.uk/)  
 <img src="docs/resources/covers/quii.jpg" width="200">  
