@@ -8,7 +8,7 @@ package tag
 // DO NOT EDIT - Improve the pattern!
 
 import (
-	"github.com/golangsam/container/ccsafe/tag"
+	"github.com/GoLangsam/container/ccsafe/tag"
 )
 
 // Note: originally inspired by parts of "cmd/doc/dirs.go"

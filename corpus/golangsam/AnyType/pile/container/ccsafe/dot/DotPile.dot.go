@@ -8,7 +8,7 @@ package dot
 // DO NOT EDIT - Improve the pattern!
 
 import (
-	"github.com/golangsam/container/ccsafe/dot"
+	"github.com/GoLangsam/container/ccsafe/dot"
 )
 
 // Note: originally inspired by parts of "cmd/doc/dirs.go"

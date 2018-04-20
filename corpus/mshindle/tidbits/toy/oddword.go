@@ -2,8 +2,9 @@ package toy
 
 import (
 	"fmt"
-	"github.com/mshindle/tidbits/structures"
 	"unicode"
+
+	"github.com/mshindle/tidbits/structures"
 )
 
 // Oddword prints out the text with each oddword reversed. From the
@@ -24,7 +25,6 @@ func Oddword(text string) {
 
 	// l becomes our input stream of characters which we need to process
 	a := []rune(text)
-	fmt.Printf(" Output runes: %v\n", a)
 	l := listFromRunes(a)
 
 	fmt.Print("Output string: ")

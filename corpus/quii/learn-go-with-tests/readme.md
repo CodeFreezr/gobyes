@@ -1,12 +1,16 @@
-# Learn Go with Tests
+# Learn Go with tests
 
-[![Build Status](https://travis-ci.org/quii/learn-go-with-tests.svg?branch=master)](https://travis-ci.org/quii/learn-go-with-tests)
+_Or learn test-driven development with Go_
+
+![Build Status](https://travis-ci.org/quii/learn-go-with-tests.svg?branch=master)
+
+[You can read this on Gitbook](https://quii.gitbook.io/learn-go-with-tests)
 
 ## Why
 
-- Explore the Go language by writing tests
-- Get a grounding with TDD. Go is a good language for learning TDD because it is a simple language to learn and testing is built in
-- Be confident that you'll be able to start writing robust, well tested systems in Go
+* Explore the Go language by writing tests
+* **Get a grounding with TDD**. Go is a good language for learning TDD because it is a simple language to learn and testing is built in
+* Be confident that you'll be able to start writing robust, well tested systems in Go
 
 ## Table of contents
 
@@ -14,33 +18,34 @@ If there's no link, it's not done yet! [why not contribute?](contributing.md)
 
 ### Go fundamentals
 
-0. todo: Install Go, set up environment for productivity.
-1. [Hello, world](/hello-world) - Declaring variables, constants, if/else statements, switch, write your first go program and write your first test. Sub-test syntax and closures.
-2. [Integers](/integers) - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.
-3. [Iteration](/for) - Learn about `for` and benchmarking.
-4. [Arrays and slices](/arrays) - Learn about arrays, slices, `len`, varargs, `range` and test coverage.
-5. [Structs, methods & interfaces (WIP)](/structs) - Learn about `struct`, methods, `interface` and table driven tests.
-6. Pointers
-7. [Dependency Injection & interfaces (WIP)](/di-and-interfaces) - Learn about dependency injection, how it relates to using interfaces and a primer on io
-8. Concurrency (WIP)
-9. Errors
+1. [Install Go](install-go.md) - Set up environment for productivity.
+2. [Hello, world](hello-world.md) - Declaring variables, constants, if/else statements, switch, write your first go program and write your first test. Sub-test syntax and closures.
+3. [Integers](integers.md) - Further Explore function declaration syntax and learn new ways to improve the documentation of your code.
+4. [Iteration](iteration.md) - Learn about `for` and benchmarking.
+5. [Arrays and slices](arrays-and-slices.md) - Learn about arrays, slices, `len`, varargs, `range` and test coverage.
+6. [Structs, methods & interfaces](structs-methods-and-interfaces.md) - Learn about `struct`, methods, `interface` and table driven tests.
+7. [Pointers & errors](pointers-and-errors.md) - Learn about pointers and errors.
+8. [Dependency Injection](dependency-injection.md) - Learn about dependency injection, how it relates to using interfaces and a primer on io.
+9. [Mocking](mocking.md) - Take some existing untested code and use DI with mocking to test it.
+10. [Concurrency](concurrency.md) - Learn how to write concurrent code to make your software faster.
+11. [Select](select.md) - Learn how to synchronise asynchronous processes elegantly.
 
-Property based tests (todo)
+Property based tests \(todo\)
 
 ### Standard lib essentials
 
-- `io`
-- HTTP client
-- HTTP server
-- JSON marhshalling
-- `time`
-- Sorting
+* `io`
+* HTTP client
+* HTTP server
+* JSON marhshalling
+* `time`
+* Sorting
 
 ## Contributing
 
-- *This project is work in progress* If you would like to contribute, please do get in touch.
-- Read [contributing.md](contributing.md) for guidelines
-- Any ideas? Create an issue
+* _This project is work in progress_ If you would like to contribute, please do get in touch.
+* Read [contributing.md](https://github.com/quii/learn-go-with-tests/tree/842f4f24d1f1c20ba3bb23cbc376c7ca6f7ca79a/contributing.md) for guidelines
+* Any ideas? Create an issue
 
 ## Background
 
@@ -57,6 +62,7 @@ I love this book but it requires a high level of commitment. The book is very de
 I found that whilst a small number of people would read chapter X and do the exercises, many people didn't.
 
 #### Solve some problems
+
 Katas are fun but they are usually limited in their scope for learning a language; you're unlikely to use go routines to solve a kata.
 
 Another problem is when you have varying levels of enthusiasm. Some people just learn way more of the language than others and when demonstrating what they have done end up confusing people with featues the others are not familiar with.
@@ -74,7 +80,8 @@ This to me seems analogous to practicing scales when trying to learn guitar.
 It doesn't matter how artistic you think you are, you are unlikely to write good music without understanding the fundamentals and practicing the mechanics.
 
 ### What works for me
-When *I* learn a new programming language I usually start by messing around in a REPL but eventually I need more structure.
+
+When _I_ learn a new programming language I usually start by messing around in a REPL but eventually I need more structure.
 
 What I like to do is explore concepts and then solidify the ideas with tests. Tests verify the code I write is correct and documents the feature I have learned.
 
@@ -82,17 +89,21 @@ Taking my experience of learning with a group and my own personal way I am going
 
 ## Who this is for
 
-- People who are interested in picking up Go
-- People who already know some Go, but want to explore testing more
+* People who are interested in picking up Go
+* People who already know some Go, but want to explore testing more
 
 ## What you'll need
 
-- A computer!
-- [Installed Go](https://golang.org/)
-- A text editor
-- Some experience with programming. Understanding of concepts like `if`, variables, functions etc.
-- Comfortable with using the terminal
+* A computer!
+* [Installed Go](https://golang.org/)
+* A text editor
+* Some experience with programming. Understanding of concepts like `if`, variables, functions etc.
+* Comfortable with using the terminal
 
 ## Feedback
 
-- Add issues or [tweet me @quii](https://twitter.com/quii)
+* Add issues or [tweet me @quii](https://twitter.com/quii)
+
+[MIT license](LICENSE.md)
+
+[Logo is by egonelbre](https://github.com/egonelbre) What a star!
