@@ -22,14 +22,14 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#agtorrego-cookbook-2017"><b>agtorre.go-cookbook</b> <a href="https://github.com/agtorre/go-cookbook"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#apressgo-recipes-2016"><b>apress.go-recipes</b></a> <a href="https://github.com/Apress/go-recipes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#arschlesgo-in-5-minutes"><b>arschles.go-in-5-minutes</b></a> <a href="https://github.com/arschles/go-in-5-minutes"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#astaxiebuild-web-with-go"><b>astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li>1 <a href="#astaxiebuild-web-with-go"><b>astaxie.build-web</b></a><a href="https://github.com/astaxie/build-web-application-with-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#chisnallphrasebook-2012"><b>chisnall.phrasebook</b> <a href="https://github.com/CodeFreezr/phrasebook"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstabwag"><b>codegangsta.bwag</b> <a href="https://github.com/codegangsta/bwag"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#codegangstaessential-go"><b>codegangsta.essential</b></a> <a href="https://github.com/codegangsta/essential-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goes211golangtraining"><b>goes211.golangtraining</b></a> <a href="https://github.com/GoesToEleven/GolangTraining"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goes211golang-web-dev"><b>!goes211.golang-web-dev</b></a> <a href="https://github.com/GoesToEleven/golang-web-dev"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#goinactioncode-2015"><b>goinaction.code (2015)</b> <a href="https://github.com/goinaction/code"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#golangexample"><b>golang.example</b></a> <a href="https://github.com/golang/example"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li>2 <a href="#golangexample"><b>golang.example</b></a> <a href="https://github.com/golang/example"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#golangtour"><b>golang.tour</b></a> <a href="https://github.com/golang/tour"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#golangsamanytype"><b>golangsam.anytype</b> <a href="https://github.com/GoLangsam/AnyType/tree/master/pile"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#jochasingagolang-book"><b>jochasinga.golang-book</b> <a href="https://github.com/jochasinga/golang-book"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
@@ -40,9 +40,9 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#katconcurrency-go"><b>kat.concurrency-go</b></a> <a href="https://github.com/kat-co/concurrency-in-go-src"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#mstrmndsgo-in-practice-2016"><b>mstrmnds.go-in-practice</b> <a href="https://github.com/Masterminds/go-in-practice"><img src="docs/resources/github-sociocon.png" width="18"></a></li>   
                 <li><a href="#matryergoblueprints"><b>matryer.goblueprints</b> <a href="https://github.com/matryer/goblueprints"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#mkazworking-with-go"><b>mkaz.working-with-go</b></a> <a href="https://github.com/mkaz/working-with-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li>3 <a href="#mkazworking-with-go"><b>mkaz.working-with-go</b></a> <a href="https://github.com/mkaz/working-with-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#mmcgranagobyexample"><b>mmcgrana.gobyexample</b></a> <a href="https://github.com/mmcgrana/gobyexample"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#mshindletidbits"><b>mshindle.tidbits</b></a> <a href="https://github.com/mshindle/tidbits"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li>4 <a href="#mshindletidbits"><b>mshindle.tidbits</b></a> <a href="https://github.com/mshindle/tidbits"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#nathanyget-programming-with-go-upcoming"><b>nathany.get-programming</b> <a href="https://github.com/nathany/get-programming-with-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktbuild-restful-2017"><b>pkt.build-restful (2017)</b></a>  <a href="https://github.com/PacktPublishing/Building-RESTful-Web-Services-with-Go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktgo-build-7-apps-2017"><b>pkt.go-build-7-apps (2017)</b></a>  <a href="https://github.com/PacktPublishing/Go-Building-7-Real-World-Projects"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
@@ -58,10 +58,10 @@ Find the origin github repos behind <img src="docs/resources/github-sociocon.png
                 <li><a href="#pktlearning-go-2016"><b>pkt.learning-go (2016)</b></a>  <a href="https://github.com/PacktPublishing/Learning-Go-Programming"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktmachinelearning-go-2017"><b>pkt.machinelearning-go (2017)</b></a>  <a href="https://github.com/PacktPublishing/Machine-Learning-With-Go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#pktsecurity-go-2018"><b>pkt.security-go (2018)</b></a>  <a href="https://github.com/PacktPublishing/Security-with-Go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
-                <li><a href="#quiilearn-go-with-tests"><b>quii.learn-go-with-tests</b></a>  <a href="https://github.com/quii/learn-go-with-tests"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li>5 <a href="#quiilearn-go-with-tests"><b>quii.learn-go-with-tests</b></a>  <a href="https://github.com/quii/learn-go-with-tests"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#rosettacode-to-gotasks"><b>rosettacode-to.go.tasks</b> <a href="https://github.com/codefreezr/rosettacode-to-go"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
                 <li><a href="#shapeshedgo-in-24-2017"><b>shapeshed.go-in-24</b> <a href="https://github.com/shapeshed/golang-book-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>  
-                <li><a href="#simonwaldherrgolang-examples"><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
+                <li>6 <a href="#simonwaldherrgolang-examples"><b>SimonWaldherr.golang-examples</b> <a href="https://github.com/SimonWaldherr/golang-examples"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#thewhitetulipweb-dev-golang-anti-textbook"><b>thewhitetulip.anti-textbook</b> <a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
                 <li><a href="#xusiweilearn-golang"><b>xusiwei.learn-golang</b> <a href="https://github.com/xusiwei/learn-golang"><img src="docs/resources/github-sociocon.png" width="18"></a></li>
             </ol>
