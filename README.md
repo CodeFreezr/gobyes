@@ -132,7 +132,7 @@ Find short in all code examples 5 Minutes Screencasts, linked via badge, which g
 ### astaxie.build-web-with-go  
 [![Go Report Card](https://goreportcard.com/badge/github.com/astaxie/build-web-application-with-golang)](https://goreportcard.com/report/github.com/astaxie/build-web-application-with-golang)
 [![GitHub last commit](https://img.shields.io/github/last-commit/astaxie/build-web-application-with-golang.svg)](https://github.com/astaxie/build-web-application-with-golang)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/astaxie/build-web-application-with-golang)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--04--20-blue.svg)](corpus/astaxie/build-web-application-with-golang)  
 [⏮️](#gobyes)[⏪](#arschlesgo-in-5-minutes)[⏩](#chisnallphrasebook-2012)[⏭️](#eop)  
 Great multilingual international project with a good community. Backuped by the https://beego.me/ guys. If you have time it's worth to check the GoCodeReport and add some enhancing pull requests.  
 [TOC](docs)  
@@ -246,7 +246,7 @@ This is the repo of the "A Tour of Go". One of the first thing you have to play 
 ### golangsam.anytype
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoLangsam/AnyType)](https://goreportcard.com/report/github.com/GoLangsam/AnyType)
 [![GitHub last commit](https://img.shields.io/github/last-commit/GoLangsam/AnyType.svg)](https://github.com/GoLangsam/AnyType/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--06-blue.svg)](corpus/golangsam/AnyType)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--04--20-blue.svg)](corpus/golangsam/AnyType)  
 [⏮️](#gobyes)[⏪](#golangtour)[⏩](#jochasingagolang-book)[⏭️](#eop)  
 Templates, and ready-to-use go lang source files - generated with dotgo. Here is important not to read the generated stuff, but to understand the mechanic of generation.  
 [TOC](docs)  
@@ -306,7 +306,7 @@ Expect nearly 90 go files organised in 11 chapters in this awesome lecture about
 ### mkaz.working-with-go
 [![Go Report Card](https://goreportcard.com/badge/github.com/mkaz/working-with-go)](https://goreportcard.com/report/github.com/mkaz/working-with-go)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mkaz/working-with-go.svg)](https://github.com/mkaz/working-with-go/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--21-blue.svg)](corpus/mkaz/working-with-go)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--04--20-blue.svg)](corpus/mkaz/working-with-go)  
 [⏮️](#gobyes)[⏪](#matryergoblueprints)[⏩](#mmcgranagobyexample)[⏭️](#eop)  
 Over 20 well documented code examples, with an extra section for the euler mathematix fans.  
 [TOC](docs)  
@@ -330,7 +330,7 @@ The Mother of all GoBye's with over 60 go examples.
 ### mshindle.tidbits
 [![Go Report Card](https://goreportcard.com/badge/github.com/mshindle/tidbits)](https://goreportcard.com/report/github.com/mshindle/tidbits)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mshindle/tidbits.svg)](https://github.com/mshindle/tidbits/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--02--22-blue.svg)](corpus/mshindle/tidbits)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--04--20-blue.svg)](corpus/mshindle/tidbits)  
 [⏮️](#gobyes)[⏪](#mmcgranagobyexample)[⏩](#nathanyget-programming-with-go-upcoming)[⏭️](#eop)  
 Around 14 snippets of example golang code to help teach certain concepts.     
 [TOC](docs)  
@@ -495,7 +495,7 @@ Abstract: Smart Description will be written here ...
 ### quii.learn-go-with-tests
 [![Go Report Card](https://goreportcard.com/badge/github.com/quii/learn-go-with-tests)](https://goreportcard.com/report/github.com/quii/learn-go-with-tests) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/quii/learn-go-with-tests.svg)](https://github.com/quii/learn-go-with-tests) 
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--03--24-blue.svg)](corpus/adonovan/gopl.io)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--04--20-blue.svg)](corpus/adonovan/gopl.io)  
 [⏮️](#gobyes)[⏪](#pktsecurity-go-2018)[⏩](#rosettacode-to-gotasks)[⏭️](#eop)  
 Great Idea to learn golang coding from the begining with TDD in mind.  
 [TOC](https://github.com/quii/learn-go-with-tests)  
@@ -531,7 +531,7 @@ Here you find the sourcecode of one of the best structured book: "Go in 24 hours
 ### simonwaldherr.golang-examples
 [![Go Report Card](https://goreportcard.com/badge/github.com/SimonWaldherr/golang-examples)](https://goreportcard.com/report/github.com/SimonWaldherr/golang-examples)
 [![GitHub last commit](https://img.shields.io/github/last-commit/SimonWaldherr/golang-examples.svg)](https://github.com/SimonWaldherr/golang-examples/)
-[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--01--22-blue.svg)](corpus/simonWaldherr/golang-examples)  
+[![gobye synced at](https://img.shields.io/badge/gobeyd-2018--04--20-blue.svg)](corpus/simonWaldherr/golang-examples)  
 [⏮️](#gobyes)[⏪](#shapeshedgo-in-24-2017)[⏩](#thewhitetulipweb-dev-golang-anti-textbook)[⏭️](#eop)  
 Simons gobye repository is one of the most comprehensive one. It is divided into three sections: beginner (38), advanced (54) & expert (22).  
 [TOC](docs)  
